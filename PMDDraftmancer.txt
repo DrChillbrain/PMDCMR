@@ -1,0 +1,3186 @@
+[CustomCards]
+	[    {
+	        "name": "Hero of Flourishing Life",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Legendary Creature — Dinosaur Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Flourishing Life.png"
+	        }
+	    },
+	    {
+	        "name": "Rugged Endurance",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rugged Endurance.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Blazing Will",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Creature — Lizard Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Blazing Will.png"
+	        }
+	    },
+	    {
+	        "name": "Mystery of the Relic",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mystery of the Relic.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Bold Cunning",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Turtle Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Bold Cunning.png"
+	        }
+	    },
+	    {
+	        "name": "Enthusiastic Scout",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Plant Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Enthusiastic Scout.png"
+	        }
+	    },
+	    {
+	        "name": "Discharge",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Discharge.png"
+	        }
+	    },
+	    {
+	        "name": "All-Out Brawl",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/All-Out Brawl.png"
+	        }
+	    },
+	    {
+	        "name": "Through the Sea of Time",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Through the Sea of Time.png"
+	        }
+	    },
+	    {
+	        "name": "All for One",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/All for One.png"
+	        }
+	    },
+	    {
+	        "name": "Meeting of Explorers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Meeting of Explorers.png"
+	        }
+	    },
+	    {
+	        "name": "Bring to Justice",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Bring to Justice.png"
+	        }
+	    },
+	    {
+	        "name": "Eternal Oath",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Eternal Oath.png"
+	        }
+	    },
+	    {
+	        "name": "Crystal Crossing",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Crystal Crossing.png"
+	        }
+	    },
+	    {
+	        "name": "Mystifying Forest",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mystifying Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Drilbur Coal Mine",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Drilbur Coal Mine.png"
+	        }
+	    },
+	    {
+	        "name": "Dimensional Scream",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dimensional Scream.png"
+	        }
+	    },
+	    {
+	        "name": "Buried Relic",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Buried Relic.png"
+	        }
+	    },
+	    {
+	        "name": "Vast Ice Mountain",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Vast Ice Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "Mount Thunder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mount Thunder.png"
+	        }
+	    },
+	    {
+	        "name": "Charge Beam",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Charge Beam.png"
+	        }
+	    },
+	    {
+	        "name": "Apple Woods",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Apple Woods.png"
+	        }
+	    },
+	    {
+	        "name": "Ditzy Bartender",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Bear Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ditzy Bartender.png"
+	        }
+	    },
+	    {
+	        "name": "Blizzard Island",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Blizzard Island.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Thunderous Defiance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Mouse Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Thunderous Defiance.png"
+	        }
+	    },
+	    {
+	        "name": "Merchant Caravan",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Horse Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Merchant Caravan.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Gilded Trickery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Legendary Creature — Cat Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Gilded Trickery.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Incendiary Unity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Creature — Mouse Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Incendiary Unity.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Furtive Might",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Legendary Creature — Crocodile Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Furtive Might.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Eager Spirit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Creature — Salamander Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Eager Spirit.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Intrepid Aspiration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Legendary Creature — Bird Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Intrepid Aspiration.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Verdant Guile",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Legendary Creature — Lizard Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Verdant Guile.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Courageous Aura",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Legendary Creature — Jackal Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Courageous Aura.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Fierce Nobility",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Bird Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Fierce Nobility.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Covetous Impulse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Legendary Creature — Monkey Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Covetous Impulse.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Radiant Growth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Legendary Creature — Turtle Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Radiant Growth.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Fearsome Wilds",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Legendary Creature — Snake Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Fearsome Wilds.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Daring Guardianship",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Creature — Otter Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Daring Guardianship.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Untamed Strength",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Legendary Creature — Elephant Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Untamed Strength.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Strange Magics",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Legendary Creature — Fox Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Strange Magics.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Subtle Mischief",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{B}",
+	        "type": "Legendary Creature — Frog Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Subtle Mischief.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Girded Leadership",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Legendary Creature — Squirrel Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Girded Leadership.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Odd Imagination",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Legendary Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Odd Imagination.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Sparking Soul",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Creature — Cat Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Sparking Soul.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Ghostly Communion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Legendary Creature — Fox Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Ghostly Communion.png"
+	        }
+	    },
+	    {
+	        "name": "Power of Evolution",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Power of Evolution.png"
+	        }
+	    },
+	    {
+	        "name": "Parting",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Parting.png"
+	        }
+	    },
+	    {
+	        "name": "Mend Wounds",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mend Wounds.png"
+	        }
+	    },
+	    {
+	        "name": "Dungeoneer Guide",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Faerie Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeoneer Guide.png"
+	        }
+	    },
+	    {
+	        "name": "Roughousing Whelp",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Dragon Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Roughousing Whelp.png"
+	        }
+	    },
+	    {
+	        "name": "Dark Crater",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dark Crater.png"
+	        }
+	    },
+	    {
+	        "name": "Crystal Formation",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Crystal Formation.png"
+	        }
+	    },
+	    {
+	        "name": "Howl",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Howl.png"
+	        }
+	    },
+	    {
+	        "name": "Temporal Struggle",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Temporal Struggle.png"
+	        }
+	    },
+	    {
+	        "name": "Aura Sphere",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aura Sphere.png"
+	        }
+	    },
+	    {
+	        "name": "Droning Study",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Droning Study.png"
+	        }
+	    },
+	    {
+	        "name": "Draconic Veteran",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}{B}",
+	        "type": "Creature — Dragon Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Draconic Veteran.png"
+	        }
+	    },
+	    {
+	        "name": "Yveltal of the Voidlands",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Legendary Creature — Bird Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Yveltal of the Voidlands.png"
+	        }
+	    },
+	    {
+	        "name": "Sky Tower",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sky Tower.png"
+	        }
+	    },
+	    {
+	        "name": "Tree of Life",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "Enchantment Land — Forest Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Tree of Life.png"
+	        }
+	    },
+	    {
+	        "name": "Glacier Palace",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Glacier Palace.png"
+	        }
+	    },
+	    {
+	        "name": "Dialga's Fight to the Finish",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dialga's Fight to the Finish.png"
+	        }
+	    },
+	    {
+	        "name": "Boon of the Wish-Giver",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Boon of the Wish-Giver.png"
+	        }
+	    },
+	    {
+	        "name": "Star Cave",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Star Cave.png"
+	        }
+	    },
+	    {
+	        "name": "Skittering Plunderer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Scorpion Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Skittering Plunderer.png"
+	        }
+	    },
+	    {
+	        "name": "Icy Trickster",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Cat Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Icy Trickster.png"
+	        }
+	    },
+	    {
+	        "name": "Rescue Headquarters",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rescue Headquarters.png"
+	        }
+	    },
+	    {
+	        "name": "Helpless Grub",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Helpless Grub.png"
+	        }
+	    },
+	    {
+	        "name": "All Turned Around",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/All Turned Around.png"
+	        }
+	    },
+	    {
+	        "name": "Guild Cuisinier",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Beast Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Guild Cuisinier.png"
+	        }
+	    },
+	    {
+	        "name": "Heroic Intervention",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Heroic Intervention.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Draconic Bravery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Legendary Creature — Dragon Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Draconic Bravery.png"
+	        }
+	    },
+	    {
+	        "name": "Abrupt Awakening",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Abrupt Awakening.png"
+	        }
+	    },
+	    {
+	        "name": "Journey to the Hidden Land",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Journey to the Hidden Land.png"
+	        }
+	    },
+	    {
+	        "name": "A Storm at Sea",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/A Storm at Sea.png"
+	        }
+	    },
+	    {
+	        "name": "Jirachi, the Wishmaker",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Legendary Artifact Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Jirachi, the Wishmaker.png"
+	        }
+	    },
+	    {
+	        "name": "Primal Dialga, the End of Time",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{U}{B}",
+	        "type": "Legendary Artifact Creature — Elder Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Primal Dialga, the End of Time.png"
+	        }
+	    },
+	    {
+	        "name": "The Bittercold",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Legendary Creature — Elemental Incarnation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/The Bittercold.png"
+	        }
+	    },
+	    {
+	        "name": "Dark Matter",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}{B}{B}{B}",
+	        "type": "Legendary Creature — Nightmare Incarnation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dark Matter.png"
+	        }
+	    },
+	    {
+	        "name": "Expedition Rally",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Expedition Rally.png"
+	        }
+	    },
+	    {
+	        "name": "Mew, Thousand-Faced Hero",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}",
+	        "type": "Legendary Creature — Cat Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mew, Thousand-Faced Hero.png"
+	        }
+	    },
+	    {
+	        "name": "Fact or Fiction",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Fact or Fiction.png"
+	        }
+	    },
+	    {
+	        "name": "Hydreigon, the Voice of Life",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}{W}",
+	        "type": "Legendary Creature — Dragon Incarnation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hydreigon, the Voice of Life.png"
+	        }
+	    },
+	    {
+	        "name": "Memories Returned",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Memories Returned.png"
+	        }
+	    },
+	    {
+	        "name": "Aura Bolt",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aura Bolt.png"
+	        }
+	    },
+	    {
+	        "name": "Darkrai, Waking Nightmare",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}",
+	        "type": "Legendary Creature — Nightmare Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Darkrai, Waking Nightmare.png"
+	        }
+	    },
+	    {
+	        "name": "Scholar of the Sun",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Fox Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Scholar of the Sun.png"
+	        }
+	    },
+	    {
+	        "name": "Scholar of the Moon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Fox Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Scholar of the Moon.png"
+	        }
+	    },
+	    {
+	        "name": "Nuzleaf, Servant of Dark Matter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Legendary Creature — Plant Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Nuzleaf, Servant of Dark Matter.png"
+	        }
+	    },
+	    {
+	        "name": "Vengeful Shopkeeper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Lizard Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Vengeful Shopkeeper.png"
+	        }
+	    },
+	    {
+	        "name": "Tearful Reunion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Tearful Reunion.png"
+	        }
+	    },
+	    {
+	        "name": "Psychic Wayfinder",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Cat Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Psychic Wayfinder.png"
+	        }
+	    },
+	    {
+	        "name": "Rayquaza, Lord of the Sky",
+	        "rarity": "mythic",
+	        "mana_cost": "{8}{W}{W}",
+	        "type": "Legendary Creature — Elder Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rayquaza, Lord of the Sky.png"
+	        }
+	    },
+	    {
+	        "name": "Harmony Scarf",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Harmony Scarf.png"
+	        }
+	    },
+	    {
+	        "name": "Virizion, the Solitary Sword",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Legendary Creature — Elk Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Virizion, the Solitary Sword.png"
+	        }
+	    },
+	    {
+	        "name": "Seek Paradise",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Seek Paradise.png"
+	        }
+	    },
+	    {
+	        "name": "Emolga, Impetuous Ally",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Creature — Squirrel Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Emolga, Impetuous Ally.png"
+	        }
+	    },
+	    {
+	        "name": "Ninetales, Bearer of Curses",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Legendary Creature — Fox Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ninetales, Bearer of Curses.png"
+	        }
+	    },
+	    {
+	        "name": "Chatot, Chattering Sycophant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}",
+	        "type": "Legendary Creature — Bird Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Chatot, Chattering Sycophant.png"
+	        }
+	    },
+	    {
+	        "name": "Drowzee, Somnovorous Outlaw",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{B}{R}",
+	        "type": "Legendary Creature — Tapir Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Drowzee, Somnovorous Outlaw.png"
+	        }
+	    },
+	    {
+	        "name": "Ampharos, the Dashing Wanderer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Legendary Creature — Beast Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ampharos, the Dashing Wanderer.png"
+	        }
+	    },
+	    {
+	        "name": "Guildmaster Wigglytuff",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Rabbit Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Guildmaster Wigglytuff.png"
+	        }
+	    },
+	    {
+	        "name": "Munna, Doomspeaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Legendary Creature — Spirit Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Munna, Doomspeaker.png"
+	        }
+	    },
+	    {
+	        "name": "Xatu, Grand Seer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Legendary Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Xatu, Grand Seer.png"
+	        }
+	    },
+	    {
+	        "name": "Alakazam, Ranger of Renown",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Legendary Creature — Fox Wizard Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Alakazam, Ranger of Renown.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Furious Force",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Legendary Creature — Boar Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Furious Force.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Undaunted Discovery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Giant Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Undaunted Discovery.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Tranquil Plenitude",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Legendary Creature — Bear Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Tranquil Plenitude.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Eternal Bonds",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Legendary Creature — Cat Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Eternal Bonds.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Dreaded Night",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Legendary Creature — Dinosaur Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Dreaded Night.png"
+	        }
+	    },
+	    {
+	        "name": "Dusknoir, the Betrayer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Legendary Creature — Spirit Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dusknoir, the Betrayer.png"
+	        }
+	    },
+	    {
+	        "name": "Lopunny of Team Charm",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{G}",
+	        "type": "Legendary Creature — Rabbit Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Lopunny of Team Charm.png"
+	        }
+	    },
+	    {
+	        "name": "Keldeo, Intrepid Soul",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Legendary Creature — Unicorn Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Keldeo, Intrepid Soul.png"
+	        }
+	    },
+	    {
+	        "name": "Absol, Doomsday Messenger",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Legendary Creature — Beast Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Absol, Doomsday Messenger.png"
+	        }
+	    },
+	    {
+	        "name": "Gengar, the Selfish Master",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{G}",
+	        "type": "Legendary Creature — Spirit Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gengar, the Selfish Master.png"
+	        }
+	    },
+	    {
+	        "name": "Mawile, Expedition Archivist",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{W}",
+	        "type": "Legendary Artifact Creature — Faerie Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mawile, Expedition Archivist.png"
+	        }
+	    },
+	    {
+	        "name": "Darkrai's Scheme",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Darkrai's Scheme.png"
+	        }
+	    },
+	    {
+	        "name": "Splendid Origin",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Splendid Origin.png"
+	        }
+	    },
+	    {
+	        "name": "Borrowed Time",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Borrowed Time.png"
+	        }
+	    },
+	    {
+	        "name": "Arcane Spelunker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Fox Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Arcane Spelunker.png"
+	        }
+	    },
+	    {
+	        "name": "Victory Fire",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Victory Fire.png"
+	        }
+	    },
+	    {
+	        "name": "Callous Illuminator",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Rabbit Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Callous Illuminator.png"
+	        }
+	    },
+	    {
+	        "name": "Sparking Seeker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Fox Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sparking Seeker.png"
+	        }
+	    },
+	    {
+	        "name": "Erratic Inferno",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Erratic Inferno.png"
+	        }
+	    },
+	    {
+	        "name": "Its A Monster House",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Its A Monster House.png"
+	        }
+	    },
+	    {
+	        "name": "Soulstoke Channeler",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Dinosaur Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Soulstoke Channeler.png"
+	        }
+	    },
+	    {
+	        "name": "Goblin Gem-Boss",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Goblin Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Goblin Gem-Boss.png"
+	        }
+	    },
+	    {
+	        "name": "Crystalline Feast",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Crystalline Feast.png"
+	        }
+	    },
+	    {
+	        "name": "Mastermind Outlaw",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Insect Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mastermind Outlaw.png"
+	        }
+	    },
+	    {
+	        "name": "Aspect of Jealousy",
+	        "rarity": "rare",
+	        "mana_cost": "{6}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aspect of Jealousy.png"
+	        }
+	    },
+	    {
+	        "name": "Temporal Tower",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Temporal Tower.png"
+	        }
+	    },
+	    {
+	        "name": "Welcome to the Team",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Welcome to the Team.png"
+	        }
+	    },
+	    {
+	        "name": "Aura Bow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aura Bow.png"
+	        }
+	    },
+	    {
+	        "name": "Blossoming Defense",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Blossoming Defense.png"
+	        }
+	    },
+	    {
+	        "name": "Celebi, Temporal Voyager",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Legendary Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Celebi, Temporal Voyager.png"
+	        }
+	    },
+	    {
+	        "name": "Skuntank of Team Skull",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Legendary Creature — Skunk Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Skuntank of Team Skull.png"
+	        }
+	    },
+	    {
+	        "name": "Quagsire, Criminal Reformer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Legendary Creature — Salamander Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Quagsire, Criminal Reformer.png"
+	        }
+	    },
+	    {
+	        "name": "Gardevoir, Spirit Guide",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Legendary Creature — Spirit Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gardevoir, Spirit Guide.png"
+	        }
+	    },
+	    {
+	        "name": "Shaymin of Sky Peak",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Legendary Creature — Plant Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Shaymin of Sky Peak.png"
+	        }
+	    },
+	    {
+	        "name": "Victini, the Wind of Fortune",
+	        "rarity": "mythic",
+	        "mana_cost": "{R}",
+	        "type": "Legendary Creature — Faerie Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Victini, the Wind of Fortune.png"
+	        }
+	    },
+	    {
+	        "name": "Connection Orb",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Connection Orb.png"
+	        }
+	    },
+	    {
+	        "name": "Armaldo, Reformed Renegade",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Creature — Shrimp Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Armaldo, Reformed Renegade.png"
+	        }
+	    },
+	    {
+	        "name": "The Relic Fragment",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/The Relic Fragment.png"
+	        }
+	    },
+	    {
+	        "name": "Archen, Aerial Explorer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}",
+	        "type": "Legendary Creature — Dinosaur Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Archen, Aerial Explorer.png"
+	        }
+	    },
+	    {
+	        "name": "Outlaw Notice Board",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Outlaw Notice Board.png"
+	        }
+	    },
+	    {
+	        "name": "Prepare for the Journey",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Prepare for the Journey.png"
+	        }
+	    },
+	    {
+	        "name": "Misleading Map",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Misleading Map.png"
+	        }
+	    },
+	    {
+	        "name": "Chrome Kidnapper",
+	        "rarity": "common",
+	        "mana_cost": "{7}",
+	        "type": "Artifact Creature — Bird Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Chrome Kidnapper.png"
+	        }
+	    },
+	    {
+	        "name": "Seed Flare",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Seed Flare.png"
+	        }
+	    },
+	    {
+	        "name": "Spacial Rend",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Spacial Rend.png"
+	        }
+	    },
+	    {
+	        "name": "Roar of Time",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Roar of Time.png"
+	        }
+	    },
+	    {
+	        "name": "Dungeon Lurker",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Spider Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeon Lurker.png"
+	        }
+	    },
+	    {
+	        "name": "Lively Town",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Lively Town.png"
+	        }
+	    },
+	    {
+	        "name": "Paradise Sanctum",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Paradise Sanctum.png"
+	        }
+	    },
+	    {
+	        "name": "Barren Valley",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Barren Valley.png"
+	        }
+	    },
+	    {
+	        "name": "Great Canyon",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Great Canyon.png"
+	        }
+	    },
+	    {
+	        "name": "Kyurem's Rampage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Kyurem's Rampage.png"
+	        }
+	    },
+	    {
+	        "name": "Raking Claws",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Raking Claws.png"
+	        }
+	    },
+	    {
+	        "name": "Neutralize",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Neutralize.png"
+	        }
+	    },
+	    {
+	        "name": "Rainbow Stoneship",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rainbow Stoneship.png"
+	        }
+	    },
+	    {
+	        "name": "Criminal Immolator",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Dog Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Criminal Immolator.png"
+	        }
+	    },
+	    {
+	        "name": "Aerial Escapist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Bird Faerie Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aerial Escapist.png"
+	        }
+	    },
+	    {
+	        "name": "Restock",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Restock.png"
+	        }
+	    },
+	    {
+	        "name": "Thornbite Brawler",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Plant Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Thornbite Brawler.png"
+	        }
+	    },
+	    {
+	        "name": "Feat of Courage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Feat of Courage.png"
+	        }
+	    },
+	    {
+	        "name": "Collectors of Shiny Objects",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Cat Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Collectors of Shiny Objects.png"
+	        }
+	    },
+	    {
+	        "name": "Borderlands Tromper",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact Creature — Dinosaur Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Borderlands Tromper.png"
+	        }
+	    },
+	    {
+	        "name": "Thunderous Showdown",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Thunderous Showdown.png"
+	        }
+	    },
+	    {
+	        "name": "Avian Cartographer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Bird Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Avian Cartographer.png"
+	        }
+	    },
+	    {
+	        "name": "Pilfering Pair",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Spirit Raccoon Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Pilfering Pair.png"
+	        }
+	    },
+	    {
+	        "name": "Kyurem, Agent of Disaster",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Legendary Creature — Elder Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Kyurem, Agent of Disaster.png"
+	        }
+	    },
+	    {
+	        "name": "Notorious Duo",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Elemental Bat Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Notorious Duo.png"
+	        }
+	    },
+	    {
+	        "name": "Chitinous Trailblazer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Insect Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Chitinous Trailblazer.png"
+	        }
+	    },
+	    {
+	        "name": "Lookalike Switcheroo",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Lookalike Switcheroo.png"
+	        }
+	    },
+	    {
+	        "name": "Destiny Tower",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}{B}{R}{G}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Destiny Tower.png"
+	        }
+	    },
+	    {
+	        "name": "Kangaskhan Rock",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Kangaskhan Rock.png"
+	        }
+	    },
+	    {
+	        "name": "Prize Drawing",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Prize Drawing.png"
+	        }
+	    },
+	    {
+	        "name": "Vine Whip",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Vine Whip.png"
+	        }
+	    },
+	    {
+	        "name": "Defend Globe",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Defend Globe.png"
+	        }
+	    },
+	    {
+	        "name": "Mystic Deceiver",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Cat Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mystic Deceiver.png"
+	        }
+	    },
+	    {
+	        "name": "Lumbering Inn",
+	        "rarity": "common",
+	        "mana_cost": "{X}{G}",
+	        "type": "Creature — Plant Turtle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Lumbering Inn.png"
+	        }
+	    },
+	    {
+	        "name": "Xerneas of the Tree of Life",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Legendary Creature — Elder Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Xerneas of the Tree of Life.png"
+	        }
+	    },
+	    {
+	        "name": "Earthquake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Earthquake.png"
+	        }
+	    },
+	    {
+	        "name": "Snowpass Warden",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Treefolk Yeti ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Snowpass Warden.png"
+	        }
+	    },
+	    {
+	        "name": "Unfettered Berserker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Spirit Ape Berserker ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Unfettered Berserker.png"
+	        }
+	    },
+	    {
+	        "name": "Most Wanted",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Most Wanted.png"
+	        }
+	    },
+	    {
+	        "name": "Cinderblade Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Spirit Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Cinderblade Invoker.png"
+	        }
+	    },
+	    {
+	        "name": "Infernal Parade",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Infernal Parade.png"
+	        }
+	    },
+	    {
+	        "name": "Chillwind Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elemental Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Chillwind Invoker.png"
+	        }
+	    },
+	    {
+	        "name": "Soulguide Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Spirit Giant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Soulguide Invoker.png"
+	        }
+	    },
+	    {
+	        "name": "Bleakwood Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Treefolk Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Bleakwood Invoker.png"
+	        }
+	    },
+	    {
+	        "name": "Cryptstone Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Cryptstone Invoker.png"
+	        }
+	    },
+	    {
+	        "name": "Common Crook",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Fox Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Common Crook.png"
+	        }
+	    },
+	    {
+	        "name": "Trick of the Trade",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Trick of the Trade.png"
+	        }
+	    },
+	    {
+	        "name": "Hot Springs Sage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Turtle Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hot Springs Sage.png"
+	        }
+	    },
+	    {
+	        "name": "Mission Mailbox",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mission Mailbox.png"
+	        }
+	    },
+	    {
+	        "name": "Voracious Ooze",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Ooze Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Voracious Ooze.png"
+	        }
+	    },
+	    {
+	        "name": "Nest Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Bird Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Nest Sentinel.png"
+	        }
+	    },
+	    {
+	        "name": "Sonic Shatterer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sonic Shatterer.png"
+	        }
+	    },
+	    {
+	        "name": "Hospitable Drifters",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Spirit Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hospitable Drifters.png"
+	        }
+	    },
+	    {
+	        "name": "Grasp of the Betrayer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Grasp of the Betrayer.png"
+	        }
+	    },
+	    {
+	        "name": "Defy the Legends",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Defy the Legends.png"
+	        }
+	    },
+	    {
+	        "name": "Needlehide Scout",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Hedgehog Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Needlehide Scout.png"
+	        }
+	    },
+	    {
+	        "name": "Canopy Scout",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Spider Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Canopy Scout.png"
+	        }
+	    },
+	    {
+	        "name": "Breaching Bandit",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elemental Fox Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Breaching Bandit.png"
+	        }
+	    },
+	    {
+	        "name": "Sandstorm Historian",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Lizard Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sandstorm Historian.png"
+	        }
+	    },
+	    {
+	        "name": "HAPPI Bureaucrat",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bird Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/HAPPI Bureaucrat.png"
+	        }
+	    },
+	    {
+	        "name": "Defy Disappearance",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Defy Disappearance.png"
+	        }
+	    },
+	    {
+	        "name": "Stair Sense",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Stair Sense.png"
+	        }
+	    },
+	    {
+	        "name": "Titanic Rescuer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Crocodile Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Titanic Rescuer.png"
+	        }
+	    },
+	    {
+	        "name": "Unity Chime",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Spirit Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Unity Chime.png"
+	        }
+	    },
+	    {
+	        "name": "Scalchop Blademaster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Otter Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Scalchop Blademaster.png"
+	        }
+	    },
+	    {
+	        "name": "Stir the Swap Cauldron",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Stir the Swap Cauldron.png"
+	        }
+	    },
+	    {
+	        "name": "Thrall of the Bittercold",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Frog Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Thrall of the Bittercold.png"
+	        }
+	    },
+	    {
+	        "name": "Cutthroat Cohort",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Cat Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Cutthroat Cohort.png"
+	        }
+	    },
+	    {
+	        "name": "Fiery Challenger",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Weasel Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Fiery Challenger.png"
+	        }
+	    },
+	    {
+	        "name": "Curious Runes",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Eye Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Curious Runes.png"
+	        }
+	    },
+	    {
+	        "name": "Ember Gliders",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Bird Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ember Gliders.png"
+	        }
+	    },
+	    {
+	        "name": "Laborer of Paradise",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Giant Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Laborer of Paradise.png"
+	        }
+	    },
+	    {
+	        "name": "Undergrowth Bruiser",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Undergrowth Bruiser.png"
+	        }
+	    },
+	    {
+	        "name": "Evolutionary Aspirant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Serpent Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Evolutionary Aspirant.png"
+	        }
+	    },
+	    {
+	        "name": "Sky Uppercut",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sky Uppercut.png"
+	        }
+	    },
+	    {
+	        "name": "Amp Plains Alpha",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Wolf Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Amp Plains Alpha.png"
+	        }
+	    },
+	    {
+	        "name": "Power Band",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Power Band.png"
+	        }
+	    },
+	    {
+	        "name": "Radiant Aura",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Radiant Aura.png"
+	        }
+	    },
+	    {
+	        "name": "Magnagate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Magnagate.png"
+	        }
+	    },
+	    {
+	        "name": "Astral Atlas",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Astral Atlas.png"
+	        }
+	    },
+	    {
+	        "name": "Personality Test",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Personality Test.png"
+	        }
+	    },
+	    {
+	        "name": "Quest Courier",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Bird Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Quest Courier.png"
+	        }
+	    },
+	    {
+	        "name": "Sugar Rush",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sugar Rush.png"
+	        }
+	    },
+	    {
+	        "name": "Rainbows of Hope",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rainbows of Hope.png"
+	        }
+	    },
+	    {
+	        "name": "Accidental Incineration",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Accidental Incineration.png"
+	        }
+	    },
+	    {
+	        "name": "Faefolk Ironwright",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Gnome Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Faefolk Ironwright.png"
+	        }
+	    },
+	    {
+	        "name": "Gang of Thieves",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Ferret Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gang of Thieves.png"
+	        }
+	    },
+	    {
+	        "name": "Architect of Paradise",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Giant Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Architect of Paradise.png"
+	        }
+	    },
+	    {
+	        "name": "Martial Scamp",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Lizard Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Martial Scamp.png"
+	        }
+	    },
+	    {
+	        "name": "Shifty Capo",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Dryad Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Shifty Capo.png"
+	        }
+	    },
+	    {
+	        "name": "Conniving Lackey",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Snake Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Conniving Lackey.png"
+	        }
+	    },
+	    {
+	        "name": "Marching Formation",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Marching Formation.png"
+	        }
+	    },
+	    {
+	        "name": "Sentry Duty",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sentry Duty.png"
+	        }
+	    },
+	    {
+	        "name": "Travel Liner Pass",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Travel Liner Pass.png"
+	        }
+	    },
+	    {
+	        "name": "Dungeon Navigation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeon Navigation.png"
+	        }
+	    },
+	    {
+	        "name": "Thundering Punks",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Lizard Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Thundering Punks.png"
+	        }
+	    },
+	    {
+	        "name": "Calamitous Meteor",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Calamitous Meteor.png"
+	        }
+	    },
+	    {
+	        "name": "On the Run",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/On the Run.png"
+	        }
+	    },
+	    {
+	        "name": "Mew's Rebirth",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mew's Rebirth.png"
+	        }
+	    },
+	    {
+	        "name": "Hydreigon's Summons",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hydreigon's Summons.png"
+	        }
+	    },
+	    {
+	        "name": "Dusknoir's Redemption",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dusknoir's Redemption.png"
+	        }
+	    },
+	    {
+	        "name": "Laboratory Sentinel",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}{U}",
+	        "type": "Artifact Creature — Robot Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Laboratory Sentinel.png"
+	        }
+	    },
+	    {
+	        "name": "Scourge of the Dunes",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Mongoose Berserker ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Scourge of the Dunes.png"
+	        }
+	    },
+	    {
+	        "name": "Sheer Mountain Range",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sheer Mountain Range.png"
+	        }
+	    },
+	    {
+	        "name": "Gather the Team",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gather the Team.png"
+	        }
+	    },
+	    {
+	        "name": "Eager Adventurer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Raccoon Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Eager Adventurer.png"
+	        }
+	    },
+	    {
+	        "name": "Hidden Land Guide",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Dinosaur Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hidden Land Guide.png"
+	        }
+	    },
+	    {
+	        "name": "Frism",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Frism.png"
+	        }
+	    },
+	    {
+	        "name": "Message from a Friend",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Message from a Friend.png"
+	        }
+	    },
+	    {
+	        "name": "Party Leader",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Weasel Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Party Leader.png"
+	        }
+	    },
+	    {
+	        "name": "Swift Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Frog Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Swift Guardian.png"
+	        }
+	    },
+	    {
+	        "name": "Teleport Gem",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Teleport Gem.png"
+	        }
+	    },
+	    {
+	        "name": "Legendary Treasures",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Legendary Treasures.png"
+	        }
+	    },
+	    {
+	        "name": "Hero of Valiant Audacity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Legendary Creature — Dinosaur Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Valiant Audacity.png"
+	        }
+	    },
+	    {
+	        "name": "Kindly Innkeeper",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Bird Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Kindly Innkeeper.png"
+	        }
+	    },
+	    {
+	        "name": "Aquatic Scout",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Weasel Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aquatic Scout.png"
+	        }
+	    },
+	    {
+	        "name": "Team Badge",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Team Badge.png"
+	        }
+	    },
+	    {
+	        "name": "Conked Out",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Conked Out.png"
+	        }
+	    },
+	    {
+	        "name": "Unlikely Teammate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Bird Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Unlikely Teammate.png"
+	        }
+	    },
+	    {
+	        "name": "Join Forces",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Join Forces.png"
+	        }
+	    },
+	    {
+	        "name": "A Long Way Up",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/A Long Way Up.png"
+	        }
+	    },
+	    {
+	        "name": "Swirling Quicksand",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Swirling Quicksand.png"
+	        }
+	    },
+	    {
+	        "name": "Grovyle, the Thief of Time",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}",
+	        "type": "Legendary Creature — Lizard Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Grovyle, the Thief of Time.png"
+	        }
+	    },
+	    {
+	        "name": "Mystic's Staff",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mystic's Staff.png"
+	        }
+	    },
+	    {
+	        "name": "In the Future of Darkness",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/In the Future of Darkness.png"
+	        }
+	    },
+	    {
+	        "name": "Hired Scoundrel",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Crocodile Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hired Scoundrel.png"
+	        }
+	    },
+	    {
+	        "name": "Terramorphic Expanse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Terramorphic Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Excavations Expert",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Rabbit Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Excavations Expert.png"
+	        }
+	    },
+	    {
+	        "name": "Worldcore Wishes",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Worldcore Wishes.png"
+	        }
+	    },
+	    {
+	        "name": "Bond of Friendship",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Bond of Friendship.png"
+	        }
+	    },
+	    {
+	        "name": "Overburdened Postmaster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Bird Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Overburdened Postmaster.png"
+	        }
+	    },
+	    {
+	        "name": "Mirage Marauder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Fox Berserker ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mirage Marauder.png"
+	        }
+	    },
+	    {
+	        "name": "Dark Pulse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dark Pulse.png"
+	        }
+	    },
+	    {
+	        "name": "Gigaton Hammer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gigaton Hammer.png"
+	        }
+	    },
+	    {
+	        "name": "Passage of Time",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Passage of Time.png"
+	        }
+	    },
+	    {
+	        "name": "Wrack With Grief",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Wrack With Grief.png"
+	        }
+	    },
+	    {
+	        "name": "Escape Orb",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Escape Orb.png"
+	        }
+	    },
+	    {
+	        "name": "Blaze Courier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Creature — Dragon Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Blaze Courier.png"
+	        }
+	    },
+	    {
+	        "name": "Post Town Bandit",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Post Town Bandit.png"
+	        }
+	    },
+	    {
+	        "name": "Dungeon Guard",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Cat Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeon Guard.png"
+	        }
+	    },
+	    {
+	        "name": "Berserk Mutation",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Berserk Mutation.png"
+	        }
+	    },
+	    {
+	        "name": "Avaricious Merchant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Spirit Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Avaricious Merchant.png"
+	        }
+	    },
+	    {
+	        "name": "Curious Statue",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Curious Statue.png"
+	        }
+	    },
+	    {
+	        "name": "Anxious Prodigy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Cat Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Anxious Prodigy.png"
+	        }
+	    },
+	    {
+	        "name": "Daring Rescue",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Daring Rescue.png"
+	        }
+	    },
+	    {
+	        "name": "On the Beach at Dusk",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/On the Beach at Dusk.png"
+	        }
+	    },
+	    {
+	        "name": "Tree on the Hill",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Tree on the Hill.png"
+	        }
+	    },
+	    {
+	        "name": "Serene Village Caretaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Turtle Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Serene Village Caretaker.png"
+	        }
+	    },
+	    {
+	        "name": "Alakazam's Pursuit",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Alakazam's Pursuit.png"
+	        }
+	    },
+	    {
+	        "name": "Creeping Shadows",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Creeping Shadows.png"
+	        }
+	    },
+	    {
+	        "name": "Wasteland Wayfarer",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Camel Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Wasteland Wayfarer.png"
+	        }
+	    },
+	    {
+	        "name": "Bank Manager",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Cat Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Bank Manager.png"
+	        }
+	    },
+	    {
+	        "name": "Gilded Shopkeeper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Spirit Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gilded Shopkeeper.png"
+	        }
+	    },
+	    {
+	        "name": "Dungeon Pit",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeon Pit.png"
+	        }
+	    },
+	    {
+	        "name": "Pitch In",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Pitch In.png"
+	        }
+	    },
+	    {
+	        "name": "Rockslide Titan",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}{G}{G}",
+	        "type": "Creature — Dinosaur Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rockslide Titan.png"
+	        }
+	    },
+	    {
+	        "name": "Stickyslither Hydra",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{G}{G}",
+	        "type": "Creature — Worm Hydra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Stickyslither Hydra.png"
+	        }
+	    },
+	    {
+	        "name": "Metallic Mauler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}",
+	        "type": "Artifact Creature — Dinosaur Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Metallic Mauler.png"
+	        }
+	    },
+	    {
+	        "name": "Overflowing Chest",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Overflowing Chest.png"
+	        }
+	    },
+	    {
+	        "name": "Spectral Rocketeer",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Dragon Spirit Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Spectral Rocketeer.png"
+	        }
+	    },
+	    {
+	        "name": "Ambitious Polymorphist",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Fox Shapeshifter Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ambitious Polymorphist.png"
+	        }
+	    },
+	    {
+	        "name": "Treasure Town",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Treasure Town.png"
+	        }
+	    },
+	    {
+	        "name": "Fogbound Lake",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Fogbound Lake.png"
+	        }
+	    },
+	    {
+	        "name": "Illusionist's Ploy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Illusionist's Ploy.png"
+	        }
+	    },
+	    {
+	        "name": "Sky Peak",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sky Peak.png"
+	        }
+	    },
+	    {
+	        "name": "Frosty Forest",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Frosty Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Abyssal Badlands",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Abyssal Badlands.png"
+	        }
+	    },
+	    {
+	        "name": "Mount Blaze",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mount Blaze.png"
+	        }
+	    },
+	    {
+	        "name": "Revelation Mountain",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Expedition ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Revelation Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "Windrider Ranger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bat Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Windrider Ranger.png"
+	        }
+	    },
+	    {
+	        "name": "Uxie of Fogbound Lake",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Legendary Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Uxie of Fogbound Lake.png"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		30 All-Out Brawl
+		30 Crystal Crossing
+		30 Buried Relic
+		30 Apple Woods
+		30 Dark Crater
+		30 Dialga's Fight to the Finish
+		30 Star Cave
+		30 Heroic Intervention
+		30 Journey to the Hidden Land
+		30 Darkrai's Scheme
+		30 Its A Monster House
+		30 Aspect of Jealousy
+		30 Welcome to the Team
+		30 Connection Orb
+		30 The Relic Fragment
+		30 Outlaw Notice Board
+		30 Spacial Rend
+		30 Thunderous Showdown
+		30 Prize Drawing
+		30 Personality Test
+		30 Rainbows of Hope
+		30 Marching Formation
+		30 Sentry Duty
+		30 Travel Liner Pass
+		30 Calamitous Meteor
+		30 Mew's Rebirth
+		30 Hydreigon's Summons
+		30 Dusknoir's Redemption
+		30 Laboratory Sentinel
+		30 Legendary Treasures
+		30 In the Future of Darkness
+		30 Wrack With Grief
+		30 Berserk Mutation
+		30 Alakazam's Pursuit
+		30 Wasteland Wayfarer
+		30 Overflowing Chest
+		30 Spectral Rocketeer
+		30 Ambitious Polymorphist
+		30 Treasure Town
+		1 Vast Ice Mountain
+		1 Sky Tower
+		1 Tree of Life
+		1 Glacier Palace
+		1 Harmony Scarf
+		1 Temporal Tower
+		1 Destiny Tower
+	[LegendSlot(2)]
+		25 Celebi, Temporal Voyager
+		25 Skuntank of Team Skull
+		25 Gardevoir, Spirit Guide
+		25 Shaymin of Sky Peak
+		25 Armaldo, Reformed Renegade
+		25 Kyurem, Agent of Disaster
+		25 Xerneas of the Tree of Life
+		3 Primal Dialga, the End of Time
+		3 The Bittercold
+		3 Dark Matter
+		3 Mew, Thousand-Faced Hero
+		3 Hydreigon, the Voice of Life
+		3 Rayquaza, Lord of the Sky
+		3 Victini, the Wind of Fortune
+		3 Grovyle, the Thief of Time
+		25 Yveltal of the Voidlands
+		25 Uxie of Fogbound Lake
+		25 Jirachi, the Wishmaker
+		25 Darkrai, Waking Nightmare
+		25 Virizion, the Solitary Sword
+		25 Emolga, Impetuous Ally
+		25 Guildmaster Wigglytuff
+		25 Dusknoir, the Betrayer
+		25 Lopunny of Team Charm
+		25 Keldeo, Intrepid Soul
+		25 Absol, Doomsday Messenger
+		25 Gengar, the Selfish Master
+		25 Mawile, Expedition Archivist
+		50 Hero of Flourishing Life
+		50 Hero of Blazing Will
+		50 Hero of Bold Cunning
+		50 Hero of Thunderous Defiance
+		50 Hero of Gilded Trickery
+		50 Hero of Incendiary Unity
+		50 Hero of Furtive Might
+		50 Hero of Eager Spirit
+		50 Hero of Intrepid Aspiration
+		50 Hero of Verdant Guile
+		50 Hero of Courageous Aura
+		50 Hero of Fierce Nobility
+		50 Hero of Covetous Impulse
+		50 Hero of Radiant Growth
+		50 Hero of Fearsome Wilds
+		50 Hero of Daring Guardianship
+		50 Hero of Untamed Strength
+		50 Hero of Strange Magics
+		50 Hero of Subtle Mischief
+		50 Hero of Girded Leadership
+		50 Hero of Odd Imagination
+		50 Hero of Sparking Soul
+		50 Hero of Ghostly Communion
+		50 Hero of Draconic Bravery
+		50 Nuzleaf, Servant of Dark Matter
+		50 Ninetales, Bearer of Curses
+		50 Chatot, Chattering Sycophant
+		50 Drowzee, Somnovorous Outlaw
+		50 Ampharos, the Dashing Wanderer
+		50 Munna, Doomspeaker
+		50 Xatu, Grand Seer
+		50 Alakazam, Ranger of Renown
+		50 Hero of Furious Force
+		50 Hero of Undaunted Discovery
+		50 Hero of Tranquil Plenitude
+		50 Hero of Eternal Bonds
+		50 Hero of Dreaded Night
+		50 Quagsire, Criminal Reformer
+		50 Archen, Aerial Explorer
+		50 Hero of Valiant Audacity
+	[UncommonSlot(3)]
+		50 Enthusiastic Scout
+		50 All for One
+		50 Meeting of Explorers
+		50 Mystifying Forest
+		50 Drilbur Coal Mine
+		50 Mount Thunder
+		50 Blizzard Island
+		50 Aura Sphere
+		50 Abrupt Awakening
+		50 Fact or Fiction
+		50 Memories Returned
+		50 Scholar of the Sun
+		50 Scholar of the Moon
+		50 Vengeful Shopkeeper
+		50 Tearful Reunion
+		50 Aura Bow
+		50 Seed Flare
+		50 Roar of Time
+		50 Rainbow Stoneship
+		50 Aerial Escapist
+		50 Restock
+		50 Notorious Duo
+		50 Defend Globe
+		50 Mystic Deceiver
+		50 Earthquake
+		50 Mission Mailbox
+		50 Grasp of the Betrayer
+		50 Scalchop Blademaster
+		50 Stir the Swap Cauldron
+		50 Radiant Aura
+		50 Magnagate
+		50 Architect of Paradise
+		50 Martial Scamp
+		50 Shifty Capo
+		50 Conniving Lackey
+		50 On the Run
+		50 Sheer Mountain Range
+		50 Gather the Team
+		50 Eager Adventurer
+		50 Aquatic Scout
+		50 Conked Out
+		50 Unlikely Teammate
+		50 Worldcore Wishes
+		50 Overburdened Postmaster
+		50 Mirage Marauder
+		50 Dark Pulse
+		50 Gigaton Hammer
+		50 Passage of Time
+		50 Escape Orb
+		50 Blaze Courier
+		50 Avaricious Merchant
+		50 Curious Statue
+		50 Anxious Prodigy
+		50 Daring Rescue
+		50 On the Beach at Dusk
+		50 Tree on the Hill
+		50 Serene Village Caretaker
+		50 Creeping Shadows
+		50 Bank Manager
+		50 Gilded Shopkeeper
+		50 Dungeon Pit
+		50 Pitch In
+		50 Rockslide Titan
+		50 Stickyslither Hydra
+		50 Metallic Mauler
+		50 Illusionist's Ploy
+		50 Sky Peak
+		50 Frosty Forest
+		50 Abyssal Badlands
+		50 Mount Blaze
+		50 Revelation Mountain
+		50 Windrider Ranger
+	[CommonSlot(14)]
+		50 Rugged Endurance
+		50 Mystery of the Relic
+		50 Discharge
+		50 Through the Sea of Time
+		50 Bring to Justice
+		50 Eternal Oath
+		50 Dimensional Scream
+		50 Charge Beam
+		50 Ditzy Bartender
+		50 Merchant Caravan
+		50 Power of Evolution
+		50 Parting
+		50 Mend Wounds
+		50 Dungeoneer Guide
+		50 Roughousing Whelp
+		50 Crystal Formation
+		50 Howl
+		50 Temporal Struggle
+		50 Droning Study
+		50 Draconic Veteran
+		50 Boon of the Wish-Giver
+		50 Skittering Plunderer
+		50 Icy Trickster
+		50 Rescue Headquarters
+		50 Helpless Grub
+		50 All Turned Around
+		50 Guild Cuisinier
+		50 A Storm at Sea
+		50 Expedition Rally
+		50 Aura Bolt
+		50 Psychic Wayfinder
+		50 Seek Paradise
+		50 Splendid Origin
+		50 Borrowed Time
+		50 Arcane Spelunker
+		50 Victory Fire
+		50 Callous Illuminator
+		50 Sparking Seeker
+		50 Erratic Inferno
+		50 Soulstoke Channeler
+		50 Goblin Gem-Boss
+		50 Crystalline Feast
+		50 Mastermind Outlaw
+		50 Blossoming Defense
+		50 Prepare for the Journey
+		50 Misleading Map
+		50 Chrome Kidnapper
+		50 Dungeon Lurker
+		50 Lively Town
+		50 Paradise Sanctum
+		50 Barren Valley
+		50 Great Canyon
+		50 Kyurem's Rampage
+		50 Raking Claws
+		50 Neutralize
+		50 Criminal Immolator
+		50 Thornbite Brawler
+		50 Feat of Courage
+		50 Collectors of Shiny Objects
+		50 Borderlands Tromper
+		50 Avian Cartographer
+		50 Pilfering Pair
+		50 Chitinous Trailblazer
+		50 Lookalike Switcheroo
+		50 Kangaskhan Rock
+		50 Vine Whip
+		50 Lumbering Inn
+		50 Snowpass Warden
+		50 Unfettered Berserker
+		50 Most Wanted
+		50 Cinderblade Invoker
+		50 Infernal Parade
+		50 Chillwind Invoker
+		50 Soulguide Invoker
+		50 Bleakwood Invoker
+		50 Cryptstone Invoker
+		50 Common Crook
+		50 Trick of the Trade
+		50 Hot Springs Sage
+		50 Voracious Ooze
+		50 Nest Sentinel
+		50 Sonic Shatterer
+		50 Hospitable Drifters
+		50 Defy the Legends
+		50 Needlehide Scout
+		50 Canopy Scout
+		50 Breaching Bandit
+		50 Sandstorm Historian
+		50 HAPPI Bureaucrat
+		50 Defy Disappearance
+		50 Stair Sense
+		50 Titanic Rescuer
+		50 Unity Chime
+		50 Thrall of the Bittercold
+		50 Cutthroat Cohort
+		50 Fiery Challenger
+		50 Curious Runes
+		50 Ember Gliders
+		50 Laborer of Paradise
+		50 Undergrowth Bruiser
+		50 Evolutionary Aspirant
+		50 Sky Uppercut
+		50 Amp Plains Alpha
+		50 Power Band
+		50 Astral Atlas
+		50 Quest Courier
+		50 Sugar Rush
+		50 Accidental Incineration
+		50 Faefolk Ironwright
+		50 Gang of Thieves
+		50 Dungeon Navigation
+		50 Thundering Punks
+		50 Scourge of the Dunes
+		50 Hidden Land Guide
+		50 Frism
+		50 Message from a Friend
+		50 Party Leader
+		50 Swift Guardian
+		50 Teleport Gem
+		50 Kindly Innkeeper
+		50 Team Badge
+		50 Join Forces
+		50 A Long Way Up
+		50 Swirling Quicksand
+		50 Mystic's Staff
+		50 Hired Scoundrel
+		50 Terramorphic Expanse
+		50 Excavations Expert
+		50 Bond of Friendship
+		50 Post Town Bandit
+		50 Dungeon Guard
+		50 Fogbound Lake

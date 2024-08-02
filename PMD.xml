@@ -1,0 +1,4783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>PMD</name>
+      <longname></longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Hero of Flourishing Life</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Dinosaur Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Landfall — Whenever a land enters the battlefield under your control, another target creature you control gets +2/+1 and gains trample until end of turn.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Rugged Endurance</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put up to two creature cards in your graveyard and/or commanders you own in the command zone into your hand.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Hero of Blazing Will</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Lizard Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}, Discard a card: Draw a card.
+{1}, {T}: Target creature can’t block this turn.
+Whenever you cast an instant or sorcery spell, untap Hero of Blazing Will.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Mystery of the Relic</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1, then draw a card.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Hero of Bold Cunning</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Turtle Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack two or more players, target creature can’t be blocked this turn.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Enthusiastic Scout</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Enthusiastic Scout enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+Enthusiastic Scout gets +3/+3 and has vigilance as long as you control eight or more lands.</text>
+    </card>
+    <card>
+      <name>Discharge</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to one target creature. Discharge deals 2 damage to each other creature.</text>
+    </card>
+    <card>
+      <name>All-Out Brawl</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control have melee. (Whenever that creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat. Multiple instances of melee trigger separately.)</text>
+    </card>
+    <card>
+      <name>Through the Sea of Time</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>All for One</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player chooses any number of creatures they control with total power 4 or less. Destroy each creature not chosen this way.</text>
+    </card>
+    <card>
+      <name>Meeting of Explorers</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+When Meeting of Explorers enters the battlefield, create three 1/1 white Jackal Ranger creature tokens.
+Enchanted land has “{T}: Add two mana in any combination of colors.”</text>
+    </card>
+    <card>
+      <name>Bring to Justice</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Eternal Oath</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each of up to two target creatures. Those creatures gain indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Crystal Crossing</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+WUBRG: Draw three cards.
+5+ Power B2F
+At the beginning of your end step, create a Treasure token.
+7+ Power B3F
+Whenever you sacrifice an artifact, add one mana of any color.
+10+ Power B4F
+Whenever you sacrifice an artifact, it deals 4 damage to any target.</text>
+    </card>
+    <card>
+      <name>Mystifying Forest</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+When Mystifying Forest enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+2+ Power B2F
+At the beginning of combat on your turn, target creature gains vigilance and trample until end of turn.
+6+ Power B3F
+At the beginning of combat on your turn, target creature gets +3/+3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Drilbur Coal Mine</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+At the beginning of your upkeep, mill a card.
+4+ Power B2F
+When you reach B2F, each opponent discards a card.
+6+ Power B3F
+When you reach B3F, destroy target creature.
+10+ Power B4F
+When you reach B4F, put target creature card from a graveyard onto the battlefield under your control.
+</text>
+    </card>
+    <card>
+      <name>Dimensional Scream</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose three. You may choose the same mode more than once.
+• Return target creature card from your graveyard to your hand.
+• Draw a card.
+You lose 3 life.</text>
+    </card>
+    <card>
+      <name>Buried Relic</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+Artifact spells you cast cost {1} less to cast.
+5+ Power B2F
+When you reach B2F, search your library for an artifact card, reveal it, and put it into your hand, then shuffle.
+12+ Power B3F
+Noncreature artifacts you control are Golem artifact creatures and base power and toughness 5/5.</text>
+    </card>
+    <card>
+      <name>Vast Ice Mountain</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+When Vast Ice Mountain enters the battlefield, each player sacrifices a creature.
+4+ Power 2F
+Whenever a creature you control dies, each opponent loses 1 life.
+6+ Power 3F
+Whenever a creature you control dies, each opponent sacrifices a creature.
+12+ Power 4F
+When you reach 4F, return up to three creature cards from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Mount Thunder</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+At the beginning of your end step, if you attacked this turn, put a +1/+1 counter on target creature.
+5+ Power 2F
+When you reach 2F, target creature gains flying and double strike until end of turn. Untap it.
+12+ Power 3F
+When you reach 3F, create an 8/8 white Elemental Bird creature token with flying.</text>
+    </card>
+    <card>
+      <name>Charge Beam</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Charge Beam deals 4 damage to target creature and X damage to that creature’s controller, where X is the number of artifacts you control.</text>
+    </card>
+    <card>
+      <name>Apple Woods</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+When Apple Woods enters the battlefield, create two Food tokens. (They’re artifacts with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+3+ Power B2F
+Whenever an artifact is put into your graveyard from the battlefield, create a 1/1 green Insect creature token.
+8+ Power B3F
+Whenever an artifact is put into your graveyard from the battlefield, put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Ditzy Bartender</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bear Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Ditzy Bartender enters the battlefield, put a +1/+1 counter on each of up to two other target creatures you control.</text>
+    </card>
+    <card>
+      <name>Blizzard Island</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+Noncreature spells you cast cost {1} less to cast.
+3+ Power B2F
+3U: Draw a card.
+8+ Power B3F
+Whenever you cast a noncreature spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Hero of Thunderous Defiance</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Mouse Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{1}, {T}: Another target creature gains protection from creatures until ends of turn. (This creature can’t be blocked, targeted or dealt damage by creatures until ends of turn.)
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Merchant Caravan</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Merchant Caravan.</text>
+    </card>
+    <card>
+      <name>Hero of Gilded Trickery</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Cat Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hero of Gilded Trickery enters the battlefield, create a Treasure token.
+Creatures you control enter the battlefield with an additional +1/+1 counter on them for each mana from a Treasure spent to cast them.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Incendiary Unity</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Mouse Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if you attacked this turn, create an X/X red Elemental Wall creature token, where X is the number of creatures you attacked with this turn. It has defender, reach, and “At the beginning of your upkeep, sacrifice this creature.”
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Furtive Might</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Crocodile Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Hero of Furtive Might attacks, tap up to one target creature defending player controls and goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Goaded creatures attacking your opponents get +1/+0.
+Partner</text>
+    </card>
+    <card>
+      <name>Hero of Eager Spirit</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Salamander Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hero of Eager Spirit can’t be blocked.
+{2}: Return target permanent you control to its owner’s hand. Activate only during your turn.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Intrepid Aspiration</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Bird Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more counters are put on a creature you control, it deals that much damage to target opponent.
+{R}: If Hero of Intrepid Aspiration has a counter on it, it gains flying until end of turn.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Verdant Guile</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Lizard Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Untap target land.
+At the beginning of your end step, untap Hero of Verdant Guile.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Courageous Aura</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Jackal Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack two or more players, you may return target Aura card from your graveyard to the battlefield.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Fierce Nobility</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Bird Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Draw a card, then discard a card. If you discarded a nonland card this way, goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Covetous Impulse</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Monkey Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each end step, if an artifact entered the battlefield under your control this turn, exile the top card of your library. Until the end of your next turn, you may play that card.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Radiant Growth</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Turtle Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once during each of your turns, you may play a permanent card from your graveyard.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Fearsome Wilds</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Snake Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hero of Fearsome Wilds gets +1/+1 for each creature card in your graveyard.
+Discard a creature card: Hero of Fearsome Wilds gains menace until end of turn.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Daring Guardianship</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Otter Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+Whenever you cast your second spell each turn, create a colorless Equipment artifact token named Scalchop with “Equipped creature gets +1/+1.” and equip {1}.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Untamed Strength</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Elephant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Hero of Untamed Strength attacks, you may pay XXG. If you do, other creatures you control get +X/+X and gain trample until end of turn.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Strange Magics</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Fox Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever you cast an instant or sorcery spell, each opponent loses 1 life and you gain 1 life.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Subtle Mischief</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Frog Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each creature you control that attacked this turn. (This counts only creatures still in play.)
+When Hero of Subtle Mischief enters the battlefield, you draw two cards and lose 2 life.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Girded Leadership</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Squirrel Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever you cast a spell that targets a creature, you may put a +1/+1 counter on that creature.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Odd Imagination</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you scry, tap up to one target creature.
+Whenever you draw a card, if it’s not your draw step, put a +1/+1 counter on up to one other target creature.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Sparking Soul</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Cat Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you discard one or more cards, goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Ghostly Communion</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Fox Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, return up to one target creature card with mana value X or less from your graveyard to the battlefield, where X is the total number of cards you’ve drawn and discarded this turn.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Power of Evolution</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +4/+4.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+When you cycle Power of Evolution, put a +1/+1 counter on up to one target creature.</text>
+    </card>
+    <card>
+      <name>Parting</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature.</text>
+    </card>
+    <card>
+      <name>Mend Wounds</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a creature card in your graveyard or a commander you own in the command zone. If its mana value is 3 or less, put it onto the battlefield.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Dungeoneer Guide</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Faerie Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Dungeoneer Guide enters the battlefield, you and target opponent each draw a card.
+Whenever Dungeoneer Guide attacks, target creature gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Roughousing Whelp</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Roughousing Whelp enters the battlefield, goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Dark Crater</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+Players can’t gain life.
+3+ Power B2F
+At the beginning of each player’s upkeep, that player loses 2 life unless they discard a card.
+3+ Power B3F
+At the beginning of each player’s upkeep, that player loses 2 life unless they sacrifice a creature.
+12+ Power B4F
+At the beginning of each end step, each player loses life equal to the life they lost this turn.</text>
+    </card>
+    <card>
+      <name>Crystal Formation</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Crystal Formation enters the battlefield tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.</text>
+    </card>
+    <card>
+      <name>Howl</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Temporal Struggle</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant non-commander creature
+When Temporal Struggle enters the battlefield, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Aura Sphere</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Aura Sphere deals 3 damage to up to one target creature.
+You may attach an Aura you control to another permanent or player that Aura could enchant.</text>
+    </card>
+    <card>
+      <name>Droning Study</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.
+Goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Draconic Veteran</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dragon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Draconic Veteran enters the battlefield, each opponent loses life equal to the amount of mana from Treasure spent to cast it.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+When you cycle Draconic Veteran, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Yveltal of the Voidlands</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Bird Horror </type>
+        <maintype>Creature</maintype>
+        <pt>9/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, trample
+Ward—Choose a creature you control. It becomes an artifact. (It’s no longer a creature. It still has its abilities.)
+When Yveltal of the Voidlands enters the battlefield, each other creature you control becomes an artifact.</text>
+    </card>
+    <card>
+      <name>Sky Tower</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+When Sky Tower enters the battlefield, put a flying counter on each of up to two target creatures you control.
+4+ Power 2F
+Creatures you control with flying get +1/+1.
+12+ Power 3F
+When you reach 3F, search your library for a creature card with flying and put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Tree of Life</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Forest Expedition </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+({T}: Add {G}.)
+Tree of Life enters the battlefield tapped.
+7+ Power 2F
+{T}: Add {G} for each creature you control.
+20+ Power 3F
+XGG: Reveal cards from the top of your library until you reveal a creature card with mana value X. Put that card onto the battlefield and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Glacier Palace</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+Whenever you goad a creature, it gets +2/+2 until your next turn.
+5+ Power 2F
+Whenever you goad a creature, if it’s your turn, gain control of it. Untap it. It gains haste until end of turn.
+10+ Power 3F
+At the beginning of combat on your turn, for each opponent, goad up to one target creature that player controls.</text>
+    </card>
+    <card>
+      <name>Dialga&apos;s Fight to the Finish</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return all commanders you don’t control to their owners’ hands. You may reverse the game’s turn order. (For example, if play had proceeded clockwise around the table, it now goes counterclockwise.)
+Exile Dialga’s Fight to the Finish.</text>
+    </card>
+    <card>
+      <name>Boon of the Wish-Giver</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw four cards.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Star Cave</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+Whenever you scry, draw a card.
+5+ Power B2F
+At the beginning of your upkeep, scry 1.
+5+ Power B3F
+At the beginning of your end step, scry 1.
+5+ Power B4F
+When you reach B4F, put a card you own from outside the game into your hand.</text>
+    </card>
+    <card>
+      <name>Skittering Plunderer</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Scorpion Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Skittering Plunderer enters the battlefield, create a Treasure token. Each opponent may create a Treasure token. For each opponent who did, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Icy Trickster</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+When Icy Trickster enters the battlefield, tap up to one target creature and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Rescue Headquarters</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Add one mana of any color. If you don’t control a commander, spend this mana only to cast commander spells.</text>
+    </card>
+    <card>
+      <name>Helpless Grub</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>All Turned Around</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to one target creature and put two stun counters on it. Goad up to one other target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Guild Cuisinier</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Beast Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Guild Cuisinier enters the battlefield, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+{2}, {T}: Tap target creature.</text>
+    </card>
+    <card>
+      <name>Heroic Intervention</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control gain hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Hero of Draconic Bravery</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dragon Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+At the beginning of each end step, if you created a token this turn, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Abrupt Awakening</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures target player controls can’t block this turn. Goad each of them. (Until your next turn, they attacks each combat if able and attack a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Journey to the Hidden Land</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>There is an additional beginning phase after this phase, followed by an additional main phase. You may play an additional land this turn. (The beginning phase includes the untap, upkeep, and draw steps.)</text>
+    </card>
+    <card>
+      <name>A Storm at Sea</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two target nonland permanents controlled by different players. Return those permanents to their owners’ hands.</text>
+    </card>
+    <card>
+      <name>Jirachi, the Wishmaker</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you scry, you may cast a spell you own from outside the game with mana value X or less without paying its mana cost, where X is the number of cards looked at while scrying this way. Do this only once each turn. (In draft, all cards you drafted that are not in your deck are owned by you outside the game.)</text>
+    </card>
+    <card>
+      <name>Primal Dialga, the End of Time</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>5UB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Artifact Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, ward {3}
+At the beginning of each player’s first upkeep each turn, that player gets two additional upkeep steps after this step.
+At the beginning of each opponent’s upkeep, that player loses 1 life.</text>
+    </card>
+    <card>
+      <name>The Bittercold</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Elemental Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, defender
+Whenever you put one or more stun counters on a permanent, if it’s tapped, gain control of it for as long as it remains tapped.
+You may attack with tapped creatures as though they were untapped.</text>
+    </card>
+    <card>
+      <name>Dark Matter</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BBBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Nightmare Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a black spell, create a 2/2 black Nightmare creature token with “When this creature dies, mill cards until you mill a black card.”
+You may cast Dark Matter from your graveyard by exiling five black cards from your graveyard in addition to paying its other costs.</text>
+    </card>
+    <card>
+      <name>Expedition Rally</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Jackal Ranger creature tokens.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Mew, Thousand-Faced Hero</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Cat Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+XWU: Search your library and/or cards you own in the command zone for a legendary creature card with mana value X or less and put it onto the battlefield, then shuffle. When a creature is put onto the battlefield this way, return Mew to the battlefield merged under it. Activate only as a sorcery and only if Mew is in your graveyard. (While merged, it has Mew’s abilities.)</text>
+    </card>
+    <card>
+      <name>Fact or Fiction</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</text>
+    </card>
+    <card>
+      <name>Hydreigon, the Voice of Life</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dragon Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, protection from Nightmares
+At the beginning of your upkeep, look at the top six cards of your library. You may reveal a creature card with partner from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Whenever a creature you control with partner dies, you gain life equal to its power.</text>
+    </card>
+    <card>
+      <name>Memories Returned</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent discards a card and loses 1 life. You draw a card and lose 1 life for each card discarded this way.</text>
+    </card>
+    <card>
+      <name>Aura Bolt</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to two target creatures. Put a stun counter on one of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Create a 1/1 white Jackal Ranger creature token.</text>
+    </card>
+    <card>
+      <name>Darkrai, Waking Nightmare</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, exile the top card of each opponent’s library. Until the end of your next turn, you may play those cards.
+You may spend black mana as though it were mana of any color.</text>
+    </card>
+    <card>
+      <name>Scholar of the Sun</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Fox Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Scholar of the Sun enters the battlefield, create a colorless Entercard artifact token with “{2}, {T}: Scry 1.”
+Whenever an Entercard you control becomes tapped, up to one target creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Scholar of the Moon</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Scholar of the Moon enters the battlefield, create a colorless Entercard artifact token with “{2}, {T}: Scry 1.”
+Whenever an Entercard you control becomes tapped, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Nuzleaf, Servant of Dark Matter</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Plant Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Nuzleaf, Servant of Dark Matter enters the battlefield, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Whenever one or more cards leave your graveyard, create a 1/1 black Alien creature token with flying, vigilance, and deathtouch.</text>
+    </card>
+    <card>
+      <name>Vengeful Shopkeeper</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lizard Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Whenever you’re dealt damage by one or more creatures an opponent controls, put five +1/+1 counters on Vengeful Shopkeeper. Until the end of your next turn, it loses defender and attacks that player each combat if able.</text>
+    </card>
+    <card>
+      <name>Tearful Reunion</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a commander you own from the command zone into your hand. Add RR.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Psychic Wayfinder</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{4}, {T}: Survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Rayquaza, Lord of the Sky</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>8WW</manacost>
+        <cmc>10</cmc>
+        <type>Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {2} less to cast for each creature you control with flying.
+Flying, vigilance
+When Rayquaza, Lord of the Sky enters the battlefield, destroy target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Harmony Scarf</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Harmony Scarf enters the battlefield, if it isn’t a token, create a token that’s a copy of it.
+{3}: Each creature you control that has a permanent named Harmony Scarf attached to it has base power and toughness 7/7 until end of turn.
+Equip {4}
+Equip commander {1}</text>
+    </card>
+    <card>
+      <name>Virizion, the Solitary Sword</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Elk Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+Whenever a creature you control attacks alone, untap it and put a +1/+1 counter on it. Until end of turn, it gains trample and “Whenever this creature deals damage to an opponent, it deals that much damage to any number of other opponents.”</text>
+    </card>
+    <card>
+      <name>Seek Paradise</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+Survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Emolga, Impetuous Ally</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Squirrel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+When Emolga enters the battlefield, create Dunsparce, Faithful Friend, a legendary 1/1 white Snake Scout creature token with “ {T}: Target creature can’t block this turn.”
+Whenever Emolga, Impetuous Ally attacks, you may discard your hand. If you do, draw a card for each token you control.</text>
+    </card>
+    <card>
+      <name>Ninetales, Bearer of Curses</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Fox Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an opponent attacks, if you’re a defending player, you may exile an instant or sorcery card from your graveyard. If you do, create a black Aura Curse enchantment token with enchant player attached to that player with “At the beginning of your upkeep, you lose 1 life.”</text>
+    </card>
+    <card>
+      <name>Chatot, Chattering Sycophant</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Bird Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you draw your second card each turn, goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Whenever one or more creatures attack, you may have target attacking creature get +1/+1 and gain flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Drowzee, Somnovorous Outlaw</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>XBR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Tapir Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Drowzee, Somnovorous Outlaw enters the battlefield, for each mana from a Treasure spent to cast it, exile the top card of target player’s library with a dream counter on it.
+{3}, Discard a card: Exile the top card of target player’s library with a dream counter on it.
+You may play cards with dream counters on them from exile.</text>
+    </card>
+    <card>
+      <name>Ampharos, the Dashing Wanderer</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Beast Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, you may add RG and may exile that card from your graveyard. If you do, you may play that card this turn. Do this only once each turn.</text>
+    </card>
+    <card>
+      <name>Guildmaster Wigglytuff</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Rabbit Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, create a 1/1 white Jackal Ranger creature token.
+Whenever you advance to an Expedition’s next floor, put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Munna, Doomspeaker</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Spirit Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch, lifelink
+Whenever Munna, Doomspeaker attacks, you may sacrifice a creature or remove a counter from a permanent you control. If you do, you draw a card and each player loses 2 life.</text>
+    </card>
+    <card>
+      <name>Xatu, Grand Seer</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a creature spell, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+Whenever you cast a noncreature spell, look at the top card of your library. If it’s a creature card, you may reveal it and put it into your hand.</text>
+    </card>
+    <card>
+      <name>Alakazam, Ranger of Renown</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Fox Wizard Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a goaded creature deals combat damage to one of your opponents, draw a card, then discard a card. Put a +1/+1 counter on Alakazam, Ranger of Renown.
+Whenever you cast a spell from anywhere other than your hand, goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Hero of Furious Force</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Boar Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Whenever another creature you control attacks, if its power is 4 or greater, put a +1/+1 counter on it. (You may choose to check after any other attack triggers.)
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Undaunted Discovery</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Giant Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature. Until end of turn, prevent all damage that would be dealt to that creature.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Tranquil Plenitude</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Bear Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would put one or more counters on a permanent, you may put that many plus one of each of those kinds of counters on that permanent instead.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Eternal Bonds</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Cat Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, exile up to one target creature that attacked this turn, then return it to the battlefield under its owner’s control.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Hero of Dreaded Night</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Dinosaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards leave your graveyard, create a colorless artifact token named Bone Club. It has “Equipped creature gets +1/+0 and has menace.” and equip {2}.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Dusknoir, the Betrayer</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Spirit Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Goblins you control have deathtouch.
+Whenever you cast a spell, if it’s not your main phase, create a 1/1 red Goblin creature token with melee and “This creature can’t block.” (Whenever it attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</text>
+    </card>
+    <card>
+      <name>Lopunny of Team Charm</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3RG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Rabbit Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each end step, if you’ve spent WUBRG this turn, choose one —
+• Create Medicham, a 3/3 white and green Monk legendary creature token with vigilance and “{T}: Add three mana of different colors.”
+• Create Gardevoir, a 3/3 blue and red Wizard legendary creature token with vigilance and “{T}: Draw a card.”</text>
+    </card>
+    <card>
+      <name>Keldeo, Intrepid Soul</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Unicorn Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Whenever you cast an instant spell with mana value less than or equal to the number of attacking creatures you control, copy it. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Absol, Doomsday Messenger</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Beast Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+At the beginning of each end step, if a creature died this turn, each opponent loses 2 life. If two or more creatures died this turn, put a +1/+1 counter on target creature. If three or more creatures died this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Gengar, the Selfish Master</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>4BG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Spirit Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Gengar, the Selfish Master enters the battlefield, sacrifice another creature. When you do, draw cards equal to its power. If the sacrificed creature was legendary, you gain life equal to its toughness.</text>
+    </card>
+    <card>
+      <name>Mawile, Expedition Archivist</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact Creature - Faerie Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from anywhere other than your hand, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+{3}, {T}, Sacrifice three other artifacts: You may cast a spell from your graveyard without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Darkrai&apos;s Scheme</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each player, choose friend or foe. Each friend searches their library for a card and puts it into their hand, then shuffles. For each foe, look at that player’s hand. You choose a nonland card from it. That player discards that card.</text>
+    </card>
+    <card>
+      <name>Splendid Origin</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You and target opponent each draw two cards.</text>
+    </card>
+    <card>
+      <name>Borrowed Time</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Borrowed Time enters the battlefield, exile target nonland permanent an opponent controls until Borrowed Time leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Arcane Spelunker</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+{1}, {T}, Pay 1 life: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Victory Fire</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+0.
+When Victory Fire enters the battlefield, enchanted creature deals damage equal to its power to up to one target creature.</text>
+    </card>
+    <card>
+      <name>Callous Illuminator</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rabbit Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Callous Illuminator enters the battlefield, you may discard a card. If you do, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Sparking Seeker</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sparking Seeker enters the battlefield, put a +1/+1 counter on a creature you control. Each opponent may put a +1/+1 counter on a creature they control. For each opponent who did, put a +1/+1 counter on a creature you control.</text>
+    </card>
+    <card>
+      <name>Erratic Inferno</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two creatures controlled by different players. Erratic Inferno deals 5 damage to one of those creatures chosen at random. Goad the other. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Its A Monster House</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GGG</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cast It’s A Monster House! only if you’re being attacked.
+Reveal the top ten cards of your library. Put all creature cards revealed this way onto the battlefield and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Soulstoke Channeler</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dinosaur Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Soulstoke Channeler enters the battlefield, choose creature cards or instant and sorcery cards. It enters the battlefield with a +1/+1 counter on it for each card of the chosen types in your graveyard.</text>
+    </card>
+    <card>
+      <name>Goblin Gem-Boss</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Goblin Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Goblin Gem-Boss enters the battlefield, create two 1/1 red Goblin creature tokens with melee and “This creature can’t block.” (Whenever it attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</text>
+    </card>
+    <card>
+      <name>Crystalline Feast</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a Treasure token and a 1/1 red Goblin creature token with melee and “This creature can’t block.” (Whenever that creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Mastermind Outlaw</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Insect Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of your end step, if combat damage was dealt to each of your opponents this turn, you draw a card and lose 1 life.</text>
+    </card>
+    <card>
+      <name>Aspect of Jealousy</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6U</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent casts an instant or sorcery spell, you may copy it. If you do, you may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Temporal Tower</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+Vanishing 3 (This enters the battlefield with three time counters on it. At your upkeep, remove one. When the last is removed, sacrifice it.)
+3+ Power 2F
+When you reach 2F, draw three cards.
+12+ Power 3F
+When you reach 3F, Temporal Tower loses vanishing.
+At the beginning of your upkeep, draw a card.
+Spells you cast cost {2} less to cast.</text>
+    </card>
+    <card>
+      <name>Welcome to the Team</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top ten cards of your library. Starting with you, each player chooses a different card from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Aura Bow</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Aura Bow enters the battlefield, starting with you, each player votes for a color.
+Equipped creature has protection from each color that received the most votes or was tied for the most votes.
+Equip {3}
+Equip commander {1}</text>
+    </card>
+    <card>
+      <name>Blossoming Defense</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Celebi, Temporal Voyager</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Celebi, Temporal Voyager enters the battlefield, create a tapped colorless artifact token named Time Gear with “{T}: Add {U}.”
+Untap all artifacts and creatures you control during each other player’s untap step.</text>
+    </card>
+    <card>
+      <name>Skuntank of Team Skull</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Skunk Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, if it had one or more +1/+1 counters on it, you may put that many +1/+1 counters on target creature.
+Sacrifice a creature: Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Quagsire, Criminal Reformer</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Salamander Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land enters the battlefield under your control, create a 1/1 white Jackal Ranger creature token.</text>
+    </card>
+    <card>
+      <name>Gardevoir, Spirit Guide</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Spirit Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, exile up to one other target creature you control, then return that card to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Shaymin of Sky Peak</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Plant Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+{T}: Create an artifact token named Sky Gift, then target opponent gains control of it. It has “{T}, Sacrifice this artifact: Choose one. Sky Gift’s owner also chooses one.
+• Put three +1/+1 counters on target creature.
+• Draw a card. You gain 3 life.”</text>
+    </card>
+    <card>
+      <name>Victini, the Wind of Fortune</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Faerie Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack, roll a six-sided die.
+1 | You may discard a card, then draw a card.
+2 | Victini deals 3 damage to each opponent.
+3 | Create a tapped Treasure token.
+4 | Goad up to one target creature.
+5 | Put a +1/+1 counter on target creature.
+6 | Roll this die two additional times.</text>
+    </card>
+    <card>
+      <name>Connection Orb</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Connection Orb enters the battlefield, exile cards from the top of your library until you exile five creature cards. Shuffle all noncreature cards exiled this way into your library.
+At the beginning of combat on your turn, put a random creature card exiled with Connection Orb onto the battlefield. It gains haste. Exile it at the end of combat or if it would leave the battlefield.</text>
+    </card>
+    <card>
+      <name>Armaldo, Reformed Renegade</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Shrimp Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature with mana value 1 or less enters the battlefield under your control, create a tapped Treasure token. If that creature wasn’t a token, put a +1/+1 counter on Armaldo, Reformed Renegade. (Treasure is an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>The Relic Fragment</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+If you would put one or more cards on the bottom of your library while scrying, exile those cards face-down instead.
+{8}, {T}, Sacrifice The Relic Fragment: Put all cards exiled with it into your hand.</text>
+    </card>
+    <card>
+      <name>Archen, Aerial Explorer</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Dinosaur Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Discard a card: Archen, Aerial Explorer gains flying until end of turn.
+Whenever one or more creatures you control deal combat damage to a player, for each of those creatures, exile the top card of your library. You may play one of those cards this turn. When you do, shuffle the rest into your library.</text>
+    </card>
+    <card>
+      <name>Outlaw Notice Board</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Target instant or sorcery card in a graveyard gains bounty until end of turn. (As long as its owner has attacked a player with the most life of their opponents this turn, they may cast that spell from their graveyard. If they do, exile it.)</text>
+    </card>
+    <card>
+      <name>Prepare for the Journey</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+Draw a card. Create Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Misleading Map</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Misleading Map enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+{1}, {T}, Sacrifice Misleading Map: Reselect which player target attacking creature is attacking. Activate only during the declare attackers step.</text>
+    </card>
+    <card>
+      <name>Chrome Kidnapper</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Bird Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Chrome Kidnapper enters the battlefield, goad up to two target creatures. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Seed Flare</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose any number —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Destroy target creature with flying.
+• Target creature you control deals damage equal to its power to target creature.</text>
+    </card>
+    <card>
+      <name>Spacial Rend</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a number. Each player sacrifices that many creatures.</text>
+    </card>
+    <card>
+      <name>Roar of Time</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures.
+End the turn.</text>
+    </card>
+    <card>
+      <name>Dungeon Lurker</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spider Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, reach, deathtouch
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)</text>
+    </card>
+    <card>
+      <name>Lively Town</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lively Town enters the battlefield tapped. As it enters, choose a color.
+{T}: Add {W} or one mana of the chosen color.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Paradise Sanctum</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Paradise Sanctum enters the battlefield tapped. As it enters, choose a color.
+{T}: Add {G} or one mana of the chosen color.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Barren Valley</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Barren Valley enters the battlefield tapped. As it enters, choose a color.
+{T}: Add {B} or one mana of the chosen color.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Great Canyon</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Great Canyon enters the battlefield tapped. As it enters, choose a color.
+{T}: Add {R} or one mana of the chosen color.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Kyurem&apos;s Rampage</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two target creatures controlled by the same player. That player sacrifices one of them. Goad the other. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Raking Claws</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains double strike until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Neutralize</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Rainbow Stoneship</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack, for each player you’re attacking, target creature attacking that player gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Criminal Immolator</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dog Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3R: Criminal Immolator gets +2/+0 and gains trample until end of turn.
+When Criminal Immolator enters the battlefield, for each opponent, goad target creature that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Aerial Escapist</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Faerie Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Aerial Escapist enters the battlefield, exile up to one other target creature. Return that card to the battlefield under its owner’s control at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Restock</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return two target cards from your graveyard to your hand. Exile Restock.</text>
+    </card>
+    <card>
+      <name>Thornbite Brawler</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Plant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+When Thornbite Brawler enters the battlefield, up to one target creature you control fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Feat of Courage</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature gets +2/+2.
+When Feat of Courage enters the battlefield, up to one target creature other than enchanted creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Collectors of Shiny Objects</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Cat Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Collectors of Shiny Objects enters the battlefield, create two Treasure tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+3B: Collectors of Shiny Objects gets +4/+4 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Borderlands Tromper</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Dinosaur Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Whenever Borderlands Tromper deals combat damage to a player, if that player controls more lands than you, search your library for a basic Plains card and put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Thunderous Showdown</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Thunderous Showdown enters the battlefield, for each opponent, goad up to one target creature that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Whenever one or more creatures attack, you may have target attacking creature gain double strike and trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Avian Cartographer</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Avian Cartographer enters the battlefield, each player may survey.  (To survey, scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Pilfering Pair</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit Raccoon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pilfering Pair enters the battlefield, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Whenever you sacrifice a Treasure, Pilfering Pair gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Kyurem, Agent of Disaster</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Kyurem enters the battlefield, for each opponent, tap up to one target creature that player controls and put a stun counter on it.
+Whenever you attack, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Notorious Duo</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Bat Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you sacrifice a permanent, up to one target creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Chitinous Trailblazer</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Insect Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Chitinous Trailblazer’s power and toughness are each equal to the number of lands you control.
+When Chitinous Trailblazer enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Lookalike Switcheroo</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. Its controller creates a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Destiny Tower</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+When Destiny Tower enters the battlefield, exile all creatures.
+5+ Power 2F
+When you reach 2F, draw five cards and create five Treasure tokens.
+20+ Power 3F
+When you reach 3F, create a colorless artifact token named Space Globe with “WUBRG, {T}, Tap an untapped commander you control: Target player loses 493 life.”</text>
+    </card>
+    <card>
+      <name>Kangaskhan Rock</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you gain 1 life.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Prize Drawing</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Vine Whip</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Any number of target players each sacrifice a nontoken artifact or enchantment.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Defend Globe</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Defend Globe enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+As long as it’s your turn, prevent all damage that would be dealt to equipped creature.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Mystic Deceiver</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Cat Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Deathtouch
+Whenever you cast a spell, if it isn’t your turn or you’ve cast another spell this turn, up to one target creature gets -1/-1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Lumbering Inn</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Plant Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lumbering Inn enters the battlefield with X +1/+1 counters on it.
+When Lumbering Inn enters the battlefield, put a +1/+1 counter on each other creature you control.</text>
+    </card>
+    <card>
+      <name>Xerneas of the Tree of Life</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Elder Elk </type>
+        <maintype>Creature</maintype>
+        <pt>5/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, reach, ward {2}
+Whenever another permanent with mana value 6 or greater enters the battlefield under your control, create a token that’s a copy of it. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Earthquake</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Earthquake deals X damage to each creature without flying and each player.</text>
+    </card>
+    <card>
+      <name>Snowpass Warden</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Treefolk Yeti </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Snowpass Warden enters the battlefield, you may mill five cards. Then, return up to one non-Yeti permanent card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Unfettered Berserker</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Spirit Ape Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>6/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Unfettered Berserker enters the battlefield, up to one target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Most Wanted</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature gets +2/+1.
+When enchanted creature dies, create two Treasure tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Cinderblade Invoker</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cinderblade Invoker has first strike as long as it’s your turn.
+{8}: Creatures you control get +2/+0 and gain first strike until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Infernal Parade</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures target player controls get -2/-2 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Chillwind Invoker</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{8}: Creatures you don’t control get -8/-0 until end of turn. Activate only during your turn.</text>
+    </card>
+    <card>
+      <name>Soulguide Invoker</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Giant </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{8}: Create three 1/1 colorless Spirit creature tokens with “This creature can’t block.”</text>
+    </card>
+    <card>
+      <name>Bleakwood Invoker</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Treefolk Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+{8}: Untap up to two target lands. Until end of turn, they become 4/4 green Treefolk Spirit creatures with trample and haste. They’re still lands.</text>
+    </card>
+    <card>
+      <name>Cryptstone Invoker</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+{8}: Create a token that’s a copy of target creature card in your graveyard, except it has haste. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Common Crook</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fox Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Common Crook dies, up to one target creature gets -1/-1 until end of turn. Mill two cards.
+{3}, Exile Common Crook from your graveyard: You draw a card and lose 1 life.</text>
+    </card>
+    <card>
+      <name>Trick of the Trade</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on up to one target creature. You draw a card and lose 1 life.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Hot Springs Sage</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Turtle Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+{T}: Hot Springs Sage deals 1 damage to each opponent.
+Whenever you cast an instant or sorcery spell, untap Hot Springs Sage.</text>
+    </card>
+    <card>
+      <name>Mission Mailbox</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}: Draw a card, then discard a card. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Voracious Ooze</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Ooze Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on up to one other target creature.</text>
+    </card>
+    <card>
+      <name>Nest Sentinel</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Bird Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Cycling {3} ({3}, Discard this card: Draw a card.)
+When you cycle Nest Sentinel, you  may return target permanent you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Sonic Shatterer</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Sonic Shatterer enters the battlefield, destroy up to one target artifact or enchantment.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Hospitable Drifters</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hospitable Drifters enters the battlefield, draw a card.</text>
+    </card>
+    <card>
+      <name>Grasp of the Betrayer</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to one target spell and up to one target creature. For each of those spells or permanents, its controller puts it on the top or bottom of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Defy the Legends</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target creature with power 4 or greater.
+• Creatures you control gain indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Needlehide Scout</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hedgehog Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)</text>
+    </card>
+    <card>
+      <name>Canopy Scout</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spider Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Landfall — Whenever a land enters the battlefield under your control, scry 1.</text>
+    </card>
+    <card>
+      <name>Breaching Bandit</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Fox Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Breaching Bandit can’t be blocked.
+Whenever you cast your second spell each turn, put a +1/+1 counter on Breaching Bandit.</text>
+    </card>
+    <card>
+      <name>Sandstorm Historian</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lizard Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sandstorm Historian enters the battlefield, scry 2, then draw a card.</text>
+    </card>
+    <card>
+      <name>HAPPI Bureaucrat</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When HAPPI Bureaucrat enters the battlefield, goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Defy Disappearance</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>The next time target creature would leave the battlefield this turn, instead exile it, then return it to the battlefield tapped under its owner’s control. You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Stair Sense</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t be blocked.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Titanic Rescuer</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Crocodile Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Titanic Rescuer enters the battlefield tapped.
+When Titanic Rescuer enters the battlefield, tap up to two target creatures.</text>
+    </card>
+    <card>
+      <name>Unity Chime</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{1}, {T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Scalchop Blademaster</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Otter Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever you cast an artifact or enchantment spell, create a colorless Equipment artifact token named Scalchop with “Equipped creature gets +1/+1.” and equip {1}.</text>
+    </card>
+    <card>
+      <name>Stir the Swap Cauldron</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two target opponents. Each of those players exiles each card from the other player’s hand face down. For each of those cards, for as long as it remains exiled, the player that exiled it may look at it and play it, and mana of any type can be spent to cast it.</text>
+    </card>
+    <card>
+      <name>Thrall of the Bittercold</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Frog Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Thrall of the Bittercold enters the battlefield, mill three cards.
+Thrall of the Bittercold gets +2/+2 as long as there are six or more creature cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Cutthroat Cohort</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, until end of turn, up to one target creature that hasn’t been the target of this ability this turn gets +1/+0 and gains “When this creature dies, draw a card.”</text>
+    </card>
+    <card>
+      <name>Fiery Challenger</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Weasel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fiery Challenger enters the battlefield, distribute two +1/+1 counters among up to two target creatures.
+Creatures with +1/+1 counters on them that are attacking your opponents have trample.</text>
+    </card>
+    <card>
+      <name>Curious Runes</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Eye Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Curious Runes enters the battlefield, discard up to two cards, then draw that many cards.
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Curious Runes.</text>
+    </card>
+    <card>
+      <name>Ember Gliders</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Ember Gliders can’t block.
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)</text>
+    </card>
+    <card>
+      <name>Laborer of Paradise</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Giant Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Laborer of Paradise enters the battlefield, draw a card, then you may put a land card from your hand onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Undergrowth Bruiser</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+When Undergrowth Bruiser enters the battlefield, you may exile a land card from your graveyard. If you do, create two 1/1 green Insect creature tokens.</text>
+    </card>
+    <card>
+      <name>Evolutionary Aspirant</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Serpent Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+5G: Put three +1/+1 counters on Evolutionary Aspirant. Draw a card. Activate only once.</text>
+    </card>
+    <card>
+      <name>Sky Uppercut</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap up to one target creature. It gets +2/+2 and gains reach until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Amp Plains Alpha</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Wolf Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When you cycle Amp Plains Alpha, untap up to one target creature.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Power Band</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has melee. (Whenever that creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat. Multiple instances of melee trigger separately.)
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Radiant Aura</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Radiant Aura enters the battlefield, create a 1/1 white Jackal Ranger creature token for each enchantment you control.
+As long as enchanted creature is attacking, it has double strike.</text>
+    </card>
+    <card>
+      <name>Magnagate</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Landfall — Whenever a land enters the battlefield under your control, choose one —
+• Add one mana of any color.
+• Put a +1/+1 counter on target creature.
+• Scry 1.</text>
+    </card>
+    <card>
+      <name>Astral Atlas</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Astral Atlas enters the battlefield tapped.
+{X}, {T}, Sacrifice Astral Atlas: Add X mana in any combination of colors.
+When Astral Atlas is put into a graveyard from the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Personality Test</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant opponent
+At the beginning of enchanted player’s upkeep, that player chooses one. (You can ask them a question if you want, it’s more fun that way.)
+• Yes — You draw a card.
+• No — Spells that player casts cost {1} more to cast this turn.</text>
+    </card>
+    <card>
+      <name>Quest Courier</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+5W: Creatures you control get +1/+1 and gain vigilance until end of turn.
+5W, Exile Quest Courier from your graveyard: Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Sugar Rush</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+0 until end of turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Rainbows of Hope</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return all permanent cards with mana value 3 or less from your graveyard to the battlefield. Creatures you control gain indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Accidental Incineration</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Accidental Incineration deals 1 damage to each of up to two target creatures.
+• Destroy target artifact.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Faefolk Ironwright</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Gnome Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an artifact enters the battlefield under your control, put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Gang of Thieves</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Ferret Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Whenever you cast an instant or sorcery spell, tap up to one target creature.</text>
+    </card>
+    <card>
+      <name>Architect of Paradise</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Giant Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land enters the battlefield under your control, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+7G: Put three +1/+1 counters on target creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Martial Scamp</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Lizard Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Martial Scamp attacks each combat if able.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Shifty Capo</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dryad Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Shifty Capo can’t be blocked by creatures with power 2 or less.
+At the beginning of your upkeep, return a permanent you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Conniving Lackey</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Snake Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Conniving Lackey enters the battlefield, search your library for a card and put it into your graveyard, them shuffle.</text>
+    </card>
+    <card>
+      <name>Marching Formation</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three 1/1 white Soldier creature tokens with “Other creature tokens you control get +1/+1.”</text>
+    </card>
+    <card>
+      <name>Sentry Duty</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent attacks you with one or more creatures, for each of those creatures that doesn’t have an authorization counter on it, remove it from combat and put an authorization counter on it.</text>
+    </card>
+    <card>
+      <name>Travel Liner Pass</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack, look at the top five cards of your library. For each player you’re attacking, you may reveal a creature, land, or Expedition card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Dungeon Navigation</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of your library. You may play those cards this turn.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Thundering Punks</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Lizard Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Thundering Punks enters the battlefield, for each opponent, choose an artifact or creature that player controls. Choose one of those permanents at random. If it’s a creature, Thundering Punks deals 4 damage to it. Otherwise, destroy it.</text>
+    </card>
+    <card>
+      <name>Calamitous Meteor</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Calamitous Meteor enters the battlefield with twelve time counters on it.
+At the beginning of your upkeep, remove a time counter from Calamitous Meteor. Then if it has no time counters on it, sacrifice it and it deals 12 damage to target player and 12 damage to each creature that player controls.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>On the Run</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant opponent
+Whenever enchanted player is attacked, exile the top card of your library. Until your next end step, you may play that card. Each opponent attacking that player does the same.</text>
+    </card>
+    <card>
+      <name>Mew&apos;s Rebirth</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each player, choose friend or foe. Each friend puts a creature card from their graveyard or a commander they own from the command zone onto the battlefield under their control. You gain protection from each foe until your next turn. (You can’t be targeted, dealt damage, or enchanted by anything each foe controls until your next turn.)</text>
+    </card>
+    <card>
+      <name>Hydreigon&apos;s Summons</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each player, choose friend or foe. Each friend puts a creature card from their hand or a commander they own from the command zone onto the battlefield. Then, for each foe, up to one creature you control fights target creature that player controls.</text>
+    </card>
+    <card>
+      <name>Dusknoir&apos;s Redemption</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each player, choose friend or foe. Each friend draws two cards, then discards a card. Each foe returns a creature they control to their hand.</text>
+    </card>
+    <card>
+      <name>Laboratory Sentinel</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UUU</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Robot Knight </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Laboratory Sentinel enters the battlefield during the declare attackers step, for each attacking creature, you may reselect which player that creature is attacking.</text>
+    </card>
+    <card>
+      <name>Scourge of the Dunes</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Mongoose Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Scourge of the Dunes can’t block.</text>
+    </card>
+    <card>
+      <name>Sheer Mountain Range</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+When Sheer Mountain Range enters the battlefield, create a Treasure token.
+3+ Power 2F
+When you reach 2F, exile the top card of your library. Until end of turn, you may play that card.
+7+ Power 3F
+At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.</text>
+    </card>
+    <card>
+      <name>Gather the Team</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top eight cards of your library. You may put any number of creature cards with total mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Eager Adventurer</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Raccoon Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more +1/+1 counters are put on a creature you control, that creature gains lifelink until end of turn.
+3W: Put a +1/+1 counter on Eager Adventurer.</text>
+    </card>
+    <card>
+      <name>Hidden Land Guide</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dinosaur Scout </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+3U: Target creature can’t be blocked this turn. This ability costs {3} less to activate if it targets a creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Frism</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{3}, {T}, Sacrifice Frism: Return target instant or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Message from a Friend</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target card from your graveyard to your hand.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Party Leader</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Weasel Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+When Party Leader enters the battlefield, create a 1/1 white Jackal Ranger creature token.</text>
+    </card>
+    <card>
+      <name>Swift Guardian</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Frog Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Swift Guardian enters the battlefield, choose target nonland permanent. Its controller may return it to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Teleport Gem</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Teleport Gem enters the battlefield, exile target creature you control, then return it to the battlefield under its owner’s control.
+{6}, {T}, Sacrifice Teleport Gem: Creatures you control can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Legendary Treasures</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more creatures you control deal combat damage to a player, create a tapped Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Sacrifice seven untapped Treasures: Gain control of target non-commander creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Hero of Valiant Audacity</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Dinosaur Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+Whenever a creature you control with power greater than its base power deals combat damage to an opponent, it deals that much damage to any number of other opponents.
+Partner (You can have two commanders if both have partner.)</text>
+    </card>
+    <card>
+      <name>Kindly Innkeeper</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+3U: Scry 1. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)</text>
+    </card>
+    <card>
+      <name>Aquatic Scout</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Weasel Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control attacks and isn’t blocked, it gets +1/+0 until end of turn.
+Whenever a creature you control becomes blocked, you may return it to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Team Badge</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+As long as equipped creature is a commander, it has ward {3}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Conked Out</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap each creature target player controls. Put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+    </card>
+    <card>
+      <name>Unlikely Teammate</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Unlikely Teammate enters the battlefield, create a 1/1 green Insect creature token.
+Whenever you create a token, put a +1/+1 counter on Unlikely Teammate.</text>
+    </card>
+    <card>
+      <name>Join Forces</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature you don’t control. Each player other than that creature’s controller may choose a creature they control. Each of those creatures deals damage equal to its power to the first chosen creature.</text>
+    </card>
+    <card>
+      <name>A Long Way Up</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library. You may reveal a creature or Expedition card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Swirling Quicksand</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Return it to the battlefield under its owner’s control at the beginning of the next end step.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Grovyle, the Thief of Time</name>
+      <set rarity="mythic">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Lizard Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever you attack, create a tapped colorless artifact token named Time Gear with “{T}: Add {U}.” Then if you control five or more artifacts named Time Gear, you may exile Grovyle and those artifacts. If you do, put a trample counter, a hexproof counter, and five +1/+1 counters on each of up to two target creatures.</text>
+    </card>
+    <card>
+      <name>Mystic&apos;s Staff</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Mystic’s Staff enters the battlefield, return up to one target instant or sorcery card from your graveyard to your hand.
+Equipped creature gets +2/+1.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>In the Future of Darkness</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XB</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>All creatures get -X/-X until end of turn.</text>
+    </card>
+    <card>
+      <name>Hired Scoundrel</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Crocodile Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hired Scoundrel enters the battlefield, each player sacrifices a creature. If mana from a Treasure was spent to cast Hired Scoundrel, each opponent sacrifices a creature instead.</text>
+    </card>
+    <card>
+      <name>Terramorphic Expanse</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Excavations Expert</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Rabbit Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample; melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+When Excavations Expert enters the battlefield, mill three cards. If you attacked two or more players this turn, you may put a card from your graveyard on top of your library.</text>
+    </card>
+    <card>
+      <name>Worldcore Wishes</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a creature card from a graveyard or a commander from the command zone onto the battlefield under its owner’s control. When you do, if you don’t control that creature, create a white Aura enchantment token attached to it with enchant creature and “Enchanted creature can’t attack you or block creatures you control.”</text>
+    </card>
+    <card>
+      <name>Bond of Friendship</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack you.
+Enchanted creature can’t block creatures you control.</text>
+    </card>
+    <card>
+      <name>Overburdened Postmaster</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+You have no maximum hand size.
+Whenever an opponent draws a card, if it’s not their draw step, you may draw a card.</text>
+    </card>
+    <card>
+      <name>Mirage Marauder</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Fox Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste; melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Whenever Mirage Marauder attacks, create a token that’s tapped and attacking and that’s a copy of another target attacking creature, except it isn’t legendary. Exile the token at end of combat.</text>
+    </card>
+    <card>
+      <name>Dark Pulse</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets -X/-X, where X is the number of cards in your graveyard.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+When you cycle Dark Pulse, mill three cards.</text>
+    </card>
+    <card>
+      <name>Gigaton Hammer</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +5/+5.
+Equip {7}. This ability costs {1} less to activate for each other artifact you control.</text>
+    </card>
+    <card>
+      <name>Passage of Time</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{2}, {T}, Sacrifice Passage of Time: Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Wrack With Grief</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Wrack With Grief enters the battlefield, target player sacrifices a creature.
+Whenever a commander you control leaves the battlefield, return Wrack With Grief to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Escape Orb</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice Escape Orb: Exile each other nonland permanent you control. At the beginning of the next end step, return those permanents to the battlefield tapped under their owners’ control.</text>
+    </card>
+    <card>
+      <name>Blaze Courier</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dragon Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Blaze Courier enters the battlefield, you may have you and target opponent each discard your hands, then draw seven cards.</text>
+    </card>
+    <card>
+      <name>Post Town Bandit</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+When Post Town Bandit enters the battlefield, each player may pay 3 life. For each player who does, that player surveys. (To survey, scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Dungeon Guard</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Cat Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dungeon Guard dies, each player may survey. (To survey, scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Berserk Mutation</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, double the power of target creature you control. It gains haste, trample, and “Whenever this creature deals damage to a player, it deals that much damage to any number of other target players.” At the beginning of the next end step, sacrifice it.</text>
+    </card>
+    <card>
+      <name>Avaricious Merchant</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Avaricious Merchant enters the battlefield, create two Treasure tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Whenever an artifact enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Curious Statue</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add CC.
+{8}: Until end of turn, Curious Statue becomes a 6/6 red Beast artifact creature with trample.</text>
+    </card>
+    <card>
+      <name>Anxious Prodigy</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you scry, put a +1/+1 counter on Anxious Prodigy.
+{2}: Anxious Prodigy can’t be blocked by creatures with lesser power this turn.</text>
+    </card>
+    <card>
+      <name>Daring Rescue</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each player, choose one —
+• Return target creature that player controls to its owner’s hand.
+• Goad target creature that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>On the Beach at Dusk</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant opponent
+At the beginning of your upkeep, you may have you and enchanted player each draw a card.</text>
+    </card>
+    <card>
+      <name>Tree on the Hill</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color. If you spend this mana to cast your commander, it enters the battlefield with a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Serene Village Caretaker</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Turtle Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creature spells you cast cost {1} less to cast.
+Whenever you cast your second spell each turn, create a 1/1 white Jackal Ranger creature token.</text>
+    </card>
+    <card>
+      <name>Alakazam&apos;s Pursuit</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each player, choose friend or foe. Each friend creates three Treasure tokens. Goad each creature each foe controls. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)</text>
+    </card>
+    <card>
+      <name>Creeping Shadows</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6B</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each creature card in your graveyard.
+Create three 2/2 black Nightmare creature tokens with “When this creature dies, mill cards until you mill a black card.”</text>
+    </card>
+    <card>
+      <name>Wasteland Wayfarer</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Camel Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may look at the top card of your library any time.
+You may play lands from the top of your library.
+Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on up to one other target creature.</text>
+    </card>
+    <card>
+      <name>Bank Manager</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Whenever you sacrifice an artifact, you may pay {2} and discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Gilded Shopkeeper</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Spirit Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gilded Shopkeeper enters the battlefield, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+{3}, {T}: Target creature gets +X/+X until end of turn, where X is the number of artifacts you control. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Dungeon Pit</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{3}, {T}, Tap an untapped commander you control: Draw a card.</text>
+    </card>
+    <card>
+      <name>Pitch In</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, if creatures you control have total power 8 or greater, draw a card.</text>
+    </card>
+    <card>
+      <name>Rockslide Titan</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GGG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Dinosaur Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {4} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Stickyslither Hydra</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Worm Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each creature card in your graveyard.
+Stickyslither Hydra can’t be blocked by creatures with power 2 or less.
+Stickyslither Hydra enters the battlefield with X +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Metallic Mauler</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Artifact Creature - Dinosaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Metallic Mauler enters the battlefield with X +1/+1 counters on it.
+When Metallic Mauler enters the battlefield, if X is 5 or greater, you may discard your hand. If you do, draw a card for each artifact you control and each artifact you’ve sacrificed this turn.</text>
+    </card>
+    <card>
+      <name>Overflowing Chest</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Overflowing Chest enters the battlefield, each player exiles the top card of their library.
+During each player’s turn, that player may play a card from among cards exiled with Overflowing Chest. If it’s a spell, mana of any type can be spent to cast it. When they do, that card’s owner exiles the top card of their library.</text>
+    </card>
+    <card>
+      <name>Spectral Rocketeer</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Spirit Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Spectral Rocketeer enters the battlefield, create two 1/1 black Dragon Spirit creature tokens with flying.
+Whenever you attack, you may sacrifice an artifact or creature. When you do, Spectral Rocketeer deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Ambitious Polymorphist</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Fox Shapeshifter Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Ambitious Polymorphist enter the battlefield as a copy of a creature card in your graveyard, except it has its other abilities.
+This creature gets +1/+1 for each creature card in your graveyard.</text>
+    </card>
+    <card>
+      <name>Treasure Town</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice a Treasure: Choose one —
+• Create a tapped 1/1 white Jackal Ranger creature token.
+• Draw a card, then discard a card.
+• Tap target creature.</text>
+    </card>
+    <card>
+      <name>Fogbound Lake</name>
+      <set rarity="common">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Fogbound Lake enters the battlefield tapped. As it enters, choose a color.
+{T}: Add {U} or one mana of the chosen color.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Illusionist&apos;s Ploy</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {4} less to cast if you control neither creature it targets.
+Exchange control of two target creatures controlled by different players.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Sky Peak</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+Whenever you cast an artifact or enchantment spell, scry 1.
+4+ Power B2F
+Whenever you cast an artifact or enchantment spell, put a +1/+1 counter on up to one target creature.
+8+ Power B3F
+Prevent all damage that would be dealt to enchanted and equipped creatures you control.</text>
+    </card>
+    <card>
+      <name>Frosty Forest</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+When Frosty Forest enters the battlefield, tap up to one target creature and put two stun counters on it.
+5+ Power B2F
+At the beginning of your end step, untap each creature you control.
+12+ Power B3F
+When you reach B3F, create an 8/8 blue Elemental Bird creature token with flying.</text>
+    </card>
+    <card>
+      <name>Abyssal Badlands</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+When Abyssal Badlands enters the battlefield, each opponent sacrifices a creature.
+7+ Power B3F
+At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on up to one target creature.
+12+ Power B2F
+At the beginning of your end step, if a creature died this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Mount Blaze</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+{3}, Sacrifice a land: Draw a card.
+3+ Power 2F
+When you reach 2F, Mount Blaze deals 4 damage to up to one target creature.
+12+ Power 3F
+When you reach 3F, create an 8/8 red Elemental Bird creature token with flying.</text>
+    </card>
+    <card>
+      <name>Revelation Mountain</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Expedition </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
+Whenever you cast a creature spell, you may discard a card. If you do, draw a card.
+5+ Power 2F
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on up to one target creature.
+10+ Power 3F
+When you reach 3F, for each creature you control with a +1/+1 counter on it, return up to one card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Windrider Ranger</name>
+      <set rarity="uncommon">PMD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bat Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+At the beginning of your end step, untap up to two target lands.</text>
+    </card>
+    <card>
+      <name>Uxie of Fogbound Lake</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Landfall — Whenever a land enters the battlefield under your control, if you don’t control an Illusion, create a 5/5 red Elder Beast Illusion token with reach, trample, and “Whenever this creature deals damage or is dealt damage, sacrifice it.”</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
