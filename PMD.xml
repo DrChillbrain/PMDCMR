@@ -22,7 +22,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-Landfall — Whenever a land enters the battlefield under your control, another target creature you control gets +2/+1 and gains trample until end of turn.
+Landfall — Whenever a land you control enters, another target creature you control gets +2/+1 and gains trample until end of turn.
 Partner (You can have two commanders if both have partner.)</text>
     </card>
     <card>
@@ -37,7 +37,7 @@ Partner (You can have two commanders if both have partner.)</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Put up to two creature cards in your graveyard and/or commanders you own in the command zone into your hand.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Hero of Blazing Will</name>
@@ -61,14 +61,14 @@ Partner (You can have two commanders if both have partner.)</text>
       <set rarity="common">PMD</set>
       <prop>
         <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Scry 1, then draw a card.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+      <text>Draw a card.
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Hero of Bold Cunning</name>
@@ -94,24 +94,24 @@ Partner (You can have two commanders if both have partner.)</text>
         <cmc>2</cmc>
         <type>Creature - Plant Scout </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Enthusiastic Scout enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
-Enthusiastic Scout gets +3/+3 and has vigilance as long as you control eight or more lands.</text>
+      <text>When Enthusiastic Scout enters, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+At the beginning of combat on your turn, if you control eight or more lands, put a +1/+1 counter on target creature.</text>
     </card>
     <card>
       <name>Discharge</name>
       <set rarity="common">PMD</set>
       <prop>
         <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose up to one target creature. Discharge deals 2 damage to each other creature.</text>
+      <text>Choose up to one target creature. Discharge deals 3 damage to each other creature.</text>
     </card>
     <card>
       <name>All-Out Brawl</name>
@@ -133,11 +133,11 @@ Enthusiastic Scout gets +3/+3 and has vigilance as long as you control eight or 
         <colors>G</colors>
         <manacost>1G</manacost>
         <cmc>2</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+      <text>You and target opponent each survey. (To survey, scry 2 or search for a basic land, put it into your hand, then shuffle.)
 Draw a card.</text>
     </card>
     <card>
@@ -165,7 +165,7 @@ Draw a card.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant land
-When Meeting of Explorers enters the battlefield, create three 1/1 white Jackal Ranger creature tokens.
+When Meeting of Explorers enters, create three 1/1 white Jackal Ranger creature tokens.
 Enchanted land has “{T}: Add two mana in any combination of colors.”</text>
     </card>
     <card>
@@ -180,7 +180,7 @@ Enchanted land has “{T}: Add two mana in any combination of colors.”</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target creature. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Eternal Oath</name>
@@ -200,19 +200,19 @@ Bounty (As long as you’ve attacked a player with the most life of your opponen
       <set rarity="rare">PMD</set>
       <prop>
         <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
         <type>Enchantment - Expedition </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
 WUBRG: Draw three cards.
-5+ Power B2F
+8+ Power B2F
 At the beginning of your end step, create a Treasure token.
-7+ Power B3F
+10+ Power B3F
 Whenever you sacrifice an artifact, add one mana of any color.
-10+ Power B4F
+12+ Power B4F
 Whenever you sacrifice an artifact, it deals 4 damage to any target.</text>
     </card>
     <card>
@@ -227,10 +227,10 @@ Whenever you sacrifice an artifact, it deals 4 damage to any target.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-When Mystifying Forest enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+When Mystifying Forest enters, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
 2+ Power B2F
 At the beginning of combat on your turn, target creature gains vigilance and trample until end of turn.
-6+ Power B3F
+8+ Power B3F
 At the beginning of combat on your turn, target creature gets +3/+3 until end of turn.</text>
     </card>
     <card>
@@ -265,10 +265,9 @@ When you reach B4F, put target creature card from a graveyard onto the battlefie
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose three. You may choose the same mode more than once.
+      <text>You lose 3 life. Choose three. You may choose the same mode more than once.
 • Return target creature card from your graveyard to your hand.
-• Draw a card.
-You lose 3 life.</text>
+• Draw a card.</text>
     </card>
     <card>
       <name>Buried Relic</name>
@@ -300,7 +299,7 @@ Noncreature artifacts you control are Golem artifact creatures and base power an
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-When Vast Ice Mountain enters the battlefield, each player sacrifices a creature.
+When Vast Ice Mountain enters, each player sacrifices a creature.
 4+ Power 2F
 Whenever a creature you control dies, each opponent loses 1 life.
 6+ Power 3F
@@ -337,7 +336,7 @@ When you reach 3F, create an 8/8 white Elemental Bird creature token with flying
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Charge Beam deals 4 damage to target creature and X damage to that creature’s controller, where X is the number of artifacts you control.</text>
+      <text>Charge Beam deals 5 damage to target creature and X damage to that creature’s controller, where X is the number of artifacts you control.</text>
     </card>
     <card>
       <name>Apple Woods</name>
@@ -351,7 +350,7 @@ When you reach 3F, create an 8/8 white Elemental Bird creature token with flying
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-When Apple Woods enters the battlefield, create two Food tokens. (They’re artifacts with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+When Apple Woods enters, create two Food tokens. (They’re artifacts with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
 3+ Power B2F
 Whenever an artifact is put into your graveyard from the battlefield, create a 1/1 green Insect creature token.
 8+ Power B3F
@@ -370,7 +369,7 @@ Whenever an artifact is put into your graveyard from the battlefield, put a +1/+
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
-When Ditzy Bartender enters the battlefield, put a +1/+1 counter on each of up to two other target creatures you control.</text>
+When Ditzy Bartender enters, put a +1/+1 counter on each of up to two other target creatures you control.</text>
     </card>
     <card>
       <name>Blizzard Island</name>
@@ -419,7 +418,7 @@ Partner (You can have two commanders if both have partner.)</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Merchant Caravan.</text>
+Landfall — Whenever a land you control enters, put a +1/+1 counter on Merchant Caravan.</text>
     </card>
     <card>
       <name>Hero of Gilded Trickery</name>
@@ -433,7 +432,7 @@ Landfall — Whenever a land enters the battlefield under your control, put a +1
         <pt>4/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Hero of Gilded Trickery enters the battlefield, create a Treasure token.
+      <text>When Hero of Gilded Trickery enters, create a Treasure token.
 Creatures you control enter the battlefield with an additional +1/+1 counter on them for each mana from a Treasure spent to cast them.
 Partner (You can have two commanders if both have partner.)</text>
     </card>
@@ -521,11 +520,11 @@ Partner (You can have two commanders if both have partner.)</text>
       <set rarity="uncommon">PMD</set>
       <prop>
         <colors>W</colors>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
         <type>Legendary Creature - Jackal Warrior </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you attack two or more players, you may return target Aura card from your graveyard to the battlefield.
@@ -653,7 +652,7 @@ Partner (You can have two commanders if both have partner.)</text>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each creature you control that attacked this turn. (This counts only creatures still in play.)
-When Hero of Subtle Mischief enters the battlefield, you draw two cards and lose 2 life.
+When Hero of Subtle Mischief enters, you draw two cards and lose 2 life.
 Partner (You can have two commanders if both have partner.)</text>
     </card>
     <card>
@@ -759,8 +758,8 @@ When you cycle Power of Evolution, put a +1/+1 counter on up to one target creat
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose a creature card in your graveyard or a commander you own in the command zone. If its mana value is 3 or less, put it onto the battlefield.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+      <text>Choose a creature card in your graveyard or a commander you own in the command zone. If its mana value is 3 or less or it was put there from the battlefield this turn, put it onto the battlefield.
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Dungeoneer Guide</name>
@@ -775,7 +774,7 @@ Bounty (As long as you’ve attacked a player with the most life of your opponen
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Dungeoneer Guide enters the battlefield, you and target opponent each draw a card.
+When Dungeoneer Guide enters, you and target opponent each draw a card.
 Whenever Dungeoneer Guide attacks, target creature gains flying until end of turn.</text>
     </card>
     <card>
@@ -791,7 +790,7 @@ Whenever Dungeoneer Guide attacks, target creature gains flying until end of tur
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-When Roughousing Whelp enters the battlefield, goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+When Roughousing Whelp enters, goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
     </card>
     <card>
       <name>Dark Crater</name>
@@ -824,7 +823,7 @@ At the beginning of each end step, each player loses life equal to the life they
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Crystal Formation enters the battlefield tapped. As it enters, choose a color.
+      <text>Crystal Formation enters tapped. As it enters, choose a color.
 {T}: Add one mana of the chosen color.</text>
     </card>
     <card>
@@ -853,7 +852,7 @@ Draw a card.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant non-commander creature
-When Temporal Struggle enters the battlefield, tap enchanted creature.
+When Temporal Struggle enters, tap enchanted creature.
 Enchanted creature doesn’t untap during its controller’s untap step.</text>
     </card>
     <card>
@@ -867,8 +866,7 @@ Enchanted creature doesn’t untap during its controller’s untap step.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Aura Sphere deals 3 damage to up to one target creature.
-You may attach an Aura you control to another permanent or player that Aura could enchant.</text>
+      <text>Aura Sphere deals 3 damage to up to one target creature. Attach up to one Aura you control to another permanent or player that Aura could enchant.</text>
     </card>
     <card>
       <name>Droning Study</name>
@@ -897,7 +895,7 @@ Goad up to one target creature. (Until your next turn, that creature attacks eac
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Draconic Veteran enters the battlefield, each opponent loses life equal to the amount of mana from Treasure spent to cast it.
+When Draconic Veteran enters, each opponent loses life equal to the amount of mana from Treasure spent to cast it.
 Cycling {3} ({3}, Discard this card: Draw a card.)
 When you cycle Draconic Veteran, create a Treasure token.</text>
     </card>
@@ -914,8 +912,8 @@ When you cycle Draconic Veteran, create a Treasure token.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, trample
-Ward—Choose a creature you control. It becomes an artifact. (It’s no longer a creature. It still has its abilities.)
-When Yveltal of the Voidlands enters the battlefield, each other creature you control becomes an artifact.</text>
+Ward—Choose a nontoken creature you control. It becomes an artifact. (It’s no longer a creature. It still has its abilities.)
+When Yveltal enters, each other creature you control becomes an artifact.</text>
     </card>
     <card>
       <name>Sky Tower</name>
@@ -929,7 +927,7 @@ When Yveltal of the Voidlands enters the battlefield, each other creature you co
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-When Sky Tower enters the battlefield, put a flying counter on each of up to two target creatures you control.
+When Sky Tower enters, put a flying counter on each of up to two target creatures you control.
 4+ Power 2F
 Creatures you control with flying get +1/+1.
 12+ Power 3F
@@ -948,7 +946,7 @@ When you reach 3F, search your library for a creature card with flying and put i
       <tablerow>0</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
 ({T}: Add {G}.)
-Tree of Life enters the battlefield tapped.
+Tree of Life enters tapped.
 7+ Power 2F
 {T}: Add {G} for each creature you control.
 20+ Power 3F
@@ -969,7 +967,7 @@ XGG: Reveal cards from the top of your library until you reveal a creature card 
 Whenever you goad a creature, it gets +2/+2 until your next turn.
 5+ Power 2F
 Whenever you goad a creature, if it’s your turn, gain control of it. Untap it. It gains haste until end of turn.
-10+ Power 3F
+15+ Power 3F
 At the beginning of combat on your turn, for each opponent, goad up to one target creature that player controls.</text>
     </card>
     <card>
@@ -1033,7 +1031,7 @@ When you reach B4F, put a card you own from outside the game into your hand.</te
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-When Skittering Plunderer enters the battlefield, create a Treasure token. Each opponent may create a Treasure token. For each opponent who did, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+When Skittering Plunderer enters, create a Treasure token. Each opponent may create a Treasure token. For each opponent who did, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
     </card>
     <card>
       <name>Icy Trickster</name>
@@ -1047,8 +1045,8 @@ When Skittering Plunderer enters the battlefield, create a Treasure token. Each 
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
-When Icy Trickster enters the battlefield, tap up to one target creature and put a stun counter on it.</text>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+When Icy Trickster enters, tap up to one target creature and put a stun counter on it.</text>
     </card>
     <card>
       <name>Rescue Headquarters</name>
@@ -1073,7 +1071,7 @@ When Icy Trickster enters the battlefield, tap up to one target creature and put
         <cmc>1</cmc>
         <type>Creature - Insect </type>
         <maintype>Creature</maintype>
-        <pt>0/1</pt>
+        <pt>0/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Add one mana of any color.
@@ -1104,21 +1102,22 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Guild Cuisinier enters the battlefield, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
+      <text>When Guild Cuisinier enters, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
 {2}, {T}: Tap target creature.</text>
     </card>
     <card>
-      <name>Heroic Intervention</name>
+      <name>Behold the Sunrise</name>
       <set rarity="rare">PMD</set>
       <prop>
-        <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Creatures you control gain hexproof and indestructible until end of turn.</text>
+      <text>Target player can’t lose the game this turn and their opponents can’t win the game this turn. Until end of turn, damage that would reduce their life total to less than 1 reduces it to 1 instead.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
       <name>Hero of Draconic Bravery</name>
@@ -1129,11 +1128,10 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <cmc>4</cmc>
         <type>Legendary Creature - Dragon Knight </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Vigilance
-At the beginning of each end step, if you created a token this turn, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+      <text>At the beginning of each end step, if you created a token this turn, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
 Partner (You can have two commanders if both have partner.)</text>
     </card>
     <card>
@@ -1173,7 +1171,7 @@ Partner (You can have two commanders if both have partner.)</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose two target nonland permanents controlled by different players. Return those permanents to their owners’ hands.</text>
+      <text>Return up to two target nonland permanents to their owners’ hands.</text>
     </card>
     <card>
       <name>Jirachi, the Wishmaker</name>
@@ -1249,7 +1247,7 @@ You may cast Dark Matter from your graveyard by exiling five black cards from yo
       </prop>
       <tablerow>3</tablerow>
       <text>Create two 1/1 white Jackal Ranger creature tokens.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Mew, Thousand-Faced Hero</name>
@@ -1267,17 +1265,17 @@ Bounty (As long as you’ve attacked a player with the most life of your opponen
 XWU: Search your library and/or cards you own in the command zone for a legendary creature card with mana value X or less and put it onto the battlefield, then shuffle. When a creature is put onto the battlefield this way, return Mew to the battlefield merged under it. Activate only as a sorcery and only if Mew is in your graveyard. (While merged, it has Mew’s abilities.)</text>
     </card>
     <card>
-      <name>Fact or Fiction</name>
+      <name>Leyline Breakthrough</name>
       <set rarity="uncommon">PMD</set>
       <prop>
         <colors>U</colors>
-        <manacost>3U</manacost>
-        <cmc>4</cmc>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</text>
+      <text>Discard your hand, then draw five cards.</text>
     </card>
     <card>
       <name>Hydreigon, the Voice of Life</name>
@@ -1300,13 +1298,14 @@ Whenever a creature you control with partner dies, you gain life equal to its po
       <set rarity="uncommon">PMD</set>
       <prop>
         <colors>B</colors>
-        <manacost>3B</manacost>
-        <cmc>4</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <manacost>XB</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Each opponent discards a card and loses 1 life. You draw a card and lose 1 life for each card discarded this way.</text>
+      <text>As an additional cost to cast this spell, exile X cards from your graveyard.
+Target player draws X cards and loses X life.</text>
     </card>
     <card>
       <name>Aura Bolt</name>
@@ -1349,7 +1348,7 @@ You may spend black mana as though it were mana of any color.</text>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Scholar of the Sun enters the battlefield, create a colorless Entercard artifact token with “{2}, {T}: Scry 1.”
+      <text>When Scholar of the Sun enters, create a colorless Entercard artifact token with “{2}, {T}: Scry 1.”
 Whenever an Entercard you control becomes tapped, up to one target creature gets +1/+1 until end of turn.</text>
     </card>
     <card>
@@ -1364,7 +1363,7 @@ Whenever an Entercard you control becomes tapped, up to one target creature gets
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Scholar of the Moon enters the battlefield, create a colorless Entercard artifact token with “{2}, {T}: Scry 1.”
+      <text>When Scholar of the Moon enters, create a colorless Entercard artifact token with “{2}, {T}: Scry 1.”
 Whenever an Entercard you control becomes tapped, each opponent loses 1 life and you gain 1 life.</text>
     </card>
     <card>
@@ -1379,8 +1378,8 @@ Whenever an Entercard you control becomes tapped, each opponent loses 1 life and
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Nuzleaf, Servant of Dark Matter enters the battlefield, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
-Whenever one or more cards leave your graveyard, create a 1/1 black Alien creature token with flying, vigilance, and deathtouch.</text>
+      <text>When Nuzleaf enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Whenever one or more cards leave your graveyard, create a 1/1 black Alien creature token with flying and “{T}: Each opponent loses 1 life and you gain 1 life.”</text>
     </card>
     <card>
       <name>Vengeful Shopkeeper</name>
@@ -1409,17 +1408,17 @@ Whenever you’re dealt damage by one or more creatures an opponent controls, pu
       </prop>
       <tablerow>3</tablerow>
       <text>Put a commander you own from the command zone into your hand. Add RR.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
-      <name>Psychic Wayfinder</name>
+      <name>Sandstorm Historian</name>
       <set rarity="common">PMD</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
         <cmc>2</cmc>
-        <type>Creature - Cat Wizard </type>
+        <type>Creature - Lizard Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
       </prop>
@@ -1440,7 +1439,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       <tablerow>2</tablerow>
       <text>This spell costs {2} less to cast for each creature you control with flying.
 Flying, vigilance
-When Rayquaza, Lord of the Sky enters the battlefield, destroy target nonland permanent.</text>
+When Rayquaza, Lord of the Sky enters, destroy target nonland permanent.</text>
     </card>
     <card>
       <name>Harmony Scarf</name>
@@ -1453,8 +1452,8 @@ When Rayquaza, Lord of the Sky enters the battlefield, destroy target nonland pe
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Harmony Scarf enters the battlefield, if it isn’t a token, create a token that’s a copy of it.
-{3}: Each creature you control that has a permanent named Harmony Scarf attached to it has base power and toughness 7/7 until end of turn.
+      <text>When Harmony Scarf enters, if it isn’t a token, create a token that’s a copy of it.
+{3}: Each creature you control that has a permanent named Harmony Scarf attached to it has base power and toughness 8/8 until end of turn.
 Equip {4}
 Equip commander {1}</text>
     </card>
@@ -1500,7 +1499,7 @@ Survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
-When Emolga enters the battlefield, create Dunsparce, Faithful Friend, a legendary 1/1 white Snake Scout creature token with “ {T}: Target creature can’t block this turn.”
+When Emolga enters, create Dunsparce, Faithful Friend, a legendary 1/1 white Snake Scout creature token with “ {T}: Target creature can’t block this turn.”
 Whenever Emolga, Impetuous Ally attacks, you may discard your hand. If you do, draw a card for each token you control.</text>
     </card>
     <card>
@@ -1515,7 +1514,7 @@ Whenever Emolga, Impetuous Ally attacks, you may discard your hand. If you do, d
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever an opponent attacks, if you’re a defending player, you may exile an instant or sorcery card from your graveyard. If you do, create a black Aura Curse enchantment token with enchant player attached to that player with “At the beginning of your upkeep, you lose 1 life.”</text>
+      <text>Whenever an opponent attacks, if you’re a defending player, you may exile an instant or sorcery card from your graveyard. If you do, create a black Aura enchantment token with enchant opponent attached to that player with “At the beginning of your upkeep, you lose 1 life.”</text>
     </card>
     <card>
       <name>Chatot, Chattering Sycophant</name>
@@ -1545,7 +1544,7 @@ Whenever one or more creatures attack, you may have target attacking creature ge
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Drowzee, Somnovorous Outlaw enters the battlefield, for each mana from a Treasure spent to cast it, exile the top card of target player’s library with a dream counter on it.
+      <text>When Drowzee, Somnovorous Outlaw enters, for each mana from a Treasure spent to cast it, exile the top card of target player’s library with a dream counter on it.
 {3}, Discard a card: Exile the top card of target player’s library with a dream counter on it.
 You may play cards with dream counters on them from exile.</text>
     </card>
@@ -1598,8 +1597,8 @@ Whenever Munna, Doomspeaker attacks, you may sacrifice a creature or remove a co
       <set rarity="uncommon">PMD</set>
       <prop>
         <colors>UG</colors>
-        <manacost>GU</manacost>
-        <cmc>2</cmc>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
         <type>Legendary Creature - Bird Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
@@ -1621,8 +1620,8 @@ Whenever you cast a noncreature spell, look at the top card of your library. If 
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a goaded creature deals combat damage to one of your opponents, draw a card, then discard a card. Put a +1/+1 counter on Alakazam, Ranger of Renown.
-Whenever you cast a spell from anywhere other than your hand, goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+      <text>Whenever a goaded creature deals combat damage to one of your opponents, exile the top card of that player’s library. Until the end of your next turn, you may play that card and mana of any type can be spent to cast it.
+Whenever you play a land or cast a spell from anywhere other than your hand, goad up to one target creature.</text>
     </card>
     <card>
       <name>Hero of Furious Force</name>
@@ -1637,7 +1636,7 @@ Whenever you cast a spell from anywhere other than your hand, goad up to one tar
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, haste
-Whenever another creature you control attacks, if its power is 4 or greater, put a +1/+1 counter on it. (You may choose to check after any other attack triggers.)
+Whenever another creature you control attacks, put a +1/+1 counter on it if its power is 4 or greater. (You may choose to check after any other attack triggers.)
 Partner (You can have two commanders if both have partner.)</text>
     </card>
     <card>
@@ -1652,7 +1651,7 @@ Partner (You can have two commanders if both have partner.)</text>
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature. Until end of turn, prevent all damage that would be dealt to that creature.
+      <text>Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature. Until end of turn, prevent all damage that would be dealt to that creature.
 Partner (You can have two commanders if both have partner.)</text>
     </card>
     <card>
@@ -1743,7 +1742,7 @@ Whenever you cast a spell, if it’s not your main phase, create a 1/1 red Gobli
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
 Whenever you cast an instant spell with mana value less than or equal to the number of attacking creatures you control, copy it. You may choose new targets for the copy.</text>
     </card>
     <card>
@@ -1774,7 +1773,7 @@ At the beginning of each end step, if a creature died this turn, each opponent l
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Gengar, the Selfish Master enters the battlefield, sacrifice another creature. When you do, draw cards equal to its power. If the sacrificed creature was legendary, you gain life equal to its toughness.</text>
+When Gengar, the Selfish Master enters, sacrifice another creature. When you do, draw cards equal to its power. If the sacrificed creature was legendary, you gain life equal to its toughness.</text>
     </card>
     <card>
       <name>Mawile, Expedition Archivist</name>
@@ -1788,7 +1787,7 @@ When Gengar, the Selfish Master enters the battlefield, sacrifice another creatu
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast a spell from anywhere other than your hand, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+      <text>Whenever you play a land or cast a spell from anywhere other than your hand, create a tapped Treasure token.
 {3}, {T}, Sacrifice three other artifacts: You may cast a spell from your graveyard without paying its mana cost.</text>
     </card>
     <card>
@@ -1828,7 +1827,7 @@ When Gengar, the Selfish Master enters the battlefield, sacrifice another creatu
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Borrowed Time enters the battlefield, exile target nonland permanent an opponent controls until Borrowed Time leaves the battlefield.</text>
+      <text>When Borrowed Time enters, exile target nonland permanent an opponent controls until Borrowed Time leaves the battlefield.</text>
     </card>
     <card>
       <name>Arcane Spelunker</name>
@@ -1858,7 +1857,7 @@ When Gengar, the Selfish Master enters the battlefield, sacrifice another creatu
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +2/+0.
-When Victory Fire enters the battlefield, enchanted creature deals damage equal to its power to up to one target creature.</text>
+When Victory Fire enters, enchanted creature deals damage equal to its power to up to one target creature.</text>
     </card>
     <card>
       <name>Callous Illuminator</name>
@@ -1873,7 +1872,7 @@ When Victory Fire enters the battlefield, enchanted creature deals damage equal 
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Callous Illuminator enters the battlefield, you may discard a card. If you do, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+When Callous Illuminator enters, you may discard a card. If you do, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Sparking Seeker</name>
@@ -1887,7 +1886,7 @@ When Callous Illuminator enters the battlefield, you may discard a card. If you 
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Sparking Seeker enters the battlefield, put a +1/+1 counter on a creature you control. Each opponent may put a +1/+1 counter on a creature they control. For each opponent who did, put a +1/+1 counter on a creature you control.</text>
+      <text>When Sparking Seeker enters, put a +1/+1 counter on a creature you control. Each opponent may put a +1/+1 counter on a creature they control. For each opponent who did, put a +1/+1 counter on a creature you control.</text>
     </card>
     <card>
       <name>Erratic Inferno</name>
@@ -1928,7 +1927,7 @@ Reveal the top ten cards of your library. Put all creature cards revealed this w
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>As Soulstoke Channeler enters the battlefield, choose creature cards or instant and sorcery cards. It enters the battlefield with a +1/+1 counter on it for each card of the chosen types in your graveyard.</text>
+      <text>As Soulstoke Channeler enters, choose creature cards or instant and sorcery cards. It enters the battlefield with a +1/+1 counter on it for each card of the chosen types in your graveyard.</text>
     </card>
     <card>
       <name>Goblin Gem-Boss</name>
@@ -1942,7 +1941,7 @@ Reveal the top ten cards of your library. Put all creature cards revealed this w
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Goblin Gem-Boss enters the battlefield, create two 1/1 red Goblin creature tokens with melee and “This creature can’t block.” (Whenever it attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</text>
+      <text>When Goblin Gem-Boss enters, create two 1/1 red Goblin creature tokens with melee and “This creature can’t block.” (Whenever it attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</text>
     </card>
     <card>
       <name>Crystalline Feast</name>
@@ -1955,8 +1954,8 @@ Reveal the top ten cards of your library. Put all creature cards revealed this w
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create a Treasure token and a 1/1 red Goblin creature token with melee and “This creature can’t block.” (Whenever that creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+      <text>Create a Treasure token and a 1/1 red Goblin creature token with melee and “This creature can’t block.” (Whenever that creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Mastermind Outlaw</name>
@@ -1998,7 +1997,7 @@ At the beginning of your end step, if combat damage was dealt to each of your op
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-Vanishing 3 (This enters the battlefield with three time counters on it. At your upkeep, remove one. When the last is removed, sacrifice it.)
+Vanishing 3 (This enters with three time counters on it. At your upkeep, remove one. When the last is removed, sacrifice it.)
 3+ Power 2F
 When you reach 2F, draw three cards.
 12+ Power 3F
@@ -2020,23 +2019,21 @@ Spells you cast cost {2} less to cast.</text>
       <text>Reveal the top ten cards of your library. Starting with you, each player chooses a different card from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.</text>
     </card>
     <card>
-      <name>Aura Bow</name>
+      <name>Arcane Stairwell</name>
       <set rarity="uncommon">PMD</set>
       <prop>
         <colors></colors>
         <manacost>1</manacost>
         <cmc>1</cmc>
-        <type>Artifact - Equipment </type>
+        <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>As Aura Bow enters the battlefield, starting with you, each player votes for a color.
-Equipped creature has protection from each color that received the most votes or was tied for the most votes.
-Equip {3}
-Equip commander {1}</text>
+      <text>Arcane Stairwell enters tapped.
+{4}, {T}: Draw two cards. You may put Arcane Stairwell into its owner’s library second from the top. Otherwise, sacrifice it. Activate only as a sorcery.</text>
     </card>
     <card>
-      <name>Blossoming Defense</name>
+      <name>Diligence</name>
       <set rarity="common">PMD</set>
       <prop>
         <colors>G</colors>
@@ -2046,7 +2043,7 @@ Equip commander {1}</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +2/+2 and gains hexproof until end of turn.</text>
+      <text>Put a +1/+1 counter on target creature. It gains hexproof until end of turn.</text>
     </card>
     <card>
       <name>Celebi, Temporal Voyager</name>
@@ -2062,7 +2059,7 @@ Equip commander {1}</text>
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-When Celebi, Temporal Voyager enters the battlefield, create a tapped colorless artifact token named Time Gear with “{T}: Add {U}.”
+When Celebi, Temporal Voyager enters, create a tapped colorless artifact token named Time Gear with “{T}: Add {U}.”
 Untap all artifacts and creatures you control during each other player’s untap step.</text>
     </card>
     <card>
@@ -2089,10 +2086,11 @@ Sacrifice a creature: Put a +1/+1 counter on target creature.</text>
         <cmc>2</cmc>
         <type>Legendary Creature - Salamander Advisor </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Landfall — Whenever a land enters the battlefield under your control, create a 1/1 white Jackal Ranger creature token.</text>
+      <text>Landfall — Whenever a land you control enters, create a 1/1 white Jackal Ranger creature token.
+2GGWW: Creatures you control get +3/+3 until end of turn. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Gardevoir, Spirit Guide</name>
@@ -2156,7 +2154,7 @@ Sacrifice a creature: Put a +1/+1 counter on target creature.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Connection Orb enters the battlefield, exile cards from the top of your library until you exile five creature cards. Shuffle all noncreature cards exiled this way into your library.
+      <text>When Connection Orb enters, exile cards from the top of your library until you exile five creature cards. Shuffle all noncreature cards exiled this way into your library.
 At the beginning of combat on your turn, put a random creature card exiled with Connection Orb onto the battlefield. It gains haste. Exile it at the end of combat or if it would leave the battlefield.</text>
     </card>
     <card>
@@ -2171,7 +2169,7 @@ At the beginning of combat on your turn, put a random creature card exiled with 
         <pt>4/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a creature with mana value 1 or less enters the battlefield under your control, create a tapped Treasure token. If that creature wasn’t a token, put a +1/+1 counter on Armaldo, Reformed Renegade. (Treasure is an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+      <text>Whenever a creature with mana value 1 or less you control enters, create a tapped Treasure token. If that creature wasn’t a token, put a +1/+1 counter on Armaldo, Reformed Renegade. (Treasure is an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
     </card>
     <card>
       <name>The Relic Fragment</name>
@@ -2214,10 +2212,10 @@ Whenever one or more creatures you control deal combat damage to a player, for e
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{1}, {T}: Target instant or sorcery card in a graveyard gains bounty until end of turn. (As long as its owner has attacked a player with the most life of their opponents this turn, they may cast that spell from their graveyard. If they do, exile it.)</text>
+      <text>{1}, {T}: Target instant or sorcery card in a graveyard gains bounty until end of turn. (As long as its owner has attacked a player who had the most life of their opponents this turn, they may cast that spell from their graveyard. If they do, exile it.)</text>
     </card>
     <card>
-      <name>Prepare for the Journey</name>
+      <name>Last-Minute Preparation</name>
       <set rarity="common">PMD</set>
       <prop>
         <colors>R</colors>
@@ -2229,7 +2227,7 @@ Whenever one or more creatures you control deal combat damage to a player, for e
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, discard a card.
 Survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
-Draw a card. Create Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+Draw a card. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
     </card>
     <card>
       <name>Misleading Map</name>
@@ -2242,8 +2240,8 @@ Draw a card. Create Treasure token. (It’s an artifact with “{T}, Sacrifice t
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Misleading Map enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
-{1}, {T}, Sacrifice Misleading Map: Reselect which player target attacking creature is attacking. Activate only during the declare attackers step.</text>
+      <text>When Misleading Map enters, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+{3}, {T}, Sacrifice Misleading Map: Reselect which player target attacking creature is attacking. Activate only during the declare attackers step. (A goaded creature can be selected to attack the player that goaded it in this way.)</text>
     </card>
     <card>
       <name>Chrome Kidnapper</name>
@@ -2258,7 +2256,7 @@ Draw a card. Create Treasure token. (It’s an artifact with “{T}, Sacrifice t
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Chrome Kidnapper enters the battlefield, goad up to two target creatures. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+When Chrome Kidnapper enters, goad up to two target creatures. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
     </card>
     <card>
       <name>Seed Flare</name>
@@ -2313,11 +2311,11 @@ End the turn.</text>
         <cmc>4</cmc>
         <type>Creature - Spider Rogue </type>
         <maintype>Creature</maintype>
-        <pt>1/3</pt>
+        <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Vigilance, reach, deathtouch
-Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)</text>
+      <text>Vigilance, reach
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</text>
     </card>
     <card>
       <name>Lively Town</name>
@@ -2330,7 +2328,7 @@ Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each 
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Lively Town enters the battlefield tapped. As it enters, choose a color.
+      <text>Lively Town enters tapped. As it enters, choose a color.
 {T}: Add {W} or one mana of the chosen color.
 Cycling {3} ({3}, Discard this card: Draw a card.)</text>
     </card>
@@ -2345,7 +2343,7 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Paradise Sanctum enters the battlefield tapped. As it enters, choose a color.
+      <text>Paradise Sanctum enters tapped. As it enters, choose a color.
 {T}: Add {G} or one mana of the chosen color.
 Cycling {3} ({3}, Discard this card: Draw a card.)</text>
     </card>
@@ -2360,7 +2358,7 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Barren Valley enters the battlefield tapped. As it enters, choose a color.
+      <text>Barren Valley enters tapped. As it enters, choose a color.
 {T}: Add {B} or one mana of the chosen color.
 Cycling {3} ({3}, Discard this card: Draw a card.)</text>
     </card>
@@ -2375,7 +2373,7 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Great Canyon enters the battlefield tapped. As it enters, choose a color.
+      <text>Great Canyon enters tapped. As it enters, choose a color.
 {T}: Add {R} or one mana of the chosen color.
 Cycling {3} ({3}, Discard this card: Draw a card.)</text>
     </card>
@@ -2445,8 +2443,8 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>3R: Criminal Immolator gets +2/+0 and gains trample until end of turn.
-When Criminal Immolator enters the battlefield, for each opponent, goad target creature that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+      <text>When Criminal Immolator enters, for each opponent, goad target creature that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+3R: Criminal Immolator gets +2/+0 and gains trample until end of turn.</text>
     </card>
     <card>
       <name>Aerial Escapist</name>
@@ -2462,7 +2460,7 @@ When Criminal Immolator enters the battlefield, for each opponent, goad target c
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-When Aerial Escapist enters the battlefield, exile up to one other target creature. Return that card to the battlefield under its owner’s control at the beginning of the next end step.</text>
+When Aerial Escapist enters, exile up to one other target creature. Return that card to the battlefield under its owner’s control at the beginning of the next end step.</text>
     </card>
     <card>
       <name>Restock</name>
@@ -2489,8 +2487,8 @@ When Aerial Escapist enters the battlefield, exile up to one other target creatu
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
-When Thornbite Brawler enters the battlefield, up to one target creature you control fights target creature you don’t control.</text>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+When Thornbite Brawler enters, up to one target creature you control fights target creature you don’t control.</text>
     </card>
     <card>
       <name>Feat of Courage</name>
@@ -2506,7 +2504,7 @@ When Thornbite Brawler enters the battlefield, up to one target creature you con
       <text>Flash
 Enchant creature
 Enchanted creature gets +2/+2.
-When Feat of Courage enters the battlefield, up to one target creature other than enchanted creature gets +2/+2 until end of turn.</text>
+When Feat of Courage enters, up to one target creature other than enchanted creature gets +2/+2 until end of turn.</text>
     </card>
     <card>
       <name>Collectors of Shiny Objects</name>
@@ -2520,7 +2518,7 @@ When Feat of Courage enters the battlefield, up to one target creature other tha
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Collectors of Shiny Objects enters the battlefield, create two Treasure tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+      <text>When Collectors of Shiny Objects enters, create two Treasure tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)
 3B: Collectors of Shiny Objects gets +4/+4 until end of turn. Activate only as a sorcery.</text>
     </card>
     <card>
@@ -2535,8 +2533,8 @@ When Feat of Courage enters the battlefield, up to one target creature other tha
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
-Whenever Borderlands Tromper deals combat damage to a player, if that player controls more lands than you, search your library for a basic Plains card and put it onto the battlefield, then shuffle.</text>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+Whenever Borderlands Tromper deals combat damage to a player, if that player controls more lands than you, search your library for a basic land card and put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Thunderous Showdown</name>
@@ -2549,7 +2547,7 @@ Whenever Borderlands Tromper deals combat damage to a player, if that player con
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Thunderous Showdown enters the battlefield, for each opponent, goad up to one target creature that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+      <text>When Thunderous Showdown enters, for each opponent, goad up to one target creature that player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
 Whenever one or more creatures attack, you may have target attacking creature gain double strike and trample until end of turn.</text>
     </card>
     <card>
@@ -2565,7 +2563,7 @@ Whenever one or more creatures attack, you may have target attacking creature ga
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Avian Cartographer enters the battlefield, each player may survey.  (To survey, scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+When Avian Cartographer enters, each player may survey.  (To survey, scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Pilfering Pair</name>
@@ -2579,7 +2577,7 @@ When Avian Cartographer enters the battlefield, each player may survey.  (To sur
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Pilfering Pair enters the battlefield, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+      <text>When Pilfering Pair enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
 Whenever you sacrifice a Treasure, Pilfering Pair gains flying until end of turn.</text>
     </card>
     <card>
@@ -2595,7 +2593,7 @@ Whenever you sacrifice a Treasure, Pilfering Pair gains flying until end of turn
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Kyurem enters the battlefield, for each opponent, tap up to one target creature that player controls and put a stun counter on it.
+When Kyurem, Agent of Disaster enters, for each opponent, tap up to one target creature that player controls and put a stun counter on it.
 Whenever you attack, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
     </card>
     <card>
@@ -2611,10 +2609,10 @@ Whenever you attack, proliferate. (Choose any number of permanents and/or player
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever you sacrifice a permanent, up to one target creature gets +1/+1 until end of turn.</text>
+Whenever you sacrifice a permanent, target creature gets +1/+1 until end of turn.</text>
     </card>
     <card>
-      <name>Chitinous Trailblazer</name>
+      <name>Chitinous Pathfinder</name>
       <set rarity="common">PMD</set>
       <prop>
         <colors>G</colors>
@@ -2625,8 +2623,8 @@ Whenever you sacrifice a permanent, up to one target creature gets +1/+1 until e
         <pt>*/*</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Chitinous Trailblazer’s power and toughness are each equal to the number of lands you control.
-When Chitinous Trailblazer enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+      <text>Chitinous Pathfinder’s power and toughness are each equal to the number of lands you control.
+When Chitinous Pathfinder enters, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Lookalike Switcheroo</name>
@@ -2653,7 +2651,7 @@ When Chitinous Trailblazer enters the battlefield, survey. (Scry 2 or search for
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-When Destiny Tower enters the battlefield, exile all creatures.
+When Destiny Tower enters, exile all creatures.
 5+ Power 2F
 When you reach 2F, draw five cards and create five Treasure tokens.
 20+ Power 3F
@@ -2685,21 +2683,22 @@ When you reach 3F, create a colorless artifact token named Space Globe with “W
       </prop>
       <tablerow>3</tablerow>
       <text>Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
-      <name>Vine Whip</name>
+      <name>Craw Companion</name>
       <set rarity="common">PMD</set>
       <prop>
         <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Wurm Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
       </prop>
-      <tablerow>3</tablerow>
-      <text>Any number of target players each sacrifice a nontoken artifact or enchantment.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Craw Companion enters, creatures you control get +1/+1 and gain trample until end of turn.</text>
     </card>
     <card>
       <name>Defend Globe</name>
@@ -2712,7 +2711,7 @@ Bounty (As long as you’ve attacked a player with the most life of your opponen
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Defend Globe enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+      <text>When Defend Globe enters, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
 As long as it’s your turn, prevent all damage that would be dealt to equipped creature.
 Equip {2}</text>
     </card>
@@ -2744,8 +2743,8 @@ Whenever you cast a spell, if it isn’t your turn or you’ve cast another spel
         <pt>0/0</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Lumbering Inn enters the battlefield with X +1/+1 counters on it.
-When Lumbering Inn enters the battlefield, put a +1/+1 counter on each other creature you control.</text>
+      <text>Lumbering Inn enters with X +1/+1 counters on it.
+When Lumbering Inn enters, put a +1/+1 counter on each other creature you control.</text>
     </card>
     <card>
       <name>Xerneas of the Tree of Life</name>
@@ -2760,7 +2759,7 @@ When Lumbering Inn enters the battlefield, put a +1/+1 counter on each other cre
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, reach, ward {2}
-Whenever another permanent with mana value 6 or greater enters the battlefield under your control, create a token that’s a copy of it. This ability triggers only once each turn.</text>
+Whenever another permanent with mana value 5 or greater you control enters, create a token that’s a copy of it. This ability triggers only once each turn.</text>
     </card>
     <card>
       <name>Earthquake</name>
@@ -2788,7 +2787,7 @@ Whenever another permanent with mana value 6 or greater enters the battlefield u
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-When Snowpass Warden enters the battlefield, you may mill five cards. Then, return up to one non-Yeti permanent card from your graveyard to your hand.</text>
+When Snowpass Warden enters, you may mill five cards. Then, return up to one non-Yeti permanent card from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Unfettered Berserker</name>
@@ -2803,7 +2802,7 @@ When Snowpass Warden enters the battlefield, you may mill five cards. Then, retu
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-When Unfettered Berserker enters the battlefield, up to one target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard.</text>
+When Unfettered Berserker enters, up to one target creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard.</text>
     </card>
     <card>
       <name>Most Wanted</name>
@@ -2863,7 +2862,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-{8}: Creatures you don’t control get -8/-0 until end of turn. Activate only during your turn.</text>
+{8}: Creatures you don’t control get -8/-0 until end of turn. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Soulguide Invoker</name>
@@ -2872,13 +2871,13 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <colors>W</colors>
         <manacost>4W</manacost>
         <cmc>5</cmc>
-        <type>Creature - Spirit Giant </type>
+        <type>Artifact Creature - Spirit Giant </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-{8}: Create three 1/1 colorless Spirit creature tokens with “This creature can’t block.”</text>
+{8}: Create three 1/1 white Spirit creature tokens with flying and “This creature can’t block.”</text>
     </card>
     <card>
       <name>Bleakwood Invoker</name>
@@ -2902,7 +2901,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <colors>B</colors>
         <manacost>3B</manacost>
         <cmc>4</cmc>
-        <type>Creature - Spirit </type>
+        <type>Artifact Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
       </prop>
@@ -2937,7 +2936,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Put a +1/+1 counter on up to one target creature. You draw a card and lose 1 life.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Hot Springs Sage</name>
@@ -3012,22 +3011,22 @@ When you cycle Nest Sentinel, you  may return target permanent you control to it
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Sonic Shatterer enters the battlefield, destroy up to one target artifact or enchantment.
+When Sonic Shatterer enters, destroy up to one target artifact or enchantment.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
-      <name>Hospitable Drifters</name>
+      <name>Elder of the Village</name>
       <set rarity="common">PMD</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
         <cmc>3</cmc>
-        <type>Creature - Spirit Citizen </type>
+        <type>Creature - Beast Citizen </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>4/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Hospitable Drifters enters the battlefield, draw a card.</text>
+      <text>When Elder of the Village dies, draw a card.</text>
     </card>
     <card>
       <name>Grasp of the Betrayer</name>
@@ -3070,7 +3069,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike
-Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)</text>
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</text>
     </card>
     <card>
       <name>Canopy Scout</name>
@@ -3085,7 +3084,7 @@ Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each 
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Landfall — Whenever a land enters the battlefield under your control, scry 1.</text>
+Landfall — Whenever a land you control enters, scry 1.</text>
     </card>
     <card>
       <name>Breaching Bandit</name>
@@ -3103,18 +3102,18 @@ Landfall — Whenever a land enters the battlefield under your control, scry 1.<
 Whenever you cast your second spell each turn, put a +1/+1 counter on Breaching Bandit.</text>
     </card>
     <card>
-      <name>Sandstorm Historian</name>
+      <name>Enigmatic Youth</name>
       <set rarity="common">PMD</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
         <cmc>3</cmc>
-        <type>Creature - Lizard Wizard </type>
+        <type>Creature - Nymph </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Sandstorm Historian enters the battlefield, scry 2, then draw a card.</text>
+      <text>When Enigmatic Youth enters, scry 2, then draw a card.</text>
     </card>
     <card>
       <name>HAPPI Bureaucrat</name>
@@ -3130,7 +3129,7 @@ Whenever you cast your second spell each turn, put a +1/+1 counter on Breaching 
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-When HAPPI Bureaucrat enters the battlefield, goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+When HAPPI Bureaucrat enters, goad up to one target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
     </card>
     <card>
       <name>Defy Disappearance</name>
@@ -3173,8 +3172,8 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Titanic Rescuer enters the battlefield tapped.
-When Titanic Rescuer enters the battlefield, tap up to two target creatures.</text>
+Titanic Rescuer enters tapped.
+When Titanic Rescuer enters, tap up to two target creatures.</text>
     </card>
     <card>
       <name>Unity Chime</name>
@@ -3232,7 +3231,7 @@ Whenever you cast an artifact or enchantment spell, create a colorless Equipment
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-When Thrall of the Bittercold enters the battlefield, mill three cards.
+When Thrall of the Bittercold enters, mill three cards.
 Thrall of the Bittercold gets +2/+2 as long as there are six or more creature cards in your graveyard.</text>
     </card>
     <card>
@@ -3261,7 +3260,7 @@ Thrall of the Bittercold gets +2/+2 as long as there are six or more creature ca
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Fiery Challenger enters the battlefield, distribute two +1/+1 counters among up to two target creatures.
+      <text>When Fiery Challenger enters, distribute two +1/+1 counters among up to two target creatures.
 Creatures with +1/+1 counters on them that are attacking your opponents have trample.</text>
     </card>
     <card>
@@ -3276,7 +3275,7 @@ Creatures with +1/+1 counters on them that are attacking your opponents have tra
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Curious Runes enters the battlefield, discard up to two cards, then draw that many cards.
+      <text>When Curious Runes enters, discard up to two cards, then draw that many cards.
 Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Curious Runes.</text>
     </card>
     <card>
@@ -3293,7 +3292,7 @@ Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Curious Ru
       <tablerow>2</tablerow>
       <text>Flying, haste
 Ember Gliders can’t block.
-Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)</text>
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)</text>
     </card>
     <card>
       <name>Laborer of Paradise</name>
@@ -3304,10 +3303,10 @@ Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each 
         <cmc>3</cmc>
         <type>Creature - Giant Citizen </type>
         <maintype>Creature</maintype>
-        <pt>1/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Laborer of Paradise enters the battlefield, draw a card, then you may put a land card from your hand onto the battlefield tapped.</text>
+      <text>When Laborer of Paradise enters, draw a card. You may play an additional land this turn.</text>
     </card>
     <card>
       <name>Undergrowth Bruiser</name>
@@ -3321,8 +3320,8 @@ Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each 
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
-When Undergrowth Bruiser enters the battlefield, you may exile a land card from your graveyard. If you do, create two 1/1 green Insect creature tokens.</text>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+When Undergrowth Bruiser enters, you may exile a land card from your graveyard. If you do, create two 1/1 green Insect creature tokens.</text>
     </card>
     <card>
       <name>Evolutionary Aspirant</name>
@@ -3344,13 +3343,13 @@ When Undergrowth Bruiser enters the battlefield, you may exile a land card from 
       <set rarity="common">PMD</set>
       <prop>
         <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Untap up to one target creature. It gets +2/+2 and gains reach until end of turn.
+      <text>Untap up to one target creature. It gets +X/+X and gains reach and trample until end of turn.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
@@ -3366,7 +3365,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-When you cycle Amp Plains Alpha, untap up to one target creature.
+When Amp Plains Alpha enters or when you cycle it, untap up to one target creature.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
     <card>
@@ -3395,7 +3394,7 @@ Equip {1}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-When Radiant Aura enters the battlefield, create a 1/1 white Jackal Ranger creature token for each enchantment you control.
+When Radiant Aura enters, create a 1/1 white Jackal Ranger creature token for each enchantment you control.
 As long as enchanted creature is attacking, it has double strike.</text>
     </card>
     <card>
@@ -3409,7 +3408,7 @@ As long as enchanted creature is attacking, it has double strike.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Landfall — Whenever a land enters the battlefield under your control, choose one —
+      <text>Landfall — Whenever a land you control enters, choose one —
 • Add one mana of any color.
 • Put a +1/+1 counter on target creature.
 • Scry 1.</text>
@@ -3425,7 +3424,7 @@ As long as enchanted creature is attacking, it has double strike.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Astral Atlas enters the battlefield tapped.
+      <text>Astral Atlas enters tapped.
 {X}, {T}, Sacrifice Astral Atlas: Add X mana in any combination of colors.
 When Astral Atlas is put into a graveyard from the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
     </card>
@@ -3486,7 +3485,8 @@ Draw a card.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return all permanent cards with mana value 3 or less from your graveyard to the battlefield. Creatures you control gain indestructible until end of turn.</text>
+      <text>This spell can’t be countered.
+Return all permanent cards with mana value 3 or less from your graveyard to the battlefield. Creatures you control gain indestructible until end of turn.</text>
     </card>
     <card>
       <name>Accidental Incineration</name>
@@ -3516,7 +3516,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever an artifact enters the battlefield under your control, put a +1/+1 counter on target creature.</text>
+      <text>Whenever an artifact you control enters, put a +1/+1 counter on target creature.</text>
     </card>
     <card>
       <name>Gang of Thieves</name>
@@ -3525,12 +3525,12 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <colors>U</colors>
         <manacost>3U</manacost>
         <cmc>4</cmc>
-        <type>Creature - Ferret Rogue </type>
+        <type>Creature - Ferret Weasel Raccoon Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
 Whenever you cast an instant or sorcery spell, tap up to one target creature.</text>
     </card>
     <card>
@@ -3545,7 +3545,7 @@ Whenever you cast an instant or sorcery spell, tap up to one target creature.</t
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Landfall — Whenever a land enters the battlefield under your control, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+      <text>Landfall — Whenever a land you control enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
 7G: Put three +1/+1 counters on target creature. Activate only as a sorcery.</text>
     </card>
     <card>
@@ -3560,7 +3560,7 @@ Whenever you cast an instant or sorcery spell, tap up to one target creature.</t
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
 Martial Scamp attacks each combat if able.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
@@ -3576,7 +3576,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
 Shifty Capo can’t be blocked by creatures with power 2 or less.
 At the beginning of your upkeep, return a permanent you control to its owner’s hand.</text>
     </card>
@@ -3593,20 +3593,7 @@ At the beginning of your upkeep, return a permanent you control to its owner’s
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-When Conniving Lackey enters the battlefield, search your library for a card and put it into your graveyard, them shuffle.</text>
-    </card>
-    <card>
-      <name>Marching Formation</name>
-      <set rarity="rare">PMD</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>5WW</manacost>
-        <cmc>7</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Create three 1/1 white Soldier creature tokens with “Other creature tokens you control get +1/+1.”</text>
+When Conniving Lackey enters, search your library for a card and put it into your graveyard, them shuffle.</text>
     </card>
     <card>
       <name>Sentry Duty</name>
@@ -3635,7 +3622,7 @@ When Conniving Lackey enters the battlefield, search your library for a card and
       <text>Whenever you attack, look at the top five cards of your library. For each player you’re attacking, you may reveal a creature, land, or Expedition card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
     </card>
     <card>
-      <name>Dungeon Navigation</name>
+      <name>Where To Next</name>
       <set rarity="common">PMD</set>
       <prop>
         <colors>R</colors>
@@ -3646,7 +3633,7 @@ When Conniving Lackey enters the battlefield, search your library for a card and
       </prop>
       <tablerow>3</tablerow>
       <text>Exile the top two cards of your library. You may play those cards this turn.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Thundering Punks</name>
@@ -3660,7 +3647,7 @@ Bounty (As long as you’ve attacked a player with the most life of your opponen
         <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Thundering Punks enters the battlefield, for each opponent, choose an artifact or creature that player controls. Choose one of those permanents at random. If it’s a creature, Thundering Punks deals 4 damage to it. Otherwise, destroy it.</text>
+      <text>When Thundering Punks enters, for each opponent, choose an artifact or creature that player controls. Choose one of those permanents at random. If it’s a creature, Thundering Punks deals 4 damage to it. Otherwise, destroy it.</text>
     </card>
     <card>
       <name>Calamitous Meteor</name>
@@ -3673,7 +3660,7 @@ Bounty (As long as you’ve attacked a player with the most life of your opponen
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Calamitous Meteor enters the battlefield with twelve time counters on it.
+      <text>Calamitous Meteor enters with twelve time counters on it.
 At the beginning of your upkeep, remove a time counter from Calamitous Meteor. Then if it has no time counters on it, sacrifice it and it deals 12 damage to target player and 12 damage to each creature that player controls.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
@@ -3705,7 +3692,7 @@ Whenever enchanted player is attacked, exile the top card of your library. Until
       <text>For each player, choose friend or foe. Each friend puts a creature card from their graveyard or a commander they own from the command zone onto the battlefield under their control. You gain protection from each foe until your next turn. (You can’t be targeted, dealt damage, or enchanted by anything each foe controls until your next turn.)</text>
     </card>
     <card>
-      <name>Hydreigon&apos;s Summons</name>
+      <name>Hydreigon&apos;s Call</name>
       <set rarity="rare">PMD</set>
       <prop>
         <colors>G</colors>
@@ -3743,7 +3730,7 @@ Whenever enchanted player is attacked, exile the top card of your library. Until
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Laboratory Sentinel enters the battlefield during the declare attackers step, for each attacking creature, you may reselect which player that creature is attacking.</text>
+When Laboratory Sentinel enters during the declare attackers step, for each attacking creature, you may reselect which player that creature is attacking.</text>
     </card>
     <card>
       <name>Scourge of the Dunes</name>
@@ -3758,7 +3745,7 @@ When Laboratory Sentinel enters the battlefield during the declare attackers ste
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
 Scourge of the Dunes can’t block.</text>
     </card>
     <card>
@@ -3766,17 +3753,17 @@ Scourge of the Dunes can’t block.</text>
       <set rarity="uncommon">PMD</set>
       <prop>
         <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
         <type>Enchantment - Expedition </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-When Sheer Mountain Range enters the battlefield, create a Treasure token.
+When Sheer Mountain Range enters, create a tapped Treasure token.
 3+ Power 2F
 When you reach 2F, exile the top card of your library. Until end of turn, you may play that card.
-7+ Power 3F
+8+ Power 3F
 At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.</text>
     </card>
     <card>
@@ -3791,7 +3778,7 @@ At the beginning of your upkeep, exile the top card of your library. Until end o
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top eight cards of your library. You may put any number of creature cards with total mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Eager Adventurer</name>
@@ -3849,7 +3836,7 @@ Bounty (As long as you’ve attacked a player with the most life of your opponen
       </prop>
       <tablerow>3</tablerow>
       <text>Return target card from your graveyard to your hand.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Party Leader</name>
@@ -3863,8 +3850,8 @@ Bounty (As long as you’ve attacked a player with the most life of your opponen
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
-When Party Leader enters the battlefield, create a 1/1 white Jackal Ranger creature token.</text>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+When Party Leader enters, create a 1/1 white Jackal Ranger creature token.</text>
     </card>
     <card>
       <name>Swift Guardian</name>
@@ -3879,7 +3866,7 @@ When Party Leader enters the battlefield, create a 1/1 white Jackal Ranger creat
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Swift Guardian enters the battlefield, choose target nonland permanent. Its controller may return it to its owner’s hand.</text>
+When Swift Guardian enters, choose target nonland permanent. Its controller may return it to its owner’s hand.</text>
     </card>
     <card>
       <name>Teleport Gem</name>
@@ -3893,7 +3880,7 @@ When Swift Guardian enters the battlefield, choose target nonland permanent. Its
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-When Teleport Gem enters the battlefield, exile target creature you control, then return it to the battlefield under its owner’s control.
+When Teleport Gem enters, exile target creature you control, then return it to the battlefield under its owner’s control.
 {6}, {T}, Sacrifice Teleport Gem: Creatures you control can’t be blocked this turn.</text>
     </card>
     <card>
@@ -3907,7 +3894,7 @@ When Teleport Gem enters the battlefield, exile target creature you control, the
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever one or more creatures you control deal combat damage to a player, create a tapped Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+      <text>Whenever one or more creatures you control deal combat damage to a player, create a tapped Treasure token. (This ability triggers once for each player damaged.)
 Sacrifice seven untapped Treasures: Gain control of target non-commander creature. Activate only as a sorcery.</text>
     </card>
     <card>
@@ -3997,7 +3984,7 @@ Equip {1}</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Unlikely Teammate enters the battlefield, create a 1/1 green Insect creature token.
+When Unlikely Teammate enters, create a 1/1 green Insect creature token.
 Whenever you create a token, put a +1/+1 counter on Unlikely Teammate.</text>
     </card>
     <card>
@@ -4025,7 +4012,7 @@ Whenever you create a token, put a +1/+1 counter on Unlikely Teammate.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top five cards of your library. You may reveal a creature or Expedition card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
-Bounty (As long as you’ve attacked a player with the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
+Bounty (As long as you’ve attacked a player who had the most life of your opponents this turn, you may cast this spell from your graveyard. Then exile it.)</text>
     </card>
     <card>
       <name>Swirling Quicksand</name>
@@ -4067,7 +4054,7 @@ Whenever you attack, create a tapped colorless artifact token named Time Gear wi
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Mystic’s Staff enters the battlefield, return up to one target instant or sorcery card from your graveyard to your hand.
+      <text>When Mystic’s Staff enters, return up to one target instant or sorcery card from your graveyard to your hand.
 Equipped creature gets +2/+1.
 Equip {2}</text>
     </card>
@@ -4096,7 +4083,7 @@ Equip {2}</text>
         <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Hired Scoundrel enters the battlefield, each player sacrifices a creature. If mana from a Treasure was spent to cast Hired Scoundrel, each opponent sacrifices a creature instead.</text>
+      <text>When Hired Scoundrel enters, each player sacrifices a creature. If mana from a Treasure was spent to cast Hired Scoundrel, each opponent sacrifices a creature instead.</text>
     </card>
     <card>
       <name>Terramorphic Expanse</name>
@@ -4123,8 +4110,8 @@ Equip {2}</text>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample; melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
-When Excavations Expert enters the battlefield, mill three cards. If you attacked two or more players this turn, you may put a card from your graveyard on top of your library.</text>
+      <text>Trample; melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+When Excavations Expert enters, mill three cards. If you attacked two or more players this turn, you may put a card from your graveyard on top of your library.</text>
     </card>
     <card>
       <name>Worldcore Wishes</name>
@@ -4151,8 +4138,7 @@ When Excavations Expert enters the battlefield, mill three cards. If you attacke
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-Enchanted creature can’t attack you.
-Enchanted creature can’t block creatures you control.</text>
+Enchanted creature can’t attack you or block creatures you control.</text>
     </card>
     <card>
       <name>Overburdened Postmaster</name>
@@ -4179,10 +4165,10 @@ Whenever an opponent draws a card, if it’s not their draw step, you may draw a
         <cmc>6</cmc>
         <type>Creature - Fox Berserker </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Haste; melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+      <text>Haste; melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
 Whenever Mirage Marauder attacks, create a token that’s tapped and attacking and that’s a copy of another target attacking creature, except it isn’t legendary. Exile the token at end of combat.</text>
     </card>
     <card>
@@ -4240,7 +4226,7 @@ Equip {7}. This ability costs {1} less to activate for each other artifact you c
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Wrack With Grief enters the battlefield, target player sacrifices a creature.
+      <text>When Wrack With Grief enters, target player sacrifices a creature.
 Whenever a commander you control leaves the battlefield, return Wrack With Grief to its owner’s hand.</text>
     </card>
     <card>
@@ -4269,7 +4255,7 @@ Whenever a commander you control leaves the battlefield, return Wrack With Grief
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Blaze Courier enters the battlefield, you may have you and target opponent each discard your hands, then draw seven cards.</text>
+When Blaze Courier enters, you may have you and target opponent each discard your hands, then draw seven cards.</text>
     </card>
     <card>
       <name>Post Town Bandit</name>
@@ -4283,8 +4269,8 @@ When Blaze Courier enters the battlefield, you may have you and target opponent 
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
-When Post Town Bandit enters the battlefield, each player may pay 3 life. For each player who does, that player surveys. (To survey, scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+When Post Town Bandit enters, each player may pay 3 life. For each player who does, that player surveys. (To survey, scry 2 or search for a basic land, put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Dungeon Guard</name>
@@ -4325,8 +4311,8 @@ When Post Town Bandit enters the battlefield, each player may pay 3 life. For ea
         <pt>2/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Avaricious Merchant enters the battlefield, create two Treasure tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)
-Whenever an artifact enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.</text>
+      <text>When Avaricious Merchant enters, create two Treasure tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+Whenever an artifact you control enters, each opponent loses 1 life and you gain 1 life.</text>
     </card>
     <card>
       <name>Curious Statue</name>
@@ -4340,7 +4326,7 @@ Whenever an artifact enters the battlefield under your control, each opponent lo
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Add CC.
-{8}: Until end of turn, Curious Statue becomes a 6/6 red Beast artifact creature with trample.</text>
+{8}: Until end of turn, Curious Statue becomes a 6/6 red Elder Beast Sculpture artifact creature with trample.</text>
     </card>
     <card>
       <name>Anxious Prodigy</name>
@@ -4351,7 +4337,7 @@ Whenever an artifact enters the battlefield under your control, each opponent lo
         <cmc>2</cmc>
         <type>Creature - Cat Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you scry, put a +1/+1 counter on Anxious Prodigy.
@@ -4398,7 +4384,7 @@ At the beginning of your upkeep, you may have you and enchanted player each draw
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color. If you spend this mana to cast your commander, it enters the battlefield with a +1/+1 counter on it.</text>
+{1}, {T}: Add one mana of any color. If you spend this mana to cast your commander, it enters with an additional +1/+1 counter on it.</text>
     </card>
     <card>
       <name>Serene Village Caretaker</name>
@@ -4409,7 +4395,7 @@ At the beginning of your upkeep, you may have you and enchanted player each draw
         <cmc>4</cmc>
         <type>Creature - Turtle Citizen </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>2/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Creature spells you cast cost {1} less to cast.
@@ -4456,7 +4442,7 @@ Create three 2/2 black Nightmare creature tokens with “When this creature dies
       <tablerow>2</tablerow>
       <text>You may look at the top card of your library any time.
 You may play lands from the top of your library.
-Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on up to one other target creature.</text>
+Landfall — Whenever a land you control enters, put a +1/+1 counter on up to one other target creature.</text>
     </card>
     <card>
       <name>Bank Manager</name>
@@ -4485,7 +4471,7 @@ Whenever you sacrifice an artifact, you may pay {2} and discard a card. If you d
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Gilded Shopkeeper enters the battlefield, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+      <text>When Gilded Shopkeeper enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
 {3}, {T}: Target creature gets +X/+X until end of turn, where X is the number of artifacts you control. Activate only as a sorcery.</text>
     </card>
     <card>
@@ -4544,7 +4530,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each creature card in your graveyard.
 Stickyslither Hydra can’t be blocked by creatures with power 2 or less.
-Stickyslither Hydra enters the battlefield with X +1/+1 counters on it.</text>
+Stickyslither Hydra enters with X +1/+1 counters on it.</text>
     </card>
     <card>
       <name>Metallic Mauler</name>
@@ -4558,8 +4544,8 @@ Stickyslither Hydra enters the battlefield with X +1/+1 counters on it.</text>
         <pt>0/0</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Metallic Mauler enters the battlefield with X +1/+1 counters on it.
-When Metallic Mauler enters the battlefield, if X is 5 or greater, you may discard your hand. If you do, draw a card for each artifact you control and each artifact you’ve sacrificed this turn.</text>
+      <text>Metallic Mauler enters with X +1/+1 counters on it.
+When Metallic Mauler enters, if X is 5 or greater, you may discard your hand. If you do, draw a card for each artifact you control and each artifact you’ve sacrificed this turn.</text>
     </card>
     <card>
       <name>Overflowing Chest</name>
@@ -4572,7 +4558,7 @@ When Metallic Mauler enters the battlefield, if X is 5 or greater, you may disca
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Overflowing Chest enters the battlefield, each player exiles the top card of their library.
+      <text>When Overflowing Chest enters, each player exiles the top card of their library.
 During each player’s turn, that player may play a card from among cards exiled with Overflowing Chest. If it’s a spell, mana of any type can be spent to cast it. When they do, that card’s owner exiles the top card of their library.</text>
     </card>
     <card>
@@ -4588,7 +4574,7 @@ During each player’s turn, that player may play a card from among cards exiled
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Spectral Rocketeer enters the battlefield, create two 1/1 black Dragon Spirit creature tokens with flying.
+When Spectral Rocketeer enters, create two 1/1 black Dragon Spirit creature tokens with flying.
 Whenever you attack, you may sacrifice an artifact or creature. When you do, Spectral Rocketeer deals 2 damage to any target.</text>
     </card>
     <card>
@@ -4634,7 +4620,7 @@ This creature gets +1/+1 for each creature card in your graveyard.</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Fogbound Lake enters the battlefield tapped. As it enters, choose a color.
+      <text>Fogbound Lake enters tapped. As it enters, choose a color.
 {T}: Add {U} or one mana of the chosen color.
 Cycling {3} ({3}, Discard this card: Draw a card.)</text>
     </card>
@@ -4665,9 +4651,9 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-Whenever you cast an artifact or enchantment spell, scry 1.
+Whenever another artifact or enchantment you control enters, scry 1.
 4+ Power B2F
-Whenever you cast an artifact or enchantment spell, put a +1/+1 counter on up to one target creature.
+Whenever another artifact or enchantment you control enters, put a +1/+1 counter on up to one target creature.
 8+ Power B3F
 Prevent all damage that would be dealt to enchanted and equipped creatures you control.</text>
     </card>
@@ -4683,7 +4669,7 @@ Prevent all damage that would be dealt to enchanted and equipped creatures you c
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-When Frosty Forest enters the battlefield, tap up to one target creature and put two stun counters on it.
+When Frosty Forest enters, tap up to one target creature and put two stun counters on it.
 5+ Power B2F
 At the beginning of your end step, untap each creature you control.
 12+ Power B3F
@@ -4701,7 +4687,7 @@ When you reach B3F, create an 8/8 blue Elemental Bird creature token with flying
       </prop>
       <tablerow>1</tablerow>
       <text>(When you attack, you may add the next floor’s ability if you control attacking creatures with enough total power.)
-When Abyssal Badlands enters the battlefield, each opponent sacrifices a creature.
+When Abyssal Badlands enters, each opponent sacrifices a creature.
 7+ Power B3F
 At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on up to one target creature.
 12+ Power B2F
@@ -4757,7 +4743,7 @@ When you reach 3F, for each creature you control with a +1/+1 counter on it, ret
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)
+Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
 At the beginning of your end step, untap up to two target lands.</text>
     </card>
     <card>
@@ -4773,11 +4759,515 @@ At the beginning of your end step, untap up to two target lands.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Landfall — Whenever a land enters the battlefield under your control, if you don’t control an Illusion, create a 5/5 red Elder Beast Illusion token with reach, trample, and “Whenever this creature deals damage or is dealt damage, sacrifice it.”</text>
+Landfall — Whenever a land you control enters, if you don’t control an Illusion, create a 5/5 red Elder Beast Illusion token with reach, trample, and “Whenever this creature deals damage or is dealt damage, sacrifice it.”</text>
+    </card>
+    <card>
+      <name>Dungeon Storefront</name>
+      <set rarity="rare">PMD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}: You and Dungeon Storefront’s controller each choose one. Only your opponents may activate this ability.
+• You gain 3 life.
+• Draw a card.
+• Add two mana in any combination of colors.
+• Put a +1/+1 counter on a creature you control.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Hero of Endless Possibility</name>
+      <set rarity="">PMD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Fox Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(You always have access to this card to use as your commander during deckbuilding.)
+When Hero of Endless Possibility enters the battlefield, survey. (Scry 2 or search for a basic land, put it into your hand, then shuffle.)
+Partner</text>
     </card>
 
     <!-->Tokens</-->
 
+    <card>
+      <name>Aura</name>
+      <set>PMD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack you or block creatures you control.</text>
+      <token>1</token>
+      <reverse-related>Worldcore Wishes</reverse-related>
+    </card>
+    <card>
+      <name>Dunsparce, Faithful Friend</name>
+      <set>PMD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Legendary Token Creature - Snake Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Target creature can’t block this turn.</text>
+      <token>1</token>
+      <reverse-related>Emolga, Impetuous Ally</reverse-related>
+    </card>
+    <card>
+      <name>White Elemental Bird</name>
+      <set>PMD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Elemental Bird </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Mount Thunder</reverse-related>
+    </card>
+    <card>
+      <name>Jackal Ranger</name>
+      <set>PMD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Jackal Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Aura Bolt</reverse-related>
+      <reverse-related count="2">Expedition Rally</reverse-related>
+      <reverse-related>Treasure Town</reverse-related>
+      <reverse-related>Guildmaster Wigglytuff</reverse-related>
+      <reverse-related>Radiant Aura</reverse-related>
+      <reverse-related>Serene Village Caretaker</reverse-related>
+      <reverse-related>Party Leader</reverse-related>
+      <reverse-related count="3">Meeting of Explorers</reverse-related>
+      <reverse-related>Quagsire, Criminal Reformer</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/autobottesla/gallery</reverse-related>
+    </card>
+    <card>
+      <name>Spirit</name>
+      <set>PMD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Blue Elemental Bird</name>
+      <set>PMD</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Elemental Bird </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Frosty Forest</reverse-related>
+      <reverse-related>https//wwwtumblrcom/friedunicornstudio</reverse-related>
+    </card>
+    <card>
+      <name>Alien</name>
+      <set>PMD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Alien </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{T}: Each opponent loses 1 life and you gain 1 life.</text>
+      <token>1</token>
+      <reverse-related>Nuzleaf, Servant of Dark Matter</reverse-related>
+      <reverse-related>tcg</reverse-related>
+    </card>
+    <card>
+      <name>Curse</name>
+      <set>PMD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Enchantment - Aura Curse </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant player
+At the beginning of your upkeep, you lose 1 life.</text>
+      <token>1</token>
+      <reverse-related>Ninetales, Bearer of Curses</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/rajewel/art/Fox-Fire-817835575</reverse-related>
+    </card>
+    <card>
+      <name>Dragon Spirit</name>
+      <set>PMD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Dragon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related count="2">Spectral Rocketeer</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/min-mew/art/Dreepy-849283041</reverse-related>
+    </card>
+    <card>
+      <name>Nightmare</name>
+      <set>PMD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, mill cards until you mill a black card.</text>
+      <token>1</token>
+      <reverse-related>Dark Matter</reverse-related>
+      <reverse-related count="3">Creeping Shadows</reverse-related>
+    </card>
+    <card>
+      <name>Elder Beast Illusion</name>
+      <set>PMD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elder Beast Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, trample
+Whenever this creature deals damage or is dealt damage, sacrifice it.</text>
+      <token>1</token>
+      <reverse-related>Uxie of Fogbound Lake</reverse-related>
+      <reverse-related>https//wwwtumblrcom/blehcado</reverse-related>
+    </card>
+    <card>
+      <name>Red Elemental Bird</name>
+      <set>PMD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental Bird </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Mount Blaze</reverse-related>
+      <reverse-related>https//wwwtumblrcom/lilystrations/711171977301327872/autumn-heat-next-up-for-the-legendary-squawkers</reverse-related>
+    </card>
+    <card>
+      <name>Elemental Wall</name>
+      <set>PMD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental Wall </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, reach
+At the beginning of your upkeep, sacrifice this creature.</text>
+      <token>1</token>
+      <reverse-related>Hero of Incendiary Unity</reverse-related>
+    </card>
+    <card>
+      <name>Goblin</name>
+      <set>PMD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Goblin </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)
+This creature can’t block.</text>
+      <token>1</token>
+      <reverse-related>Crystalline Feast</reverse-related>
+      <reverse-related count="2">Goblin Gem-Boss</reverse-related>
+      <reverse-related count="2">Dusknoir, the Betrayer</reverse-related>
+    </card>
+    <card>
+      <name>Insect</name>
+      <set>PMD</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Unlikely Teammate</reverse-related>
+      <reverse-related>Apple Woods</reverse-related>
+      <reverse-related count="2">Loam Bruiser</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/rileykitty/art/A-Sip-of-Sap-507394697</reverse-related>
+    </card>
+    <card>
+      <name>Gardevoir</name>
+      <set>PMD</set>
+      <prop>
+        <colors>UR</colors>
+        <type>Token Legendary Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>Lopunny of Team Charm</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/tonyficticium/art/Gardevoir-483661333</reverse-related>
+    </card>
+    <card>
+      <name>Medicham</name>
+      <set>PMD</set>
+      <prop>
+        <colors>WG</colors>
+        <type>Token Legendary Creature - Monk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: Add three mana of different colors.</text>
+      <token>1</token>
+      <reverse-related>Lopunny of Team Charm</reverse-related>
+    </card>
+    <card>
+      <name>Bone Club</name>
+      <set>PMD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0 and has menace. (That creature can’t be blocked except by two or more creatures.)
+Equip {2}</text>
+      <token>1</token>
+      <reverse-related>Hero of Dreaded Knight</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/umberoff/art/lavender-627434182</reverse-related>
+    </card>
+    <card>
+      <name>Entercard</name>
+      <set>PMD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Entercard </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}: Scry 1.</text>
+      <token>1</token>
+      <reverse-related>Scholar of the Sun</reverse-related>
+      <reverse-related>Scholar of the Moon</reverse-related>
+    </card>
+    <card>
+      <name>Food</name>
+      <set>PMD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Token - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+      <token>1</token>
+      <reverse-related>Guild Cuisinier</reverse-related>
+      <reverse-related count="2">Apple Woods</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/chromatic-drip/art/Dinnertime-In-Wigglytuff-s-Guild-752029874</reverse-related>
+    </card>
+    <card>
+      <name>Scalchop</name>
+      <set>PMD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {1}</text>
+      <token>1</token>
+      <reverse-related>Scalchop Blademaster</reverse-related>
+      <reverse-related>Hero of Daring Guardianship</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/yassui/art/Scalchop-Brothers-329643719</reverse-related>
+    </card>
+    <card>
+      <name>Sky Gift</name>
+      <set>PMD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Choose one. Sky Gift’s owner also chooses one.
+• Put three +1/+1 counters on target creature.
+• Draw a card. You gain 3 life.</text>
+      <token>1</token>
+      <reverse-related>Shaymin of Sky Peak</reverse-related>
+    </card>
+    <card>
+      <name>Space Globe</name>
+      <set>PMD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>WUBRG, {T}, Tap an untapped commander you control: Target player loses 493 life.</text>
+      <token>1</token>
+      <reverse-related>Destiny Tower</reverse-related>
+    </card>
+    <card>
+      <name>Time Gear</name>
+      <set>PMD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {U}.</text>
+      <token>1</token>
+      <reverse-related>Celebi, Temporal Voyager</reverse-related>
+      <reverse-related>Grovyle, the Thief of Time</reverse-related>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>PMD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Lookalike Switcheroo</reverse-related>
+      <reverse-related count="2">Avaricious Merchant</reverse-related>
+      <reverse-related>Bring to Justice</reverse-related>
+      <reverse-related>Draconic Veteran</reverse-related>
+      <reverse-related>Hero of Gilded Trickery</reverse-related>
+      <reverse-related>Legendary Treasures</reverse-related>
+      <reverse-related>Skittering Plunderer</reverse-related>
+      <reverse-related>Treasure Hoarders</reverse-related>
+      <reverse-related count="3">Alakazam&apos;s Pursuit</reverse-related>
+      <reverse-related>Armaldo, Reformed Renegade</reverse-related>
+      <reverse-related>Bank Manager</reverse-related>
+      <reverse-related>Crystal Crossing</reverse-related>
+      <reverse-related>Crystalline Feast</reverse-related>
+      <reverse-related>Pilfering Pair</reverse-related>
+      <reverse-related>Prepare for the Journey</reverse-related>
+      <reverse-related>Stompstump Peak</reverse-related>
+      <reverse-related>Victini, the Wind of Fortune</reverse-related>
+      <reverse-related>Architect of Paradise</reverse-related>
+      <reverse-related count="2">Most Wanted</reverse-related>
+      <reverse-related count="5">Destiny Tower</reverse-related>
+      <reverse-related>Mawile, Expedition Archivist</reverse-related>
+      <reverse-related>Gilded Shopkeeper</reverse-related>
+      <reverse-related>Ionization Enforcer</reverse-related>
+      <reverse-related>Mission Mailbox</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/littleanchovy/art/Finding-treasure-Ground-Pokemon-Contest-Entry-324608277</reverse-related>
+    </card>
 
   </cards>
 </cockatrice_carddatabase>
