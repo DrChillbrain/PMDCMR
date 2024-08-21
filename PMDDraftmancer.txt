@@ -5,7 +5,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Legendary Creature — Dinosaur Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Flourishing Life.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Flourishing Life.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rugged Endurance.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Rugged Endurance.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Legendary Creature — Lizard Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Blazing Will.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Blazing Will.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mystery of the Relic.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mystery of the Relic.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Legendary Creature — Turtle Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Bold Cunning.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Bold Cunning.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Plant Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Enthusiastic Scout.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Enthusiastic Scout.png"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Discharge.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Discharge.png"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/All-Out Brawl.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/All-Out Brawl.png"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Through the Sea of Time.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Through the Sea of Time.png"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/All for One.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/All for One.png"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Meeting of Explorers.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Meeting of Explorers.png"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Bring to Justice.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Bring to Justice.png"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Eternal Oath.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Eternal Oath.png"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Crystal Crossing.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Crystal Crossing.png"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mystifying Forest.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mystifying Forest.png"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Drilbur Coal Mine.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Drilbur Coal Mine.png"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dimensional Scream.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dimensional Scream.png"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Buried Relic.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Buried Relic.png"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Vast Ice Mountain.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Vast Ice Mountain.png"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mount Thunder.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mount Thunder.png"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Charge Beam.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Charge Beam.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Apple Woods.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Apple Woods.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Bear Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ditzy Bartender.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Ditzy Bartender.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Blizzard Island.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Blizzard Island.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Legendary Creature — Mouse Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Thunderous Defiance.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Thunderous Defiance.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Horse Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Merchant Caravan.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Merchant Caravan.png"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Legendary Creature — Cat Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Gilded Trickery.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Gilded Trickery.png"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Legendary Creature — Mouse Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Incendiary Unity.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Incendiary Unity.png"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Legendary Creature — Crocodile Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Furtive Might.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Furtive Might.png"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Legendary Creature — Salamander Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Eager Spirit.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Eager Spirit.png"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Legendary Creature — Bird Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Intrepid Aspiration.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Intrepid Aspiration.png"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Legendary Creature — Lizard Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Verdant Guile.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Verdant Guile.png"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Jackal Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Courageous Aura.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Courageous Aura.png"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Legendary Creature — Bird Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Fierce Nobility.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Fierce Nobility.png"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Legendary Creature — Monkey Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Covetous Impulse.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Covetous Impulse.png"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Legendary Creature — Turtle Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Radiant Growth.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Radiant Growth.png"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Creature — Snake Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Fearsome Wilds.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Fearsome Wilds.png"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Legendary Creature — Otter Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Daring Guardianship.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Daring Guardianship.png"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Legendary Creature — Elephant Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Untamed Strength.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Untamed Strength.png"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Creature — Fox Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Strange Magics.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Strange Magics.png"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "{5}{B}",
 	        "type": "Legendary Creature — Frog Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Subtle Mischief.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Subtle Mischief.png"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Legendary Creature — Squirrel Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Girded Leadership.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Girded Leadership.png"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Legendary Creature — Bird Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Odd Imagination.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Odd Imagination.png"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Legendary Creature — Cat Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Sparking Soul.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Sparking Soul.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Creature — Fox Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Ghostly Communion.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Ghostly Communion.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Power of Evolution.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Power of Evolution.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Parting.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Parting.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mend Wounds.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mend Wounds.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Faerie Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeoneer Guide.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dungeoneer Guide.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Dragon Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Roughousing Whelp.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Roughousing Whelp.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dark Crater.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dark Crater.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Crystal Formation.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Crystal Formation.png"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Howl.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Howl.png"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Temporal Struggle.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Temporal Struggle.png"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aura Sphere.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Aura Sphere.png"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Droning Study.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Droning Study.png"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Creature — Dragon Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Draconic Veteran.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Draconic Veteran.png"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{3}{B}{R}",
 	        "type": "Legendary Creature — Bird Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Yveltal of the Voidlands.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Yveltal of the Voidlands.png"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sky Tower.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sky Tower.png"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "",
 	        "type": "Enchantment Land — Forest Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Tree of Life.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Tree of Life.png"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Glacier Palace.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Glacier Palace.png"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dialga's Fight to the Finish.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dialga's Fight to the Finish.png"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Boon of the Wish-Giver.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Boon of the Wish-Giver.png"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Star Cave.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Star Cave.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Scorpion Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Skittering Plunderer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Skittering Plunderer.png"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Cat Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Icy Trickster.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Icy Trickster.png"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rescue Headquarters.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Rescue Headquarters.png"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Helpless Grub.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Helpless Grub.png"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/All Turned Around.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/All Turned Around.png"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Beast Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Guild Cuisinier.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Guild Cuisinier.png"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Behold the Sunrise.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Behold the Sunrise.png"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Creature — Dragon Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Draconic Bravery.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Draconic Bravery.png"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Abrupt Awakening.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Abrupt Awakening.png"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Journey to the Hidden Land.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Journey to the Hidden Land.png"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/A Storm at Sea.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/A Storm at Sea.png"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Legendary Artifact Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Jirachi, the Wishmaker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Jirachi, the Wishmaker.png"
 	        }
 	    },
 	    {
@@ -689,7 +689,7 @@
 	        "mana_cost": "{5}{U}{B}",
 	        "type": "Legendary Artifact Creature — Elder Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Primal Dialga, the End of Time.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Primal Dialga, the End of Time.png"
 	        }
 	    },
 	    {
@@ -698,7 +698,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Legendary Creature — Elemental Incarnation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/The Bittercold.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/The Bittercold.png"
 	        }
 	    },
 	    {
@@ -707,7 +707,7 @@
 	        "mana_cost": "{B}{B}{B}{B}",
 	        "type": "Legendary Creature — Nightmare Incarnation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dark Matter.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dark Matter.png"
 	        }
 	    },
 	    {
@@ -716,7 +716,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Expedition Rally.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Expedition Rally.png"
 	        }
 	    },
 	    {
@@ -725,7 +725,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Legendary Creature — Cat Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mew, Thousand-Faced Hero.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mew, Thousand-Faced Hero.png"
 	        }
 	    },
 	    {
@@ -734,7 +734,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Leyline Breakthrough.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Leyline Breakthrough.png"
 	        }
 	    },
 	    {
@@ -743,7 +743,7 @@
 	        "mana_cost": "{3}{G}{W}",
 	        "type": "Legendary Creature — Dragon Incarnation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hydreigon, the Voice of Life.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hydreigon, the Voice of Life.png"
 	        }
 	    },
 	    {
@@ -752,7 +752,7 @@
 	        "mana_cost": "{X}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Memories Returned.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Memories Returned.png"
 	        }
 	    },
 	    {
@@ -761,7 +761,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aura Bolt.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Aura Bolt.png"
 	        }
 	    },
 	    {
@@ -770,7 +770,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Legendary Creature — Nightmare Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Darkrai, Waking Nightmare.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Darkrai, Waking Nightmare.png"
 	        }
 	    },
 	    {
@@ -779,7 +779,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Fox Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Scholar of the Sun.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Scholar of the Sun.png"
 	        }
 	    },
 	    {
@@ -788,7 +788,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Fox Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Scholar of the Moon.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Scholar of the Moon.png"
 	        }
 	    },
 	    {
@@ -797,7 +797,7 @@
 	        "mana_cost": "{3}{B}{G}",
 	        "type": "Legendary Creature — Plant Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Nuzleaf, Servant of Dark Matter.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Nuzleaf, Servant of Dark Matter.png"
 	        }
 	    },
 	    {
@@ -806,7 +806,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Lizard Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Vengeful Shopkeeper.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Vengeful Shopkeeper.png"
 	        }
 	    },
 	    {
@@ -815,7 +815,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Tearful Reunion.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Tearful Reunion.png"
 	        }
 	    },
 	    {
@@ -824,7 +824,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Lizard Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sandstorm Historian.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sandstorm Historian.png"
 	        }
 	    },
 	    {
@@ -833,7 +833,7 @@
 	        "mana_cost": "{8}{W}{W}",
 	        "type": "Legendary Creature — Elder Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rayquaza, Lord of the Sky.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Rayquaza, Lord of the Sky.png"
 	        }
 	    },
 	    {
@@ -842,7 +842,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Harmony Scarf.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Harmony Scarf.png"
 	        }
 	    },
 	    {
@@ -851,7 +851,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Legendary Creature — Elk Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Virizion, the Solitary Sword.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Virizion, the Solitary Sword.png"
 	        }
 	    },
 	    {
@@ -860,7 +860,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Seek Paradise.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Seek Paradise.png"
 	        }
 	    },
 	    {
@@ -869,7 +869,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Legendary Creature — Squirrel Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Emolga, Impetuous Ally.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Emolga, Impetuous Ally.png"
 	        }
 	    },
 	    {
@@ -878,7 +878,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Legendary Creature — Fox Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ninetales, Bearer of Curses.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Ninetales, Bearer of Curses.png"
 	        }
 	    },
 	    {
@@ -887,7 +887,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Legendary Creature — Bird Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Chatot, Chattering Sycophant.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Chatot, Chattering Sycophant.png"
 	        }
 	    },
 	    {
@@ -896,7 +896,7 @@
 	        "mana_cost": "{X}{B}{R}",
 	        "type": "Legendary Creature — Tapir Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Drowzee, Somnovorous Outlaw.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Drowzee, Somnovorous Outlaw.png"
 	        }
 	    },
 	    {
@@ -905,7 +905,7 @@
 	        "mana_cost": "{R}{G}",
 	        "type": "Legendary Creature — Beast Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ampharos, the Dashing Wanderer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Ampharos, the Dashing Wanderer.png"
 	        }
 	    },
 	    {
@@ -914,7 +914,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Legendary Creature — Rabbit Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Guildmaster Wigglytuff.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Guildmaster Wigglytuff.png"
 	        }
 	    },
 	    {
@@ -923,7 +923,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Legendary Creature — Spirit Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Munna, Doomspeaker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Munna, Doomspeaker.png"
 	        }
 	    },
 	    {
@@ -932,7 +932,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Legendary Creature — Bird Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Xatu, Grand Seer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Xatu, Grand Seer.png"
 	        }
 	    },
 	    {
@@ -941,7 +941,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Legendary Creature — Fox Wizard Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Alakazam, Ranger of Renown.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Alakazam, Ranger of Renown.png"
 	        }
 	    },
 	    {
@@ -950,7 +950,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Legendary Creature — Boar Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Furious Force.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Furious Force.png"
 	        }
 	    },
 	    {
@@ -959,7 +959,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Legendary Creature — Giant Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Undaunted Discovery.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Undaunted Discovery.png"
 	        }
 	    },
 	    {
@@ -968,7 +968,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Creature — Bear Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Tranquil Plenitude.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Tranquil Plenitude.png"
 	        }
 	    },
 	    {
@@ -977,7 +977,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Cat Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Eternal Bonds.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Eternal Bonds.png"
 	        }
 	    },
 	    {
@@ -986,7 +986,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Creature — Dinosaur Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Dreaded Night.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Dreaded Night.png"
 	        }
 	    },
 	    {
@@ -995,7 +995,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Legendary Creature — Spirit Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dusknoir, the Betrayer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dusknoir, the Betrayer.png"
 	        }
 	    },
 	    {
@@ -1004,7 +1004,7 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Legendary Creature — Rabbit Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Lopunny of Team Charm.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Lopunny of Team Charm.png"
 	        }
 	    },
 	    {
@@ -1013,7 +1013,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Legendary Creature — Unicorn Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Keldeo, Intrepid Soul.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Keldeo, Intrepid Soul.png"
 	        }
 	    },
 	    {
@@ -1022,7 +1022,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Legendary Creature — Beast Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Absol, Doomsday Messenger.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Absol, Doomsday Messenger.png"
 	        }
 	    },
 	    {
@@ -1031,7 +1031,7 @@
 	        "mana_cost": "{4}{B}{G}",
 	        "type": "Legendary Creature — Spirit Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gengar, the Selfish Master.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Gengar, the Selfish Master.png"
 	        }
 	    },
 	    {
@@ -1040,7 +1040,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Legendary Artifact Creature — Faerie Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mawile, Expedition Archivist.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mawile, Expedition Archivist.png"
 	        }
 	    },
 	    {
@@ -1049,7 +1049,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Darkrai's Scheme.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Darkrai's Scheme.png"
 	        }
 	    },
 	    {
@@ -1058,7 +1058,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Splendid Origin.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Splendid Origin.png"
 	        }
 	    },
 	    {
@@ -1067,7 +1067,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Borrowed Time.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Borrowed Time.png"
 	        }
 	    },
 	    {
@@ -1076,7 +1076,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Fox Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Arcane Spelunker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Arcane Spelunker.png"
 	        }
 	    },
 	    {
@@ -1085,7 +1085,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Victory Fire.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Victory Fire.png"
 	        }
 	    },
 	    {
@@ -1094,7 +1094,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Rabbit Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Callous Illuminator.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Callous Illuminator.png"
 	        }
 	    },
 	    {
@@ -1103,7 +1103,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Fox Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sparking Seeker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sparking Seeker.png"
 	        }
 	    },
 	    {
@@ -1112,7 +1112,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Erratic Inferno.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Erratic Inferno.png"
 	        }
 	    },
 	    {
@@ -1121,7 +1121,7 @@
 	        "mana_cost": "{3}{G}{G}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Its A Monster House.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Its A Monster House.png"
 	        }
 	    },
 	    {
@@ -1130,7 +1130,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Dinosaur Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Soulstoke Channeler.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Soulstoke Channeler.png"
 	        }
 	    },
 	    {
@@ -1139,7 +1139,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Goblin Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Goblin Gem-Boss.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Goblin Gem-Boss.png"
 	        }
 	    },
 	    {
@@ -1148,7 +1148,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Crystalline Feast.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Crystalline Feast.png"
 	        }
 	    },
 	    {
@@ -1157,7 +1157,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Insect Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mastermind Outlaw.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mastermind Outlaw.png"
 	        }
 	    },
 	    {
@@ -1166,7 +1166,7 @@
 	        "mana_cost": "{6}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aspect of Jealousy.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Aspect of Jealousy.png"
 	        }
 	    },
 	    {
@@ -1175,7 +1175,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Temporal Tower.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Temporal Tower.png"
 	        }
 	    },
 	    {
@@ -1184,7 +1184,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Welcome to the Team.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Welcome to the Team.png"
 	        }
 	    },
 	    {
@@ -1193,7 +1193,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Arcane Stairwell.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Arcane Stairwell.png"
 	        }
 	    },
 	    {
@@ -1202,7 +1202,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Diligence.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Diligence.png"
 	        }
 	    },
 	    {
@@ -1211,7 +1211,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Legendary Creature — Faerie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Celebi, Temporal Voyager.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Celebi, Temporal Voyager.png"
 	        }
 	    },
 	    {
@@ -1220,7 +1220,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Creature — Skunk Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Skuntank of Team Skull.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Skuntank of Team Skull.png"
 	        }
 	    },
 	    {
@@ -1229,7 +1229,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Legendary Creature — Salamander Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Quagsire, Criminal Reformer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Quagsire, Criminal Reformer.png"
 	        }
 	    },
 	    {
@@ -1238,7 +1238,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Creature — Spirit Faerie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gardevoir, Spirit Guide.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Gardevoir, Spirit Guide.png"
 	        }
 	    },
 	    {
@@ -1247,7 +1247,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Legendary Creature — Plant Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Shaymin of Sky Peak.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Shaymin of Sky Peak.png"
 	        }
 	    },
 	    {
@@ -1256,7 +1256,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Legendary Creature — Faerie Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Victini, the Wind of Fortune.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Victini, the Wind of Fortune.png"
 	        }
 	    },
 	    {
@@ -1265,7 +1265,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Connection Orb.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Connection Orb.png"
 	        }
 	    },
 	    {
@@ -1274,7 +1274,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Legendary Creature — Shrimp Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Armaldo, Reformed Renegade.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Armaldo, Reformed Renegade.png"
 	        }
 	    },
 	    {
@@ -1283,7 +1283,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/The Relic Fragment.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/The Relic Fragment.png"
 	        }
 	    },
 	    {
@@ -1292,7 +1292,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Legendary Creature — Dinosaur Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Archen, Aerial Explorer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Archen, Aerial Explorer.png"
 	        }
 	    },
 	    {
@@ -1301,7 +1301,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Outlaw Notice Board.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Outlaw Notice Board.png"
 	        }
 	    },
 	    {
@@ -1310,7 +1310,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Last-Minute Preparation.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Last-Minute Preparation.png"
 	        }
 	    },
 	    {
@@ -1319,7 +1319,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Misleading Map.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Misleading Map.png"
 	        }
 	    },
 	    {
@@ -1328,7 +1328,7 @@
 	        "mana_cost": "{7}",
 	        "type": "Artifact Creature — Bird Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Chrome Kidnapper.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Chrome Kidnapper.png"
 	        }
 	    },
 	    {
@@ -1337,7 +1337,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Seed Flare.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Seed Flare.png"
 	        }
 	    },
 	    {
@@ -1346,7 +1346,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Spacial Rend.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Spacial Rend.png"
 	        }
 	    },
 	    {
@@ -1355,7 +1355,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Roar of Time.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Roar of Time.png"
 	        }
 	    },
 	    {
@@ -1364,7 +1364,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Spider Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeon Lurker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dungeon Lurker.png"
 	        }
 	    },
 	    {
@@ -1373,7 +1373,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Lively Town.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Lively Town.png"
 	        }
 	    },
 	    {
@@ -1382,7 +1382,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Paradise Sanctum.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Paradise Sanctum.png"
 	        }
 	    },
 	    {
@@ -1391,7 +1391,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Barren Valley.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Barren Valley.png"
 	        }
 	    },
 	    {
@@ -1400,7 +1400,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Great Canyon.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Great Canyon.png"
 	        }
 	    },
 	    {
@@ -1409,7 +1409,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Kyurem's Rampage.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Kyurem's Rampage.png"
 	        }
 	    },
 	    {
@@ -1418,7 +1418,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Raking Claws.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Raking Claws.png"
 	        }
 	    },
 	    {
@@ -1427,7 +1427,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Neutralize.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Neutralize.png"
 	        }
 	    },
 	    {
@@ -1436,7 +1436,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rainbow Stoneship.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Rainbow Stoneship.png"
 	        }
 	    },
 	    {
@@ -1445,7 +1445,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Dog Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Criminal Immolator.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Criminal Immolator.png"
 	        }
 	    },
 	    {
@@ -1454,7 +1454,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Bird Faerie Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aerial Escapist.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Aerial Escapist.png"
 	        }
 	    },
 	    {
@@ -1463,7 +1463,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Restock.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Restock.png"
 	        }
 	    },
 	    {
@@ -1472,7 +1472,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Plant Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Thornbite Brawler.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Thornbite Brawler.png"
 	        }
 	    },
 	    {
@@ -1481,7 +1481,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Feat of Courage.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Feat of Courage.png"
 	        }
 	    },
 	    {
@@ -1490,7 +1490,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Cat Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Collectors of Shiny Objects.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Collectors of Shiny Objects.png"
 	        }
 	    },
 	    {
@@ -1499,7 +1499,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact Creature — Dinosaur Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Borderlands Tromper.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Borderlands Tromper.png"
 	        }
 	    },
 	    {
@@ -1508,7 +1508,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Thunderous Showdown.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Thunderous Showdown.png"
 	        }
 	    },
 	    {
@@ -1517,7 +1517,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Bird Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Avian Cartographer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Avian Cartographer.png"
 	        }
 	    },
 	    {
@@ -1526,7 +1526,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Spirit Raccoon Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Pilfering Pair.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Pilfering Pair.png"
 	        }
 	    },
 	    {
@@ -1535,7 +1535,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Legendary Creature — Elder Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Kyurem, Agent of Disaster.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Kyurem, Agent of Disaster.png"
 	        }
 	    },
 	    {
@@ -1544,7 +1544,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Elemental Bat Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Notorious Duo.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Notorious Duo.png"
 	        }
 	    },
 	    {
@@ -1553,7 +1553,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Insect Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Chitinous Pathfinder.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Chitinous Pathfinder.png"
 	        }
 	    },
 	    {
@@ -1562,7 +1562,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Lookalike Switcheroo.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Lookalike Switcheroo.png"
 	        }
 	    },
 	    {
@@ -1571,7 +1571,7 @@
 	        "mana_cost": "{W}{U}{B}{R}{G}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Destiny Tower.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Destiny Tower.png"
 	        }
 	    },
 	    {
@@ -1580,7 +1580,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Kangaskhan Rock.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Kangaskhan Rock.png"
 	        }
 	    },
 	    {
@@ -1589,7 +1589,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Prize Drawing.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Prize Drawing.png"
 	        }
 	    },
 	    {
@@ -1598,7 +1598,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Wurm Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Craw Companion.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Craw Companion.png"
 	        }
 	    },
 	    {
@@ -1607,7 +1607,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Defend Globe.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Defend Globe.png"
 	        }
 	    },
 	    {
@@ -1616,7 +1616,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mystic Deceiver.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mystic Deceiver.png"
 	        }
 	    },
 	    {
@@ -1625,7 +1625,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Creature — Plant Turtle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Lumbering Inn.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Lumbering Inn.png"
 	        }
 	    },
 	    {
@@ -1634,7 +1634,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Legendary Creature — Elder Elk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Xerneas of the Tree of Life.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Xerneas of the Tree of Life.png"
 	        }
 	    },
 	    {
@@ -1643,7 +1643,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Earthquake.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Earthquake.png"
 	        }
 	    },
 	    {
@@ -1652,7 +1652,7 @@
 	        "mana_cost": "{5}{G}",
 	        "type": "Creature — Treefolk Yeti ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Snowpass Warden.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Snowpass Warden.png"
 	        }
 	    },
 	    {
@@ -1661,7 +1661,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Spirit Ape Berserker ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Unfettered Berserker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Unfettered Berserker.png"
 	        }
 	    },
 	    {
@@ -1670,7 +1670,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Most Wanted.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Most Wanted.png"
 	        }
 	    },
 	    {
@@ -1679,7 +1679,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Spirit Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Cinderblade Invoker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Cinderblade Invoker.png"
 	        }
 	    },
 	    {
@@ -1688,7 +1688,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Infernal Parade.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Infernal Parade.png"
 	        }
 	    },
 	    {
@@ -1697,7 +1697,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Elemental Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Chillwind Invoker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Chillwind Invoker.png"
 	        }
 	    },
 	    {
@@ -1706,7 +1706,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Artifact Creature — Spirit Giant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Soulguide Invoker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Soulguide Invoker.png"
 	        }
 	    },
 	    {
@@ -1715,7 +1715,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Treefolk Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Bleakwood Invoker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Bleakwood Invoker.png"
 	        }
 	    },
 	    {
@@ -1724,7 +1724,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Artifact Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Cryptstone Invoker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Cryptstone Invoker.png"
 	        }
 	    },
 	    {
@@ -1733,7 +1733,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Fox Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Common Crook.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Common Crook.png"
 	        }
 	    },
 	    {
@@ -1742,7 +1742,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Trick of the Trade.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Trick of the Trade.png"
 	        }
 	    },
 	    {
@@ -1751,7 +1751,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Turtle Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hot Springs Sage.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hot Springs Sage.png"
 	        }
 	    },
 	    {
@@ -1760,7 +1760,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mission Mailbox.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mission Mailbox.png"
 	        }
 	    },
 	    {
@@ -1769,7 +1769,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Ooze Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Voracious Ooze.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Voracious Ooze.png"
 	        }
 	    },
 	    {
@@ -1778,7 +1778,7 @@
 	        "mana_cost": "{5}{W}",
 	        "type": "Creature — Bird Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Nest Sentinel.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Nest Sentinel.png"
 	        }
 	    },
 	    {
@@ -1787,7 +1787,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sonic Shatterer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sonic Shatterer.png"
 	        }
 	    },
 	    {
@@ -1796,7 +1796,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Beast Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Elder of the Village.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Elder of the Village.png"
 	        }
 	    },
 	    {
@@ -1805,7 +1805,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Grasp of the Betrayer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Grasp of the Betrayer.png"
 	        }
 	    },
 	    {
@@ -1814,7 +1814,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Defy the Legends.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Defy the Legends.png"
 	        }
 	    },
 	    {
@@ -1823,7 +1823,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Hedgehog Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Needlehide Scout.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Needlehide Scout.png"
 	        }
 	    },
 	    {
@@ -1832,7 +1832,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Spider Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Canopy Scout.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Canopy Scout.png"
 	        }
 	    },
 	    {
@@ -1841,7 +1841,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Elemental Fox Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Breaching Bandit.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Breaching Bandit.png"
 	        }
 	    },
 	    {
@@ -1850,7 +1850,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Nymph ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Enigmatic Youth.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Enigmatic Youth.png"
 	        }
 	    },
 	    {
@@ -1859,7 +1859,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Bird Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/HAPPI Bureaucrat.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/HAPPI Bureaucrat.png"
 	        }
 	    },
 	    {
@@ -1868,7 +1868,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Defy Disappearance.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Defy Disappearance.png"
 	        }
 	    },
 	    {
@@ -1877,7 +1877,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Stair Sense.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Stair Sense.png"
 	        }
 	    },
 	    {
@@ -1886,7 +1886,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Crocodile Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Titanic Rescuer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Titanic Rescuer.png"
 	        }
 	    },
 	    {
@@ -1895,7 +1895,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Spirit Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Unity Chime.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Unity Chime.png"
 	        }
 	    },
 	    {
@@ -1904,7 +1904,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Otter Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Scalchop Blademaster.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Scalchop Blademaster.png"
 	        }
 	    },
 	    {
@@ -1913,7 +1913,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Stir the Swap Cauldron.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Stir the Swap Cauldron.png"
 	        }
 	    },
 	    {
@@ -1922,7 +1922,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Frog Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Thrall of the Bittercold.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Thrall of the Bittercold.png"
 	        }
 	    },
 	    {
@@ -1931,7 +1931,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Cat Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Cutthroat Cohort.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Cutthroat Cohort.png"
 	        }
 	    },
 	    {
@@ -1940,7 +1940,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Weasel Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Fiery Challenger.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Fiery Challenger.png"
 	        }
 	    },
 	    {
@@ -1949,7 +1949,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Eye Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Curious Runes.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Curious Runes.png"
 	        }
 	    },
 	    {
@@ -1958,7 +1958,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Bird Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ember Gliders.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Ember Gliders.png"
 	        }
 	    },
 	    {
@@ -1967,7 +1967,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Giant Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Laborer of Paradise.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Laborer of Paradise.png"
 	        }
 	    },
 	    {
@@ -1976,7 +1976,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Undergrowth Bruiser.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Undergrowth Bruiser.png"
 	        }
 	    },
 	    {
@@ -1985,7 +1985,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Serpent Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Evolutionary Aspirant.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Evolutionary Aspirant.png"
 	        }
 	    },
 	    {
@@ -1994,7 +1994,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sky Uppercut.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sky Uppercut.png"
 	        }
 	    },
 	    {
@@ -2003,7 +2003,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Wolf Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Amp Plains Alpha.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Amp Plains Alpha.png"
 	        }
 	    },
 	    {
@@ -2012,7 +2012,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Power Band.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Power Band.png"
 	        }
 	    },
 	    {
@@ -2021,7 +2021,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Radiant Aura.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Radiant Aura.png"
 	        }
 	    },
 	    {
@@ -2030,7 +2030,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Magnagate.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Magnagate.png"
 	        }
 	    },
 	    {
@@ -2039,7 +2039,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Astral Atlas.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Astral Atlas.png"
 	        }
 	    },
 	    {
@@ -2048,7 +2048,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Personality Test.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Personality Test.png"
 	        }
 	    },
 	    {
@@ -2057,7 +2057,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Bird Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Quest Courier.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Quest Courier.png"
 	        }
 	    },
 	    {
@@ -2066,7 +2066,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sugar Rush.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sugar Rush.png"
 	        }
 	    },
 	    {
@@ -2075,7 +2075,7 @@
 	        "mana_cost": "{5}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rainbows of Hope.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Rainbows of Hope.png"
 	        }
 	    },
 	    {
@@ -2084,7 +2084,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Accidental Incineration.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Accidental Incineration.png"
 	        }
 	    },
 	    {
@@ -2093,7 +2093,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Gnome Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Faefolk Ironwright.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Faefolk Ironwright.png"
 	        }
 	    },
 	    {
@@ -2102,7 +2102,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Ferret Weasel Raccoon Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gang of Thieves.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Gang of Thieves.png"
 	        }
 	    },
 	    {
@@ -2111,7 +2111,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Giant Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Architect of Paradise.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Architect of Paradise.png"
 	        }
 	    },
 	    {
@@ -2120,7 +2120,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Lizard Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Martial Scamp.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Martial Scamp.png"
 	        }
 	    },
 	    {
@@ -2129,7 +2129,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Dryad Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Shifty Capo.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Shifty Capo.png"
 	        }
 	    },
 	    {
@@ -2138,7 +2138,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Snake Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Conniving Lackey.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Conniving Lackey.png"
 	        }
 	    },
 	    {
@@ -2147,7 +2147,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sentry Duty.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sentry Duty.png"
 	        }
 	    },
 	    {
@@ -2156,7 +2156,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Travel Liner Pass.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Travel Liner Pass.png"
 	        }
 	    },
 	    {
@@ -2165,7 +2165,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Where To Next.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Where To Next.png"
 	        }
 	    },
 	    {
@@ -2174,7 +2174,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Lizard Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Thundering Punks.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Thundering Punks.png"
 	        }
 	    },
 	    {
@@ -2183,7 +2183,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Calamitous Meteor.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Calamitous Meteor.png"
 	        }
 	    },
 	    {
@@ -2192,7 +2192,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/On the Run.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/On the Run.png"
 	        }
 	    },
 	    {
@@ -2201,7 +2201,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mew's Rebirth.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mew's Rebirth.png"
 	        }
 	    },
 	    {
@@ -2210,7 +2210,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hydreigon's Call.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hydreigon's Call.png"
 	        }
 	    },
 	    {
@@ -2219,7 +2219,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dusknoir's Redemption.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dusknoir's Redemption.png"
 	        }
 	    },
 	    {
@@ -2228,7 +2228,7 @@
 	        "mana_cost": "{4}{U}{U}{U}",
 	        "type": "Artifact Creature — Robot Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Laboratory Sentinel.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Laboratory Sentinel.png"
 	        }
 	    },
 	    {
@@ -2237,7 +2237,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Mongoose Berserker ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Scourge of the Dunes.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Scourge of the Dunes.png"
 	        }
 	    },
 	    {
@@ -2246,7 +2246,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sheer Mountain Range.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sheer Mountain Range.png"
 	        }
 	    },
 	    {
@@ -2255,7 +2255,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gather the Team.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Gather the Team.png"
 	        }
 	    },
 	    {
@@ -2264,7 +2264,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Raccoon Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Eager Adventurer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Eager Adventurer.png"
 	        }
 	    },
 	    {
@@ -2273,7 +2273,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Dinosaur Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hidden Land Guide.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hidden Land Guide.png"
 	        }
 	    },
 	    {
@@ -2282,7 +2282,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Frism.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Frism.png"
 	        }
 	    },
 	    {
@@ -2291,7 +2291,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Message from a Friend.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Message from a Friend.png"
 	        }
 	    },
 	    {
@@ -2300,7 +2300,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Weasel Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Party Leader.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Party Leader.png"
 	        }
 	    },
 	    {
@@ -2309,7 +2309,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Frog Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Swift Guardian.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Swift Guardian.png"
 	        }
 	    },
 	    {
@@ -2318,7 +2318,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Teleport Gem.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Teleport Gem.png"
 	        }
 	    },
 	    {
@@ -2327,7 +2327,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Legendary Treasures.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Legendary Treasures.png"
 	        }
 	    },
 	    {
@@ -2336,7 +2336,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Legendary Creature — Dinosaur Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Valiant Audacity.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Valiant Audacity.png"
 	        }
 	    },
 	    {
@@ -2345,7 +2345,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Bird Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Kindly Innkeeper.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Kindly Innkeeper.png"
 	        }
 	    },
 	    {
@@ -2354,7 +2354,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Weasel Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aquatic Scout.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Aquatic Scout.png"
 	        }
 	    },
 	    {
@@ -2363,7 +2363,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Team Badge.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Team Badge.png"
 	        }
 	    },
 	    {
@@ -2372,7 +2372,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Conked Out.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Conked Out.png"
 	        }
 	    },
 	    {
@@ -2381,7 +2381,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Bird Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Unlikely Teammate.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Unlikely Teammate.png"
 	        }
 	    },
 	    {
@@ -2390,7 +2390,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Join Forces.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Join Forces.png"
 	        }
 	    },
 	    {
@@ -2399,7 +2399,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/A Long Way Up.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/A Long Way Up.png"
 	        }
 	    },
 	    {
@@ -2408,7 +2408,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Swirling Quicksand.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Swirling Quicksand.png"
 	        }
 	    },
 	    {
@@ -2417,7 +2417,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Legendary Creature — Lizard Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Grovyle, the Thief of Time.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Grovyle, the Thief of Time.png"
 	        }
 	    },
 	    {
@@ -2426,7 +2426,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mystic's Staff.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mystic's Staff.png"
 	        }
 	    },
 	    {
@@ -2435,7 +2435,7 @@
 	        "mana_cost": "{X}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/In the Future of Darkness.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/In the Future of Darkness.png"
 	        }
 	    },
 	    {
@@ -2444,7 +2444,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Crocodile Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hired Scoundrel.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hired Scoundrel.png"
 	        }
 	    },
 	    {
@@ -2453,7 +2453,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Terramorphic Expanse.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Terramorphic Expanse.png"
 	        }
 	    },
 	    {
@@ -2462,7 +2462,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Rabbit Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Excavations Expert.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Excavations Expert.png"
 	        }
 	    },
 	    {
@@ -2471,7 +2471,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Worldcore Wishes.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Worldcore Wishes.png"
 	        }
 	    },
 	    {
@@ -2480,7 +2480,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Bond of Friendship.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Bond of Friendship.png"
 	        }
 	    },
 	    {
@@ -2489,7 +2489,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Bird Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Overburdened Postmaster.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Overburdened Postmaster.png"
 	        }
 	    },
 	    {
@@ -2498,7 +2498,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Fox Berserker ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mirage Marauder.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mirage Marauder.png"
 	        }
 	    },
 	    {
@@ -2507,7 +2507,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dark Pulse.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dark Pulse.png"
 	        }
 	    },
 	    {
@@ -2516,7 +2516,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gigaton Hammer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Gigaton Hammer.png"
 	        }
 	    },
 	    {
@@ -2525,7 +2525,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Passage of Time.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Passage of Time.png"
 	        }
 	    },
 	    {
@@ -2534,7 +2534,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Wrack With Grief.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Wrack With Grief.png"
 	        }
 	    },
 	    {
@@ -2543,7 +2543,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Escape Orb.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Escape Orb.png"
 	        }
 	    },
 	    {
@@ -2552,7 +2552,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Creature — Dragon Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Blaze Courier.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Blaze Courier.png"
 	        }
 	    },
 	    {
@@ -2561,7 +2561,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Post Town Bandit.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Post Town Bandit.png"
 	        }
 	    },
 	    {
@@ -2570,7 +2570,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Cat Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeon Guard.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dungeon Guard.png"
 	        }
 	    },
 	    {
@@ -2579,7 +2579,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Berserk Mutation.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Berserk Mutation.png"
 	        }
 	    },
 	    {
@@ -2588,7 +2588,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Spirit Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Avaricious Merchant.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Avaricious Merchant.png"
 	        }
 	    },
 	    {
@@ -2597,7 +2597,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Curious Statue.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Curious Statue.png"
 	        }
 	    },
 	    {
@@ -2606,7 +2606,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Anxious Prodigy.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Anxious Prodigy.png"
 	        }
 	    },
 	    {
@@ -2615,7 +2615,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Daring Rescue.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Daring Rescue.png"
 	        }
 	    },
 	    {
@@ -2624,7 +2624,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/On the Beach at Dusk.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/On the Beach at Dusk.png"
 	        }
 	    },
 	    {
@@ -2633,7 +2633,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Tree on the Hill.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Tree on the Hill.png"
 	        }
 	    },
 	    {
@@ -2642,7 +2642,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Turtle Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Serene Village Caretaker.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Serene Village Caretaker.png"
 	        }
 	    },
 	    {
@@ -2651,7 +2651,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Alakazam's Pursuit.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Alakazam's Pursuit.png"
 	        }
 	    },
 	    {
@@ -2660,7 +2660,7 @@
 	        "mana_cost": "{6}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Creeping Shadows.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Creeping Shadows.png"
 	        }
 	    },
 	    {
@@ -2669,7 +2669,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Camel Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Wasteland Wayfarer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Wasteland Wayfarer.png"
 	        }
 	    },
 	    {
@@ -2678,7 +2678,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Cat Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Bank Manager.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Bank Manager.png"
 	        }
 	    },
 	    {
@@ -2687,7 +2687,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Spirit Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gilded Shopkeeper.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Gilded Shopkeeper.png"
 	        }
 	    },
 	    {
@@ -2696,7 +2696,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeon Pit.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dungeon Pit.png"
 	        }
 	    },
 	    {
@@ -2705,7 +2705,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Pitch In.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Pitch In.png"
 	        }
 	    },
 	    {
@@ -2714,7 +2714,7 @@
 	        "mana_cost": "{5}{G}{G}{G}",
 	        "type": "Creature — Dinosaur Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Rockslide Titan.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Rockslide Titan.png"
 	        }
 	    },
 	    {
@@ -2723,7 +2723,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Creature — Worm Hydra ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Stickyslither Hydra.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Stickyslither Hydra.png"
 	        }
 	    },
 	    {
@@ -2732,7 +2732,7 @@
 	        "mana_cost": "{X}",
 	        "type": "Artifact Creature — Dinosaur Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Metallic Mauler.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Metallic Mauler.png"
 	        }
 	    },
 	    {
@@ -2741,7 +2741,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Overflowing Chest.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Overflowing Chest.png"
 	        }
 	    },
 	    {
@@ -2750,7 +2750,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Dragon Spirit Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Spectral Rocketeer.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Spectral Rocketeer.png"
 	        }
 	    },
 	    {
@@ -2759,7 +2759,7 @@
 	        "mana_cost": "{5}{B}",
 	        "type": "Creature — Fox Shapeshifter Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Ambitious Polymorphist.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Ambitious Polymorphist.png"
 	        }
 	    },
 	    {
@@ -2768,7 +2768,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Treasure Town.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Treasure Town.png"
 	        }
 	    },
 	    {
@@ -2777,7 +2777,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Fogbound Lake.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Fogbound Lake.png"
 	        }
 	    },
 	    {
@@ -2786,7 +2786,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Illusionist's Ploy.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Illusionist's Ploy.png"
 	        }
 	    },
 	    {
@@ -2795,7 +2795,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sky Peak.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sky Peak.png"
 	        }
 	    },
 	    {
@@ -2804,7 +2804,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Frosty Forest.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Frosty Forest.png"
 	        }
 	    },
 	    {
@@ -2813,7 +2813,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Abyssal Badlands.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Abyssal Badlands.png"
 	        }
 	    },
 	    {
@@ -2822,7 +2822,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mount Blaze.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mount Blaze.png"
 	        }
 	    },
 	    {
@@ -2831,7 +2831,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment — Expedition ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Revelation Mountain.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Revelation Mountain.png"
 	        }
 	    },
 	    {
@@ -2840,7 +2840,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Bat Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Windrider Ranger.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Windrider Ranger.png"
 	        }
 	    },
 	    {
@@ -2849,7 +2849,7 @@
 	        "mana_cost": "{2}{G}{U}",
 	        "type": "Legendary Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Uxie of Fogbound Lake.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Uxie of Fogbound Lake.png"
 	        }
 	    },
 	    {
@@ -2858,7 +2858,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dungeon Storefront.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dungeon Storefront.png"
 	        }
 	    },
 	    {
@@ -2867,7 +2867,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Plains.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Plains.png"
 	        }
 	    },
 	    {
@@ -2876,7 +2876,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Island.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Island.png"
 	        }
 	    },
 	    {
@@ -2885,7 +2885,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Swamp.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Swamp.png"
 	        }
 	    },
 	    {
@@ -2894,7 +2894,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Mountain.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Mountain.png"
 	        }
 	    },
 	    {
@@ -2903,7 +2903,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Forest.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Forest.png"
 	        }
 	    },
 	    {
@@ -2912,7 +2912,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Legendary Creature — Fox Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Hero of Endless Possibility.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Hero of Endless Possibility.png"
 	        }
 	    },
 	    {
@@ -2921,7 +2921,7 @@
 	        "mana_cost": "",
 	        "type": "Token Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Aura.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Aura.png"
 	        }
 	    },
 	    {
@@ -2930,7 +2930,7 @@
 	        "mana_cost": "",
 	        "type": "Legendary Token Creature — Snake Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dunsparce, Faithful Friend.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dunsparce, Faithful Friend.png"
 	        }
 	    },
 	    {
@@ -2939,7 +2939,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Elemental Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/White Elemental Bird.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/White Elemental Bird.png"
 	        }
 	    },
 	    {
@@ -2948,7 +2948,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Jackal Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Jackal Ranger.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Jackal Ranger.png"
 	        }
 	    },
 	    {
@@ -2957,7 +2957,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Spirit.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Spirit.png"
 	        }
 	    },
 	    {
@@ -2966,7 +2966,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Elemental Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Blue Elemental Bird.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Blue Elemental Bird.png"
 	        }
 	    },
 	    {
@@ -2975,7 +2975,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Alien ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Alien.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Alien.png"
 	        }
 	    },
 	    {
@@ -2984,7 +2984,7 @@
 	        "mana_cost": "",
 	        "type": "Token Enchantment — Aura Curse ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Curse.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Curse.png"
 	        }
 	    },
 	    {
@@ -2993,7 +2993,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Dragon Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Dragon Spirit.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Dragon Spirit.png"
 	        }
 	    },
 	    {
@@ -3002,7 +3002,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Nightmare.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Nightmare.png"
 	        }
 	    },
 	    {
@@ -3011,7 +3011,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Elder Beast Illusion ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Elder Beast Illusion.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Elder Beast Illusion.png"
 	        }
 	    },
 	    {
@@ -3020,7 +3020,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Elemental Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Red Elemental Bird.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Red Elemental Bird.png"
 	        }
 	    },
 	    {
@@ -3029,7 +3029,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Elemental Wall ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Elemental Wall.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Elemental Wall.png"
 	        }
 	    },
 	    {
@@ -3038,7 +3038,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Goblin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Goblin.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Goblin.png"
 	        }
 	    },
 	    {
@@ -3047,7 +3047,7 @@
 	        "mana_cost": "",
 	        "type": "Token Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Insect.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Insect.png"
 	        }
 	    },
 	    {
@@ -3056,7 +3056,7 @@
 	        "mana_cost": "",
 	        "type": "Token Legendary Creature — Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Gardevoir.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Gardevoir.png"
 	        }
 	    },
 	    {
@@ -3065,7 +3065,7 @@
 	        "mana_cost": "",
 	        "type": "Token Legendary Creature — Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Medicham.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Medicham.png"
 	        }
 	    },
 	    {
@@ -3074,7 +3074,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Bone Club.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Bone Club.png"
 	        }
 	    },
 	    {
@@ -3083,7 +3083,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Entercard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Entercard.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Entercard.png"
 	        }
 	    },
 	    {
@@ -3092,7 +3092,7 @@
 	        "mana_cost": "",
 	        "type": "Artifact Token — Food ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Food.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Food.png"
 	        }
 	    },
 	    {
@@ -3101,7 +3101,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Scalchop.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Scalchop.png"
 	        }
 	    },
 	    {
@@ -3110,7 +3110,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Sky Gift.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Sky Gift.png"
 	        }
 	    },
 	    {
@@ -3119,7 +3119,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Space Globe.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Space Globe.png"
 	        }
 	    },
 	    {
@@ -3128,7 +3128,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Time Gear.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Time Gear.png"
 	        }
 	    },
 	    {
@@ -3137,7 +3137,7 @@
 	        "mana_cost": "",
 	        "type": "Token Artifact — Treasure ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/drchillbrain/pmdcmr/main/pmd-files/Treasure.png"
+	            "en": "https://raw.githubusercontent.com/DrChillbrain/PMDCMR/main/PMD-files/Treasure.png"
 	        }
 	    }
 	]
